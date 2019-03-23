@@ -15,8 +15,7 @@ for line in open('review_train.json', 'r'):
     data.append(json.loads(line))
 
 
-######!!!!!!!!!!!######
-dat = data[0:1000000]
+dat = data
 
 
 reviewslist = copy.deepcopy(dat)
