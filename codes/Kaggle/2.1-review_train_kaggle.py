@@ -7,6 +7,7 @@ import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+from nltk.stem import PorterStemmer
 
 
 data = [] 
@@ -103,7 +104,12 @@ for ind in range(len(reviewslist)):
     #print(text_clean)
     reviewsTEXT_clean[ind]['text']=text_clean
     reviewsTEXT_clean[ind]['text_split']=text_clean.split()
-    reviewsTEXT_clean[ind]['freq']=nltk.FreqDist(reviewsTEXT_clean[ind]['text_split'])
+    ps = PorterStemmer()
+    stem=[]
+    for w in reviewsTEXT_clean[ind]['text_split']:
+        stem.append(ps.stem(w))
+    reviewsTEXT_clean[ind]['text_stem']=stem
+    reviewsTEXT_clean[ind]['freq']=nltk.FreqDist(reviewsTEXT_clean[ind]['text_stem'])
     
 #reviewsTEXT_clean[0]
 
@@ -136,12 +142,20 @@ WORDS=WORDS[0:2000]
 
 #stop_words = set(stopwords.words('english')) 
 stop_words = {'who', 'how', 'him', 'can', 'than', 'these', 'your', 'the', 'while', 'don', 'of', 'on', 'had', 'there', "you've", 'that', 'having', 'himself', "mustn't", 'same', 'are', "won't", 'then', 'itself', 'doing', 'from', 'both', 'where', 'wouldn', 'me', 'off', 'because', 'isn', "you'd", 'whom', 'mustn', 'is', 'themselves', 'no', 'very', 'up', 'd', 'ma', 'yours', 'been', 'ain', 'will', 'a', 'most', 'did', 'with', 'o', 'this', 'during', 'i', "mightn't", "isn't", 'being', 'couldn', 'them', 'not', 'such', 'her', 'some', 'only', "didn't", 'should', 'after', 'our', 'down', 'here', 'about', 'herself', "hadn't", 'but', 'he', 'an', 'am', 't', 'they', 'again', 'll', 've', 'didn', 'into', 'needn', 're', 'nor', "couldn't", 'above', 'all', "should've", 'm', 'other', 'below', "she's", 'just', 'between', 'hasn', 'own', 'yourselves', 'until', 'too', 'which', "shouldn't", 's', "it's", 'his', 'y', 'to', 'over', 'hadn', "shan't", 'does', 'weren', 'shouldn', 'under', "aren't", 'be', "don't", 'any', 'or', "haven't", 'she', 'aren', 'against', 'we', 'in', 'ourselves', 'have', 'won', "wasn't", 'wasn', 'you', 'what', 'mightn', "weren't", 'doesn', 'hers', 'myself', 'shan', 'before', 'more', "wouldn't", 'were', 'each', "doesn't", 'through', 'for', "hasn't", 'by', 'now', 'do', 'has', 'those', 'few', "you'll", 'once', 'it', 'their', 'further', "you're", 'my', 'at', 'when', 'yourself', 'why', 'as', 'was', 'and', 'out', "needn't", 'if', 'haven', 'its', 'theirs', "that'll", 'so', 'ours'}
+ps = PorterStemmer()
+stop_words_stem=[]
+for w in stop_words:
+    stop_words_stem.append(ps.stem(w))
 negWords=set(["wouldn't",'isn','wasn',"weren't", "haven't", "hasn't", "couldn't", "isn't", 'doesn','hasn',"mustn't", 'mightn', 'shan', 'no', "wasn't",'aren', "didn't", "hadn't","don't",'nor',"won't",'weren',"doesn't","needn't", 'shouldn',"mightn't","shan't", 'wouldn',"shouldn't",'hadn'])
+stop_words_negWords=[]
+for w in negWords:
+    stop_words_negWords.append(ps.stem(w))
 d=set(['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','à'])
-stopWords=stop_words-negWords
+stopWords=set(stop_words_stem)-set(stop_words_negWords)
 stopWords.update(d)
 
 WORDS=[x for x in WORDS if x not in stopWords]
+
 
 
 print('high-frequency words:')
