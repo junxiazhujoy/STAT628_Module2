@@ -11,7 +11,8 @@ for line in open('business_train.json', 'r'):
     data.append(json.loads(line))
 
 
-dat = data
+######!!!!!!!!!!!######                                                                                                  
+dat = data[0:1000000]
 
 #pd.DataFrame.from_dict(dat)
 
