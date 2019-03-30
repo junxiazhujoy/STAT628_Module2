@@ -1,0 +1,55 @@
+ \documentclass[12pt]{article}
+ %File creation date: 03/30/19  at 13:14
+ \usepackage{pstricks,pst-node,pst-tree}
+ \usepackage{geometry}
+ \usepackage{lscape}
+ \pagestyle{empty}
+ \begin{document}
+ %\begin{landscape}
+ \begin{center}
+\psset{linecolor=black,tnsep=1pt,tndepth=0cm,tnheight=0cm,treesep=.8cm,levelsep=74pt,radius=10pt}
+  \pstree[treemode=D]{\Tcircle{ 1 }~[tnpos=l]{\shortstack[r]{\texttt{\detokenize{intimate}}\\= \texttt{\detokenize{unknown}}}}
+    ~[tnpos=r]{\shortstack[r]{0.00\\0.05\\0.31\\0.55\\0.08}}}{
+ \Tcircle[fillcolor=yellow,fillstyle=solid]{ 2 }
+    ~[tnpos=l]{\shortstack[r]{0.03\\0.11\\0.31\\0.38\\0.17}}
+    ~{\shortstack{\makebox[0pt][c]{\texttt{\detokenize{1}}}\\169}}
+  \pstree[treemode=D]{\Tcircle{ 3 }~[tnpos=l]{\shortstack[r]{\texttt{\detokenize{Alcohol}}\\in $S_{1}$}}
+ }{
+ \Tcircle[fillcolor=magenta,fillstyle=solid]{ 6 }
+    ~[tnpos=l]{\shortstack[r]{0.01\\0.02\\0.20\\0.51\\0.26}}
+    ~{\shortstack{\makebox[0pt][c]{\texttt{\detokenize{5}}}\\87}}
+  \pstree[treemode=D]{\Tcircle{ 7 }~[tnpos=l]{\shortstack[r]{\texttt{\detokenize{intimate}}\\= \texttt{\detokenize{FALSE}}}}
+ }{
+  \pstree[treemode=D]{\Tcircle{\small 14}~[tnpos=l]{\shortstack[r]{\texttt{\detokenize{NoiseLevel}}\\in $S_{2}$}}
+ }{
+ \Tcircle[fillcolor=orange,fillstyle=solid]{\small 28}
+    ~[tnpos=l]{\shortstack[r]{0.00\\0.02\\0.28\\0.66\\0.03}}
+    ~{\shortstack{\makebox[0pt][c]{\texttt{\detokenize{4}}}\\598}}
+ \Tcircle[fillcolor=green,fillstyle=solid]{\small 29}
+    ~[tnpos=r]{\shortstack[r]{0.00\\0.09\\0.42\\0.44\\0.05}}
+    ~{\shortstack{\makebox[0pt][c]{\texttt{\detokenize{2}}}\\318}}
+   }
+ \Tcircle[fillcolor=magenta,fillstyle=solid]{\small 15}
+    ~[tnpos=r]{\shortstack[r]{0.00\\0.00\\0.14\\0.55\\0.31}}
+    ~{\shortstack{\makebox[0pt][c]{\texttt{\detokenize{5}}}\\29}}
+ }
+ }
+ }
+ \end{center}
+GUIDE v.29.6  0.80-SE pruned
+classification tree for predicting \texttt{\detokenize{stars}} using
+equal priors
+and unit misclassification costs.
+Maximum number of split levels is 11 and minimum node sample size is 12.
+At each split, an observation goes to the left branch 
+ if and only if the condition is satisfied.
+For splits on categorical variables,
+ values not present in the training sample go to the right.
+Set $S_{1}$ = \{\texttt{\detokenize{'beer_and_wine'}}, \texttt{\detokenize{'none'}}\}.
+Set $S_{2}$ = \{\texttt{\detokenize{'average'}}, \texttt{\detokenize{'quiet'}}\}.
+Predicted classes and sample sizes printed below terminal nodes;
+ class proportions for \texttt{\detokenize{stars}} =
+ \texttt{\detokenize{1}}, \texttt{\detokenize{2}}, \texttt{\detokenize{3}}, \texttt{\detokenize{4}}, and \texttt{\detokenize{5}}, respectively, beside nodes.
+Second best split variable at root node is \texttt{\detokenize{Alcohol}}.
+ %\end{landscape}
+ \end{document}
