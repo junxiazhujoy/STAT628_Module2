@@ -1,0 +1,1203 @@
+business_id,neg_words,neg_count,neg_top5,pos_words,pos_count,pos_top5,all_mention,review_count,word_count,stars
+36695.0,"['cold', 'NOT_particular', 'old', 'cold', 'NOT_good', 'cant', 'cold', 'stale', 'cold', 'NOT_worth', 'wrong', 'damn', 'cant', 'old', 'cold', 'stale', 'cold', 'damn', 'usual', 'bad', 'cold', 'NOT_great', 'cold', 'low', 'NOT_great', 'poor', 'cold', 'cold', 'NOT_cheap', 'NOT_special']",30,"['cold', 'NOT_particular', 'old', 'NOT_good', 'cant']","['cheap', 'best', 'cheap', 'free', 'cheap', 'great', 'perfect', 'huge', 'great', 'cheap', 'strong', 'nice', 'cheap', 'great', 'cheap', 'well', 'good', 'good', 'free', 'free', 'free', 'fresh', 'huge', 'fresh', 'great', 'great', 'cheap', 'good', 'great', 'fun', 'well', 'great', 'cheap', 'great', 'great', 'great', 'great', 'good', 'free', 'great', 'best', 'well', 'well', 'great', 'cheap', 'special', 'free', 'free', 'free', 'cheap', 'huge', 'good', 'cheap', 'good', 'delish', 'huge', 'cheap', 'cheap', 'free', 'decent', 'cheap', 'serious', 'free', 'better', 'great', 'cheap', 'free', 'free', 'free', 'cheap', 'cheap', 'cool', 'great', 'cheap', 'good', 'nice', 'good', 'nice', 'good', 'great', 'great', 'great', 'worth', 'great', 'great', 'decent', 'great', 'free', 'free', 'fresh', 'great', 'decent', 'free', 'decent', 'good', 'free', 'cheap', 'good', 'cheap', 'great', 'decent', 'great', 'good', 'good', 'good', 'good', 'clean', 'good', 'good', 'great', 'decent', 'better', 'great', 'good', 'great', 'free', 'free', 'free', 'cheap', 'great', 'best', 'serious', 'good', 'good', 'cheap', 'cheap', 'good', 'enough', 'good', 'cheap', 'cheap', 'good', 'good', 'free', 'cheap', 'good', 'cheap', 'good', 'cheap', 'nice', 'cheap', 'great', 'cheap', 'super', 'free', 'good', 'good', 'great', 'good', 'good', 'good', 'good', 'great', 'huge', 'good', 'free', 'good', 'free', 'cheap', 'great', 'cheap', 'good', 'nice', 'decent', 'super', 'cheap', 'good', 'best', 'free', 'free', 'great', 'good', 'cheap', 'great', 'great', 'cheap', 'good', 'cheap', 'good', 'decent', 'good', 'cheap', 'fresh', 'great', 'free', 'good', 'good', 'special', 'free', 'cheap', 'super', 'special', 'good', 'good', 'good', 'free', 'great', 'great', 'great', 'special', 'super', 'free', 'special', 'cheap', 'decent', 'great', 'great', 'good', 'best', 'great', 'good', 'nice', 'good', 'strong', 'warm', 'special', 'free', 'super', 'nice', 'free', 'free', 'good', 'good', 'special', 'good', 'best', 'great', 'giant', 'cheap', 'good', 'great', 'cheap', 'good', 'good', 'great', 'super', 'cheap', 'great', 'free', 'fresh', 'free', 'cheap', 'good', 'great', 'well', 'great', 'great', 'good', 'cheap', 'better', 'great', 'great', 'free', 'great', 'cheap', 'cheap', 'great', 'best', 'good', 'special', 'cheap', 'best', 'fresh', 'fresh', 'super', 'good', 'decent', 'good', 'good', 'cheap', 'cheap', 'cheap', 'best', 'fun', 'good', 'good', 'cheap', 'free', 'huge', 'special', 'cheap', 'cheap', 'super', 'free', 'best', 'good', 'free', 'good', 'good', 'good', 'good', 'great', 'good', 'free', 'good', 'free', 'cheap', 'decent', 'sweet', 'huge', 'cheap', 'well', 'free', 'great', 'serious', 'great', 'great', 'decent', 'cheap', 'fresh', 'premium', 'premium', 'cheap', 'best', 'best', 'best', 'good', 'good', 'huge', 'fresh', 'free', 'free', 'free', 'great', 'great', 'real', 'cheap', 'cheap', 'cheap', 'best', 'free', 'great', 'best', 'good', 'good', 'top', 'good', 'cheap', 'cheap', 'cheap', 'cheap', 'decent', 'cheap', 'good', 'good', 'good', 'great', 'special', 'good', 'great', 'well', 'enough', 'good', 'serious', 'good', 'super', 'best', 'cheap', 'huge', 'great', 'cheap', 'good', 'cheap', 'great', 'classic', 'great', 'great', 'great', 'cheap', 'great', 'good', 'better', 'good', 'cheap', 'good', 'cheap', 'cheap', 'good', 'perfect', 'cheap', 'great', 'great', 'free', 'great', 'good', 'free', 'decent', 'good', 'cheap', 'cheap', 'great', 'quick', 'cheap', 'cheap', 'full', 'good', 'fresh', 'good', 'good', 'good', 'free']",401,"['cheap', 'best', 'free', 'great', 'perfect']",431,2310,257793,3.870995671
+76703.0,"['pricey', 'random', 'NOT_great', 'steep', 'ill', 'wrong', 'cold', 'cold', 'sour', 'usual', 'low', 'cold', 'cold', 'cold', 'poor', 'cold', 'cold', 'bad', 'NOT_good', 'cold', 'cold', 'cold']",22,"['pricey', 'random', 'NOT_great', 'steep', 'ill']","['good', 'good', 'great', 'great', 'free', 'free', 'great', 'good', 'great', 'decent', 'best', 'free', 'fine', 'free', 'great', 'special', 'great', 'good', 'decent', 'good', 'great', 'free', 'fun', 'free', 'free', 'free', 'great', 'free', 'huge', 'great', 'superb', 'great', 'good', 'free', 'free', 'rare', 'great', 'good', 'great', 'good', 'best', 'great', 'good', 'good', 'free', 'good', 'great', 'well', 'good', 'great', 'casual', 'top', 'free', 'great', 'good', 'worth', 'great', 'good', 'good', 'good', 'huge', 'free', 'great', 'great', 'great', 'good', 'decent', 'good', 'good', 'free', 'free', 'great', 'free', 'free', 'good', 'good', 'stellar', 'great', 'great', 'real', 'free', 'great', 'special', 'worth', 'cheap', 'fair', 'great', 'great', 'great', 'good', 'great', 'best', 'good', 'huge', 'free', 'great', 'great', 'great', 'fresh', 'real', 'full', 'nice', 'premium', 'best', 'great', 'great', 'great', 'free', 'good', 'great', 'decent', 'premium', 'well', 'great', 'free', 'huge', 'cheap', 'warm', 'free', 'warm', 'free', 'good', 'great', 'great', 'great', 'great', 'cool', 'good', 'great', 'good', 'great', 'great', 'nice', 'great', 'good', 'good', 'special', 'great', 'great', 'great', 'nice', 'free', 'good', 'free', 'perfect', 'best', 'great', 'good', 'well', 'nice', 'free', 'good', 'great', 'great', 'good', 'superb', 'free', 'good', 'good', 'free', 'free', 'great', 'standard', 'well', 'free', 'free', 'free', 'special', 'good', 'free', 'great', 'great', 'great', 'good', 'great', 'well', 'great', 'best', 'great', 'best', 'great', 'perfect', 'good', 'free', 'nice', 'premium', 'giant', 'better', 'nice', 'great', 'great', 'great', 'great', 'nice', 'good', 'good', 'great', 'huge', 'good', 'good', 'great', 'well', 'free', 'great', 'free', 'worth', 'free', 'good', 'cheap', 'enough', 'good', 'great', 'better', 'well', 'good', 'good', 'good', 'huge', 'free', 'serious', 'great', 'free', 'free', 'good', 'special', 'special', 'good', 'free', 'great', 'great', 'great', 'great', 'great', 'fresh', 'good', 'good', 'good', 'good', 'great', 'good', 'great', 'free', 'good', 'enough', 'cheap', 'free', 'free', 'good', 'best', 'good', 'good', 'well', 'free', 'good', 'cheap', 'fair', 'strong', 'giant', 'super', 'perfect', 'free', 'good', 'free', 'great', 'special', 'great', 'good', 'great', 'great', 'great', 'fun', 'best', 'great', 'perfect', 'good', 'great', 'great', 'great', 'well', 'great', 'great', 'great', 'free', 'cheap', 'well', 'cheap', 'great', 'great', 'huge', 'great', 'free', 'well', 'good', 'free', 'special', 'great', 'best', 'good', 'great', 'well', 'great', 'free', 'free', 'great', 'good', 'good', 'sure', 'great', 'free', 'great', 'great', 'great', 'good', 'great', 'free', 'free', 'free', 'good', 'good', 'great', 'great']",321,"['good', 'great', 'free', 'decent', 'best']",343,1468,172731,3.583106267
+192223.0,"['low', 'pale', 'stale', 'sour', 'small', 'usual', 'sour', 'sour', 'bad', 'bad', 'wrong', 'small', 'pale', 'usual', 'sour', 'sour']",16,"['low', 'pale', 'stale', 'sour', 'small']","['great', 'worth', 'great', 'full', 'full', 'decent', 'great', 'great', 'great', 'well', 'great', 'decent', 'decent', 'best', 'fun', 'good', 'great', 'great', 'great', 'great', 'good', 'decent', 'great', 'fresh', 'fresh', 'great', 'smooth', 'nice', 'best', 'great', 'good', 'great', 'best', 'great', 'good', 'great', 'great', 'good', 'great', 'best', 'special', 'great', 'free', 'great', 'great', 'great', 'well', 'cheap', 'better', 'best', 'great', 'decent', 'great', 'good', 'nice', 'good', 'great', 'best', 'great', 'great', 'good', 'good', 'perfect', 'good', 'great', 'great', 'best', 'good', 'sweet', 'better', 'great', 'better', 'free', 'best', 'good', 'great', 'full', 'great', 'best', 'good', 'better', 'well', 'good', 'best', 'top', 'great', 'best', 'smooth', 'free', 'good', 'good', 'good', 'good', 'fine', 'good', 'great', 'decent', 'great', 'good', 'great', 'good', 'good', 'sure', 'legit', 'pleasant', 'decent', 'great', 'great', 'neat', 'great', 'perfect', 'top', 'best', 'great', 'clean', 'great', 'great', 'best', 'good', 'great', 'best', 'good', 'good', 'free', 'great', 'fresh', 'good', 'great', 'better', 'great', 'serious', 'good', 'best', 'great', 'fun', 'good', 'good', 'great', 'good', 'well', 'decent', 'best', 'strong', 'good', 'best', 'free', 'perfect', 'fresh', 'good', 'good', 'great', 'best', 'great', 'great', 'best', 'great', 'well', 'great', 'great', 'great', 'good', 'best', 'great', 'cheep', 'good', 'nice', 'best', 'nice', 'strong', 'great', 'cool', 'perfect', 'particular', 'best', 'great', 'good', 'good', 'cool', 'legit', 'great', 'free', 'great', 'great', 'great', 'good', 'good', 'strong', 'great', 'great', 'great', 'super', 'well', 'great', 'good', 'good', 'nice', 'good', 'great', 'cool', 'best', 'great', 'good', 'good', 'great', 'great', 'special', 'good', 'good', 'full', 'best', 'best', 'great', 'great', 'casual', 'good', 'fresh', 'great', 'good', 'best', 'great', 'strong', 'great', 'well', 'best', 'best', 'great', 'great', 'good', 'great', 'great', 'premium', 'great', 'super', 'cool', 'great', 'great', 'good', 'great', 'great', 'cheap', 'fresh', 'great', 'good', 'great', 'good', 'great', 'better', 'real', 'great', 'perfect', 'great', 'great', 'great', 'well', 'good', 'great', 'great', 'great', 'great', 'great', 'pure', 'well', 'great', 'great', 'worth', 'good', 'great', 'great', 'full', 'good', 'good', 'special', 'great']",273,"['great', 'worth', 'full', 'decent', 'well']",289,558,49856,4.519713262
+3099.0,"['flat', 'cold', 'cold', 'cold', 'bad', 'small', 'cold', 'cold', 'cold', 'small', 'cold', 'cold', 'cold', 'cold', 'cold', 'NOT_good', 'subpar', 'bad', 'flat']",19,"['flat', 'cold', 'bad', 'small', 'NOT_good']","['good', 'great', 'sure', 'good', 'great', 'huge', 'great', 'great', 'good', 'great', 'great', 'great', 'good', 'vast', 'huge', 'great', 'good', 'great', 'great', 'huge', 'great', 'great', 'good', 'good', 'great', 'well', 'vast', 'good', 'good', 'well', 'good', 'well', 'good', 'decent', 'great', 'free', 'decent', 'good', 'huge', 'good', 'nice', 'great', 'great', 'great', 'sweet', 'stellar', 'great', 'great', 'nice', 'nice', 'good', 'great', 'superb', 'super', 'great', 'great', 'great', 'good', 'great', 'great', 'premium', 'best', 'particular', 'great', 'great', 'great', 'great', 'great', 'huge', 'good', 'good', 'decent', 'nice', 'good', 'well', 'great', 'great', 'good', 'top', 'serious', 'best', 'great', 'great', 'well', 'best', 'good', 'quick', 'good', 'cool', 'great', 'good', 'good', 'good', 'well', 'vast', 'nice', 'good', 'good', 'good', 'great', 'great', 'fair', 'good', 'nice', 'best', 'good', 'best', 'decent', 'good', 'great', 'good', 'great', 'nice', 'great', 'good', 'good', 'good', 'great', 'rare', 'great', 'great', 'decent', 'great', 'good', 'good', 'nice', 'huge', 'nice', 'good', 'good', 'nice', 'great', 'good', 'decent', 'great', 'good', 'good', 'great', 'good', 'good', 'perfect', 'great', 'good', 'strong', 'good', 'good', 'good', 'good', 'well', 'good', 'good', 'fine', 'perfect', 'great', 'good', 'well', 'best', 'well', 'great', 'great', 'well', 'good', 'good', 'decent', 'fav', 'full', 'great', 'good', 'huge', 'good', 'great', 'great', 'best', 'good', 'nice', 'good', 'strong', 'good', 'great', 'huge', 'huge', 'great', 'great', 'best', 'great', 'good']",186,"['good', 'great', 'sure', 'huge', 'vast']",205,2641,313903,3.8417266189999997
+112580.0,"['old', 'cold', 'bad', 'pricey', 'cold', 'old', 'sour', 'sour', 'sour', 'sour', 'NOT_enough']",11,"['old', 'cold', 'bad', 'pricey', 'sour']","['great', 'great', 'good', 'rare', 'good', 'great', 'good', 'great', 'good', 'sure', 'sure', 'great', 'well', 'great', 'great', 'strong', 'strong', 'rare', 'strong', 'great', 'special', 'great', 'special', 'standard', 'perfect', 'fine', 'good', 'strong', 'best', 'great', 'quick', 'great', 'free', 'great', 'great', 'great', 'huge', 'well', 'well', 'best', 'fine', 'great', 'best', 'great', 'great', 'full', 'huge', 'special', 'strong', 'great', 'good', 'endless', 'best', 'strong', 'strong', 'strong', 'best', 'great', 'great', 'good', 'thick', 'great', 'great', 'huge', 'good', 'great', 'great', 'best', 'decent', 'fun', 'super', 'great', 'good', 'great', 'great', 'nice', 'serious', 'well', 'good', 'super', 'good', 'good', 'better', 'good', 'good', 'free', 'good', 'huge', 'great', 'great', 'great', 'good', 'best', 'good', 'perfect', 'quick', 'well', 'cheap', 'good', 'good', 'good', 'good', 'great', 'cool', 'good', 'good', 'good', 'good', 'fresh', 'great', 'good', 'best', 'good', 'good', 'super', 'great', 'good', 'good', 'good', 'good', 'super', 'great', 'great', 'good', 'good', 'great', 'best', 'best', 'great', 'great', 'great', 'great', 'good', 'great', 'best', 'great', 'real', 'good', 'best', 'good', 'enough', 'serious', 'best', 'fresh', 'better', 'best', 'good', 'great']",148,"['great', 'good', 'rare', 'sure', 'well']",159,479,49841,3.743215031
+168460.0,"['cold', 'pricey', 'cold', 'usual', 'cold', 'cold', 'cold', 'wrong', 'wrong', 'sour', 'cold', 'wrong', 'cold']",13,"['cold', 'pricey', 'usual', 'wrong', 'sour']","['great', 'best', 'great', 'good', 'great', 'good', 'great', 'great', 'nice', 'great', 'great', 'good', 'perfect', 'quick', 'great', 'great', 'nice', 'great', 'clean', 'good', 'great', 'great', 'good', 'quick', 'good', 'great', 'good', 'epic', 'great', 'great', 'good', 'nice', 'great', 'super', 'great', 'good', 'good', 'nice', 'great', 'top', 'rare', 'fresh', 'quick', 'good', 'top', 'good', 'great', 'good', 'decent', 'great', 'great', 'great', 'good', 'good', 'great', 'great', 'great', 'great', 'good', 'strong', 'good', 'great', 'great', 'best', 'great', 'good', 'great', 'great', 'nice', 'quick', 'well', 'great', 'sweet', 'cool', 'best', 'great', 'nice', 'well', 'well', 'cheap', 'great', 'nice', 'good', 'cheap', 'huge', 'great', 'nice', 'huge', 'great', 'enough', 'great', 'great', 'free', 'great', 'great', 'great', 'great', 'great', 'real', 'good', 'great', 'great', 'good', 'good', 'great', 'good', 'good', 'great', 'rare', 'good', 'great', 'good', 'great', 'rare', 'good', 'good', 'special', 'great', 'nice', 'great', 'well', 'great', 'sure', 'great', 'fun', 'perfect', 'best', 'good', 'great', 'great', 'stellar', 'best', 'well', 'great', 'great', 'free', 'great', 'good', 'great', 'best', 'fine', 'well', 'well', 'well', 'well']",145,"['great', 'best', 'good', 'nice', 'perfect']",158,1135,100093,4.225550661000001
+85516.0,"['lame', 'sour', 'cold', 'damn', 'cold', 'cold', 'NOT_enough', 'cold']",8,"['lame', 'sour', 'cold', 'damn', 'NOT_enough']","['good', 'decent', 'great', 'fresh', 'good', 'nice', 'decent', 'great', 'free', 'great', 'great', 'great', 'good', 'serious', 'free', 'free', 'nice', 'best', 'nice', 'free', 'good', 'huge', 'good', 'great', 'good', 'free', 'free', 'good', 'well', 'perfect', 'free', 'free', 'standard', 'great', 'great', 'good', 'good', 'better', 'great', 'great', 'fresh', 'great', 'good', 'free', 'good', 'good', 'good', 'good', 'nice', 'good', 'best', 'good', 'great', 'great', 'best', 'great', 'free', 'fun', 'good', 'great', 'nice', 'nice', 'decent', 'great', 'good', 'good', 'good', 'free', 'good', 'free', 'fair', 'great', 'good', 'good', 'great', 'great', 'classic', 'fresh', 'great', 'great', 'decent', 'free', 'free', 'good', 'special', 'free', 'free', 'good', 'free', 'free', 'well', 'good', 'well', 'great', 'great', 'great', 'fun', 'best', 'standard', 'decent', 'free', 'best', 'good', 'great', 'pseudo', 'best', 'free', 'great', 'cool', 'great', 'best', 'great', 'sure', 'worth', 'standard', 'good', 'stellar', 'great', 'free', 'free', 'free', 'great', 'free', 'great', 'free', 'free', 'good', 'great', 'nice', 'free', 'good', 'better', 'better', 'free', 'full', 'huge', 'great', 'great', 'great', 'great', 'huge', 'great']",142,"['good', 'decent', 'great', 'fresh', 'nice']",150,3225,401832,3.8955038760000003
+161532.0,"['usual', 'bitter', 'usual', 'cold', 'NOT_great', 'NOT_great', 'damn', 'NOT_good', 'small', 'cold']",10,"['usual', 'bitter', 'cold', 'NOT_great', 'damn']","['great', 'great', 'great', 'good', 'good', 'great', 'huge', 'best', 'good', 'good', 'great', 'good', 'good', 'good', 'fun', 'good', 'great', 'great', 'great', 'good', 'superb', 'good', 'special', 'good', 'great', 'great', 'good', 'fine', 'good', 'special', 'good', 'good', 'special', 'popular', 'best', 'best', 'good', 'good', 'great', 'great', 'good', 'good', 'good', 'good', 'good', 'good', 'good', 'well', 'great', 'great', 'giant', 'nice', 'top', 'great', 'great', 'great', 'nice', 'good', 'good', 'great', 'well', 'great', 'fresh', 'good', 'well', 'real', 'great', 'good', 'glorious', 'best', 'great', 'best', 'good', 'good', 'great', 'stellar', 'decent', 'good', 'great', 'good', 'quick', 'sweet', 'great', 'great', 'great', 'best', 'best', 'particular', 'great', 'top', 'good', 'good', 'good', 'good', 'endless', 'decent', 'decent', 'great', 'strong', 'great', 'good', 'great', 'great', 'great', 'good', 'good', 'good', 'special', 'great', 'great', 'good', 'good', 'great', 'good', 'good', 'good', 'great', 'great', 'well', 'great', 'great', 'good', 'sweet', 'good', 'great', 'good', 'free', 'well', 'good', 'good', 'top', 'best', 'good', 'great', 'great']",135,"['great', 'good', 'huge', 'best', 'fun']",145,497,53168,3.8148893360000002
+156289.0,"['cold', 'cold', 'cold', 'usual', 'sour', 'cold', 'low', 'low', 'smaller', 'cold', 'bad']",11,"['cold', 'usual', 'sour', 'low', 'smaller']","['great', 'good', 'best', 'great', 'great', 'good', 'good', 'great', 'cheap', 'great', 'great', 'fun', 'scrumptious', 'fun', 'good', 'free', 'great', 'good', 'good', 'special', 'good', 'good', 'huge', 'well', 'good', 'fun', 'good', 'great', 'great', 'good', 'real', 'great', 'great', 'good', 'good', 'free', 'good', 'great', 'good', 'great', 'fun', 'casual', 'good', 'good', 'great', 'good', 'good', 'good', 'great', 'great', 'delish', 'great', 'huge', 'good', 'avid', 'good', 'good', 'perfect', 'great', 'good', 'nice', 'good', 'good', 'great', 'descent', 'well', 'well', 'great', 'decent', 'good', 'great', 'great', 'great', 'good', 'great', 'well', 'fine', 'great', 'good', 'good', 'great', 'great', 'great', 'cool', 'great', 'cool', 'great', 'good', 'well', 'decent', 'great', 'decent', 'nice', 'good', 'good', 'great', 'great', 'good', 'good', 'good', 'great', 'best', 'great', 'great', 'decent', 'great', 'great', 'great', 'super', 'fun', 'great', 'great', 'great', 'great', 'huge', 'full', 'nice', 'great', 'huge', 'huge', 'great', 'great', 'great', 'great', 'cool', 'particular', 'quick']",127,"['great', 'good', 'best', 'cheap', 'fun']",138,436,43359,3.7247706419999997
+120627.0,"['random', 'cold', 'usual', 'stiff', 'NOT_sure', 'cold', 'lame', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",15,"['random', 'cold', 'usual', 'stiff', 'NOT_sure']","['good', 'great', 'great', 'great', 'good', 'good', 'great', 'great', 'great', 'great', 'great', 'great', 'enough', 'good', 'enough', 'great', 'great', 'huge', 'good', 'warm', 'great', 'good', 'special', 'good', 'good', 'great', 'good', 'good', 'great', 'great', 'great', 'good', 'great', 'great', 'nice', 'perfect', 'great', 'decent', 'huge', 'real', 'great', 'great', 'great', 'great', 'good', 'great', 'warm', 'huge', 'great', 'great', 'great', 'great', 'good', 'endless', 'enough', 'great', 'top', 'good', 'great', 'great', 'good', 'sweet', 'best', 'good', 'good', 'great', 'great', 'great', 'great', 'special', 'fun', 'better', 'enough', 'best', 'great', 'good', 'super', 'great', 'better', 'huge', 'good', 'fun', 'nice', 'good', 'good', 'well', 'better', 'best', 'fresh', 'best', 'great', 'great', 'good', 'special', 'great', 'good', 'best', 'huge', 'great', 'great', 'great', 'good', 'great', 'good', 'good', 'good', 'good', 'decent', 'great', 'great', 'great', 'great', 'decent', 'nice', 'good', 'great', 'nice', 'nice', 'great', 'good']",120,"['good', 'great', 'enough', 'huge', 'warm']",135,969,109231,3.772961816
+101145.0,"['sour', 'smaller', 'smaller', 'NOT_enough', 'cold', 'cold', 'cold', 'cold', 'cold', 'old', 'cold', 'NOT_great', 'cold', 'pricey', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'sour', 'cold', 'wrong', 'usual', 'low']",27,"['sour', 'smaller', 'NOT_enough', 'cold', 'old']","['better', 'good', 'decent', 'great', 'good', 'great', 'good', 'great', 'good', 'special', 'good', 'decent', 'good', 'full', 'great', 'great', 'good', 'good', 'better', 'great', 'good', 'great', 'great', 'great', 'full', 'super', 'great', 'good', 'great', 'good', 'great', 'great', 'standard', 'good', 'nice', 'full', 'well', 'good', 'warm', 'serious', 'warm', 'fair', 'great', 'great', 'good', 'great', 'warm', 'sweet', 'decent', 'standard', 'good', 'huge', 'great', 'great', 'good', 'great', 'cheap', 'great', 'great', 'real', 'good', 'huge', 'great', 'great', 'great', 'good', 'good', 'great', 'standard', 'great', 'great', 'good', 'great', 'better', 'better', 'full', 'nice', 'good', 'great', 'great', 'great', 'great', 'rare', 'great', 'warm', 'great', 'quick', 'free', 'good', 'great', 'huge', 'good', 'good', 'great', 'great', 'good', 'great', 'sure', 'great', 'free', 'great', 'great', 'fun', 'good', 'great', 'good', 'huge']",107,"['better', 'good', 'decent', 'great', 'special']",134,549,53181,3.633879781
+135052.0,"['usual', 'flat', 'cold', 'wrong', 'NOT_sure', 'flat', 'flat', 'old', 'sick', 'cold', 'blah', 'smaller', 'flat', 'NOT_cheap']",14,"['usual', 'flat', 'cold', 'wrong', 'NOT_sure']","['good', 'decent', 'great', 'decent', 'cheap', 'sure', 'great', 'good', 'decent', 'decent', 'standard', 'full', 'good', 'special', 'serious', 'great', 'good', 'great', 'huge', 'huge', 'good', 'good', 'decent', 'decent', 'real', 'free', 'great', 'super', 'good', 'good', 'good', 'great', 'good', 'great', 'good', 'good', 'free', 'huge', 'proper', 'great', 'better', 'best', 'decent', 'good', 'great', 'special', 'giant', 'well', 'great', 'better', 'great', 'good', 'great', 'nice', 'better', 'great', 'full', 'good', 'nice', 'cheap', 'better', 'huge', 'great', 'huge', 'nice', 'great', 'great', 'good', 'great', 'rare', 'best', 'great', 'superior', 'great', 'good', 'real', 'well', 'great', 'best', 'super', 'good', 'good', 'great', 'special', 'great', 'nice', 'good', 'super', 'real', 'real', 'good', 'good', 'cool', 'huge', 'nice', 'great', 'well', 'great', 'well', 'cheap', 'well', 'good', 'great', 'best', 'fair', 'rare', 'good', 'good', 'good', 'good', 'good', 'legit', 'perfect']",113,"['good', 'decent', 'great', 'cheap', 'sure']",127,621,74132,2.9983896939999997
+100816.0,"['cold', 'flat', 'cold', 'ultra', 'cold', 'sour', 'cold', 'cold', 'sour', 'NOT_sure', 'sour', 'cold', 'cold']",13,"['cold', 'flat', 'ultra', 'sour', 'NOT_sure']","['superior', 'great', 'good', 'great', 'good', 'good', 'huge', 'great', 'well', 'great', 'enough', 'great', 'great', 'great', 'special', 'epic', 'good', 'full', 'huge', 'great', 'great', 'good', 'great', 'good', 'good', 'fun', 'great', 'great', 'good', 'great', 'great', 'great', 'best', 'great', 'great', 'good', 'great', 'thick', 'cool', 'great', 'great', 'super', 'great', 'huge', 'great', 'huge', 'huge', 'huge', 'good', 'good', 'great', 'quick', 'great', 'good', 'good', 'good', 'decent', 'fun', 'great', 'great', 'free', 'huge', 'good', 'great', 'warm', 'great', 'good', 'warm', 'clean', 'free', 'good', 'great', 'great', 'great', 'full', 'well', 'particular', 'good', 'great', 'super', 'endless', 'great', 'pleasant', 'great', 'standard', 'standard', 'great', 'great', 'fresh', 'better', 'best', 'great', 'great', 'good', 'good', 'endless', 'fun', 'great', 'good', 'great', 'great', 'huge', 'great', 'good', 'good', 'huge', 'great', 'great']",108,"['superior', 'great', 'good', 'huge', 'well']",121,1029,98797,4.077745384
+51946.0,"['bitter', 'wrong', 'sour', 'small', 'sour', 'bad', 'sour', 'old', 'sour', 'sour', 'flat', 'NOT_vast', 'cold', 'cold']",14,"['bitter', 'wrong', 'sour', 'small', 'bad']","['great', 'well', 'well', 'good', 'great', 'special', 'nice', 'well', 'great', 'perfect', 'good', 'great', 'great', 'decent', 'good', 'good', 'fair', 'good', 'best', 'great', 'great', 'good', 'best', 'huge', 'decent', 'good', 'good', 'great', 'great', 'good', 'nice', 'good', 'popular', 'nice', 'great', 'giant', 'well', 'great', 'good', 'great', 'great', 'nice', 'good', 'great', 'great', 'great', 'legit', 'great', 'great', 'great', 'great', 'cool', 'decent', 'nice', 'huge', 'great', 'better', 'great', 'great', 'good', 'special', 'great', 'cool', 'best', 'great', 'special', 'well', 'best', 'good', 'nice', 'great', 'good', 'great', 'great', 'great', 'good', 'great', 'sure', 'perfect', 'warm', 'good', 'great', 'great', 'super', 'great', 'good', 'great', 'nice', 'fun', 'great', 'good', 'well', 'good', 'great', 'good', 'good', 'good', 'great', 'nice']",99,"['great', 'well', 'good', 'special', 'nice']",113,1211,132977,3.7663088360000003
+35192.0,"['usual', 'poor', 'cold', 'NOT_enough', 'sour', 'NOT_good', 'pricey', 'small', 'cold']",9,"['usual', 'poor', 'cold', 'NOT_enough', 'sour']","['best', 'well', 'perfect', 'nice', 'full', 'super', 'good', 'good', 'good', 'great', 'great', 'great', 'great', 'great', 'great', 'good', 'great', 'great', 'great', 'great', 'great', 'great', 'great', 'good', 'well', 'good', 'great', 'great', 'rare', 'better', 'decent', 'great', 'perfect', 'good', 'great', 'great', 'good', 'good', 'great', 'sweet', 'good', 'great', 'cool', 'good', 'great', 'good', 'decent', 'popular', 'good', 'great', 'great', 'good', 'good', 'great', 'good', 'free', 'good', 'great', 'great', 'good', 'great', 'great', 'well', 'great', 'fine', 'nice', 'good', 'great', 'good', 'great', 'good', 'cool', 'cool', 'great', 'nice', 'free', 'great', 'great', 'good', 'well', 'great', 'great', 'good', 'great', 'great', 'good', 'great', 'great', 'great', 'decent', 'great', 'clean', 'well', 'decent', 'nice', 'great', 'great', 'good', 'good', 'great', 'great', 'great']",102,"['best', 'well', 'perfect', 'nice', 'full']",111,967,116578,4.482936918
+146536.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'gimmick', 'gimmick', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'usual', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",53,"['cold', 'gimmick', 'usual']","['great', 'good', 'sure', 'great', 'top', 'good', 'huge', 'clean', 'super', 'great', 'great', 'giant', 'cool', 'full', 'good', 'super', 'good', 'great', 'best', 'super', 'top', 'decent', 'casual', 'nice', 'good', 'great', 'better', 'great', 'decent', 'super', 'well', 'special', 'nice', 'good', 'descent', 'better', 'cheap', 'good', 'good', 'good', 'good', 'good', 'scrumptious', 'great', 'best', 'great', 'cheap', 'good', 'special', 'serious', 'great', 'full', 'good', 'good', 'fun', 'good']",56,"['great', 'good', 'sure', 'top', 'huge']",109,560,48473,3.5464285710000003
+30985.0,"['pricey', 'cold', 'sour', 'sour', 'NOT_cheap', 'small', 'small', 'sour', 'cold', 'cold', 'pricey', 'sour', 'damn', 'NOT_good', 'cold', 'cold']",16,"['pricey', 'cold', 'sour', 'NOT_cheap', 'small']","['perfect', 'best', 'good', 'great', 'good', 'good', 'great', 'great', 'good', 'good', 'cool', 'well', 'great', 'good', 'nice', 'great', 'real', 'good', 'free', 'great', 'best', 'great', 'great', 'great', 'great', 'perfect', 'avid', 'good', 'good', 'great', 'good', 'great', 'decent', 'decent', 'good', 'good', 'great', 'good', 'great', 'better', 'great', 'great', 'better', 'perfect', 'good', 'nice', 'good', 'huge', 'great', 'great', 'great', 'good', 'great', 'real', 'good', 'well', 'good', 'good', 'great', 'great', 'huge', 'great', 'great', 'good', 'great', 'great', 'top', 'great', 'nice', 'great', 'good', 'great', 'well', 'good', 'great', 'well', 'best', 'fun', 'good', 'top', 'great', 'great', 'great']",83,"['perfect', 'best', 'good', 'great', 'cool']",99,367,38417,4.3542234330000005
+135546.0,['NOT_cheap'],1,['NOT_cheap'],"['giant', 'huge', 'giant', 'giant', 'giant', 'huge', 'super', 'cool', 'giant', 'good', 'giant', 'free', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'good', 'giant', 'giant', 'great', 'giant', 'giant', 'giant', 'giant', 'giant', 'fun', 'giant', 'huge', 'giant', 'giant', 'great', 'giant', 'huge', 'giant', 'giant', 'giant', 'fun', 'giant', 'giant', 'better', 'giant', 'giant', 'giant', 'great', 'giant', 'giant', 'giant', 'giant', 'huge', 'fun', 'giant', 'giant', 'decent', 'giant', 'huge', 'good', 'giant', 'giant', 'free', 'giant', 'good', 'giant', 'giant', 'giant', 'huge', 'giant', 'giant', 'giant', 'giant', 'well', 'better', 'good', 'giant', 'giant', 'giant', 'serious', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant', 'giant']",91,"['giant', 'huge', 'super', 'cool', 'good']",92,700,77796,3.807142857
+93865.0,"['old', 'cold', 'cold', 'flat', 'smaller', 'cold', 'cold', 'cold', 'bad', 'cold', 'cold', 'cold', 'cold', 'wrong', 'NOT_good', 'cold', 'cold', 'NOT_huge']",18,"['old', 'cold', 'flat', 'smaller', 'bad']","['good', 'great', 'umami', 'umami', 'top', 'great', 'nice', 'umami', 'sure', 'great', 'umami', 'good', 'free', 'umami', 'good', 'great', 'umami', 'nice', 'great', 'good', 'good', 'free', 'free', 'good', 'good', 'great', 'special', 'great', 'pure', 'nice', 'decent', 'umami', 'great', 'great', 'great', 'great', 'good', 'good', 'super', 'good', 'warm', 'best', 'umami', 'great', 'free', 'good', 'neat', 'free', 'good', 'great', 'good', 'umami', 'great', 'umami', 'special', 'special', 'quick', 'great', 'huge', 'free', 'great', 'huge', 'perfect', 'great', 'great', 'top', 'top', 'good', 'umami', 'umami', 'umami']",71,"['good', 'great', 'umami', 'top', 'nice']",89,1056,102396,3.7443181819999998
+43830.0,"['cold', 'cold', 'thin', 'cold', 'NOT_great']",5,"['cold', 'thin', 'NOT_great']","['good', 'good', 'well', 'good', 'good', 'free', 'generous', 'nice', 'full', 'good', 'free', 'great', 'modern', 'great', 'great', 'good', 'great', 'good', 'good', 'nice', 'cool', 'great', 'huge', 'quick', 'great', 'good', 'great', 'great', 'good', 'decent', 'superb', 'good', 'nice', 'great', 'good', 'good', 'special', 'great', 'good', 'top', 'well', 'sure', 'super', 'great', 'great', 'great', 'special', 'great', 'special', 'great', 'perfect', 'nice', 'good', 'great', 'decent', 'good', 'good', 'great', 'free', 'great', 'good', 'cool', 'great', 'warm', 'great', 'great', 'best', 'special', 'best', 'good', 'great', 'good', 'good', 'perfect', 'great', 'decent', 'great', 'great']",78,"['good', 'well', 'free', 'generous', 'nice']",83,680,81867,3.744117647
+90215.0,"['neon', 'cold', 'low']",3,"['neon', 'cold', 'low']","['top', 'free', 'premium', 'great', 'great', 'huge', 'great', 'great', 'great', 'good', 'huge', 'special', 'special', 'great', 'great', 'best', 'legit', 'great', 'decent', 'huge', 'great', 'huge', 'great', 'great', 'great', 'great', 'great', 'great', 'stellar', 'great', 'great', 'great', 'good', 'special', 'great', 'top', 'good', 'good', 'good', 'free', 'best', 'great', 'great', 'best', 'special', 'special', 'good', 'top', 'great', 'great', 'best', 'rare', 'huge', 'best', 'good', 'great', 'great', 'best', 'great', 'free', 'super', 'great', 'great', 'better', 'fav', 'great', 'great', 'great', 'good', 'good', 'great', 'great', 'good', 'good', 'top', 'better', 'best', 'great', 'special', 'great']",80,"['top', 'free', 'premium', 'great', 'huge']",83,259,26439,4.166023166
+96741.0,"['flat', 'cold', 'wrong', 'wrong', 'sour', 'NOT_good', 'old', 'shit', 'shit', 'NOT_cheap']",10,"['flat', 'cold', 'wrong', 'sour', 'NOT_good']","['special', 'great', 'nice', 'fun', 'great', 'great', 'great', 'decent', 'great', 'nice', 'good', 'huge', 'special', 'great', 'special', 'good', 'good', 'fun', 'great', 'fun', 'great', 'better', 'decent', 'great', 'great', 'cool', 'cool', 'fair', 'well', 'free', 'huge', 'great', 'huge', 'free', 'cool', 'giant', 'great', 'great', 'good', 'decent', 'great', 'best', 'giant', 'full', 'good', 'cool', 'good', 'huge', 'well', 'warm', 'decent', 'great', 'great', 'good', 'better', 'great', 'better', 'fun', 'great', 'good', 'good', 'special', 'good', 'good', 'great', 'great', 'great', 'good', 'fun', 'great', 'great']",71,"['special', 'great', 'nice', 'fun', 'decent']",81,516,57236,2.9844961239999996
+86095.0,['bitter'],1,['bitter'],"['great', 'free', 'great', 'good', 'best', 'great', 'great', 'great', 'great', 'great', 'good', 'well', 'well', 'good', 'great', 'great', 'great', 'good', 'decent', 'strong', 'great', 'great', 'good', 'good', 'great', 'best', 'great', 'great', 'great', 'enough', 'good', 'great', 'best', 'great', 'great', 'great', 'good', 'great', 'fresh', 'great', 'good', 'good', 'great', 'great', 'good', 'real', 'great', 'sure', 'fresh', 'great', 'great', 'great', 'good', 'good', 'good', 'great', 'top', 'sure', 'great', 'good', 'better', 'good', 'great', 'great', 'great', 'good', 'great', 'well', 'great', 'good', 'good', 'great', 'casual', 'great', 'great', 'better', 'better', 'good', 'good']",79,"['great', 'free', 'good', 'best', 'well']",80,214,18794,4.285046728999999
+18832.0,"['NOT_sure', 'usual', 'cold', 'cold', 'usual', 'usual', 'pale', 'cold']",8,"['NOT_sure', 'usual', 'cold', 'pale']","['well', 'decent', 'good', 'special', 'special', 'great', 'popular', 'great', 'good', 'good', 'good', 'good', 'great', 'good', 'great', 'great', 'good', 'great', 'fine', 'good', 'great', 'great', 'great', 'great', 'good', 'good', 'enough', 'great', 'good', 'great', 'good', 'good', 'nice', 'huge', 'great', 'best', 'great', 'good', 'well', 'good', 'great', 'good', 'nice', 'great', 'great', 'great', 'worth', 'good', 'fresh', 'top', 'good', 'good', 'good', 'great', 'good', 'great', 'great', 'great', 'fun', 'popular', 'perfect', 'great', 'decent', 'great', 'great', 'good', 'great', 'good', 'fun', 'good', 'great']",71,"['well', 'decent', 'good', 'special', 'great']",79,1169,123368,3.78956373
+184061.0,"['low', 'cold', 'low', 'random', 'cold', 'cold', 'cold', 'old', 'lame', 'cold', 'NOT_cheap', 'flat', 'flat']",13,"['low', 'cold', 'random', 'old', 'lame']","['best', 'free', 'nice', 'good', 'good', 'great', 'good', 'great', 'great', 'great', 'nice', 'cheap', 'nice', 'good', 'great', 'decent', 'great', 'great', 'best', 'good', 'best', 'free', 'good', 'good', 'great', 'well', 'good', 'good', 'good', 'decent', 'good', 'good', 'good', 'huge', 'great', 'good', 'great', 'fun', 'quaint', 'great', 'huge', 'great', 'nice', 'good', 'great', 'decent', 'great', 'best', 'good', 'nice', 'good', 'decent', 'great', 'good', 'great', 'nice', 'great', 'good', 'fresh', 'nice', 'good', 'great', 'good', 'great', 'huge']",65,"['best', 'free', 'nice', 'good', 'great']",78,451,53049,3.6962305989999997
+130178.0,"['cold', 'cold', 'flat', 'cold', 'cold', 'bad', 'cold', 'wrong', 'wrong', 'wrong', 'wrong', 'cold', 'cold', 'cold', 'cold', 'NOT_best', 'cold', 'cold', 'cold', 'cold']",20,"['cold', 'flat', 'bad', 'wrong', 'NOT_best']","['legit', 'great', 'great', 'great', 'good', 'great', 'nice', 'warm', 'good', 'well', 'nice', 'great', 'quick', 'good', 'nice', 'good', 'best', 'fun', 'decent', 'fair', 'sure', 'good', 'great', 'super', 'popular', 'good', 'free', 'well', 'decent', 'sure', 'fine', 'good', 'nice', 'free', 'full', 'best', 'good', 'good', 'good', 'good', 'good', 'free', 'nice', 'great', 'decent', 'decent', 'good', 'cool']",48,"['legit', 'great', 'good', 'nice', 'warm']",68,3284,347910,3.450060901
+66129.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'NOT_good']",9,"['cold', 'NOT_good']","['special', 'nice', 'special', 'great', 'great', 'great', 'decent', 'decent', 'good', 'nice', 'warm', 'warm', 'warm', 'warm', 'warm', 'great', 'decent', 'great', 'well', 'well', 'huge', 'worth', 'great', 'good', 'good', 'great', 'decent', 'good', 'great', 'cool', 'good', 'great', 'nice', 'thick', 'good', 'well', 'great', 'great', 'great', 'great', 'special', 'supberb', 'good', 'great', 'special', 'well', 'good', 'good', 'great', 'great', 'great', 'special', 'special', 'decent']",54,"['special', 'nice', 'great', 'decent', 'good']",63,542,62047,4.267527675
+132337.0,"['old', 'cold', 'sour', 'cold', 'sour', 'sour', 'cold', 'stale', 'NOT_worth', 'sour', 'old']",11,"['old', 'cold', 'sour', 'stale', 'NOT_worth']","['great', 'good', 'good', 'best', 'great', 'well', 'great', 'great', 'great', 'good', 'great', 'good', 'nice', 'best', 'great', 'great', 'great', 'good', 'good', 'great', 'great', 'good', 'great', 'good', 'huge', 'real', 'great', 'great', 'great', 'huge', 'huge', 'free', 'great', 'nice', 'great', 'best', 'quick', 'good', 'great', 'particular', 'great', 'good', 'great', 'decent', 'cool', 'cheap', 'standard', 'nice', 'nice', 'rare', 'sure']",51,"['great', 'good', 'best', 'well', 'nice']",62,347,31516,4.334293948
+43726.0,"['wrong', 'old']",2,"['wrong', 'old']","['great', 'better', 'better', 'good', 'well', 'great', 'rare', 'good', 'great', 'huge', 'huge', 'great', 'best', 'good', 'good', 'serious', 'good', 'great', 'perfect', 'good', 'well', 'good', 'great', 'good', 'great', 'good', 'great', 'decent', 'great', 'well', 'good', 'nice', 'good', 'huge', 'great', 'good', 'great', 'great', 'great', 'great', 'great', 'better', 'enough', 'great', 'great', 'huge', 'best', 'cool', 'nice', 'great', 'fresh', 'real', 'best', 'great', 'real', 'good', 'good', 'good', 'good', 'nice']",60,"['great', 'better', 'good', 'well', 'rare']",62,167,22618,4.083832335
+126119.0,"['cold', 'poor', 'cold', 'flat', 'weak', 'cold', 'cold', 'cold', 'bad', 'cold', 'bad', 'cold']",12,"['cold', 'poor', 'flat', 'weak', 'bad']","['well', 'strong', 'great', 'cheap', 'cheap', 'best', 'well', 'sweet', 'enough', 'well', 'cheap', 'cheap', 'top', 'free', 'well', 'special', 'full', 'good', 'decent', 'good', 'warm', 'super', 'sweet', 'cheap', 'well', 'warm', 'free', 'nice', 'great', 'cheap', 'special', 'well', 'special', 'well', 'cheap', 'perfect', 'great', 'well', 'cheap', 'cheap', 'great', 'nice', 'fun', 'free', 'free', 'good', 'cheap', 'decent', 'great', 'great']",50,"['well', 'strong', 'great', 'cheap', 'best']",62,620,61567,2.811290323
+175149.0,"['NOT_cool', 'cold', 'cold', 'cold', 'bitter', 'small', 'cold', 'usual', 'cold']",9,"['NOT_cool', 'cold', 'bitter', 'small', 'usual']","['best', 'pleasant', 'cheap', 'good', 'better', 'good', 'good', 'great', 'decent', 'good', 'good', 'good', 'decent', 'decent', 'good', 'free', 'free', 'fresh', 'better', 'better', 'best', 'sure', 'good', 'cool', 'great', 'great', 'good', 'fun', 'serious', 'great', 'well', 'free', 'better', 'better', 'great', 'great', 'great', 'best', 'great', 'great', 'great', 'good', 'good', 'better', 'good', 'good', 'great', 'special', 'good', 'good']",50,"['best', 'pleasant', 'cheap', 'good', 'better']",59,85,6958,3.9411764710000003
+153845.0,"['pricey', 'cold', 'cold', 'cold', 'wrong', 'cold', 'cold', 'pricey', 'cold', 'small', 'cold']",11,"['pricey', 'cold', 'wrong', 'small']","['good', 'modern', 'good', 'special', 'free', 'free', 'best', 'nice', 'great', 'fair', 'fair', 'good', 'huge', 'decent', 'great', 'warm', 'warm', 'great', 'special', 'free', 'great', 'decent', 'perfect', 'free', 'great', 'great', 'warm', 'great', 'decent', 'cheap', 'huge', 'huge', 'warm', 'free', 'great', 'huge', 'huge', 'good', 'good', 'fun', 'great', 'decent', 'good', 'good', 'good', 'great', 'perfect']",47,"['good', 'modern', 'special', 'free', 'best']",58,1721,158893,3.661243463
+175353.0,"['weak', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'wrong', 'cold', 'cold', 'cold']",11,"['weak', 'cold', 'wrong']","['great', 'great', 'special', 'good', 'good', 'decent', 'clean', 'nice', 'decent', 'great', 'good', 'free', 'good', 'decent', 'sure', 'good', 'good', 'good', 'good', 'well', 'good', 'better', 'nice', 'great', 'good', 'good', 'nice', 'super', 'great', 'great', 'good', 'good', 'good', 'best', 'vast', 'great', 'great', 'good', 'good', 'nice', 'special', 'decent', 'fav', 'good', 'huge', 'good']",46,"['great', 'special', 'good', 'decent', 'clean']",57,424,42796,3.528301887
+98251.0,"['old', 'old', 'cold', 'bad', 'flat', 'cold', 'wrong', 'cold', 'bad']",9,"['old', 'cold', 'bad', 'flat', 'wrong']","['warm', 'fresh', 'better', 'great', 'great', 'great', 'good', 'good', 'good', 'great', 'great', 'great', 'good', 'good', 'good', 'better', 'great', 'great', 'nice', 'free', 'great', 'warm', 'great', 'good', 'great', 'well', 'worth', 'good', 'great', 'great', 'great', 'warm', 'warm', 'warm', 'good', 'warm', 'great', 'great', 'giant', 'good', 'great', 'better', 'great', 'sure', 'cheap']",45,"['warm', 'fresh', 'better', 'great', 'good']",54,129,16116,3.5038759689999996
+103489.0,"['cold', 'shit', 'NOT_decent', 'flat', 'small', 'cold']",6,"['cold', 'shit', 'NOT_decent', 'flat', 'small']","['great', 'good', 'good', 'good', 'great', 'nice', 'good', 'great', 'great', 'great', 'good', 'good', 'good', 'nice', 'great', 'good', 'good', 'gorgeous', 'great', 'great', 'special', 'good', 'cool', 'best', 'better', 'cheap', 'great', 'cool', 'good', 'good', 'best', 'cool', 'good', 'special', 'good', 'great', 'great', 'great', 'great', 'great', 'well', 'particular', 'good', 'great', 'enough', 'great', 'great', 'perfect']",48,"['great', 'good', 'nice', 'gorgeous', 'special']",54,1194,134755,3.858458961
+175318.0,"['wrong', 'cold', 'cold', 'cold', 'usual', 'cold', 'cold', 'small', 'damn', 'cold', 'cold', 'cold']",12,"['wrong', 'cold', 'usual', 'small', 'damn']","['great', 'special', 'great', 'good', 'decent', 'cheap', 'good', 'good', 'special', 'nice', 'better', 'great', 'special', 'top', 'good', 'nice', 'cheap', 'free', 'casual', 'special', 'good', 'good', 'great', 'special', 'great', 'better', 'great', 'good', 'great', 'decent', 'great', 'decent', 'full', 'great', 'free', 'good', 'good', 'nice', 'good', 'good', 'full', 'great']",42,"['great', 'special', 'good', 'decent', 'cheap']",54,650,69421,3.455384615
+3307.0,"['cold', 'wrong', 'cold', 'pricey', 'cold', 'pricey', 'NOT_spectacular']",7,"['cold', 'wrong', 'pricey', 'NOT_spectacular']","['well', 'great', 'great', 'great', 'great', 'good', 'nice', 'good', 'great', 'great', 'cool', 'well', 'great', 'good', 'good', 'good', 'great', 'good', 'free', 'good', 'good', 'clean', 'free', 'great', 'good', 'good', 'best', 'well', 'great', 'free', 'decent', 'nice', 'great', 'good', 'good', 'decent', 'perfect', 'decent', 'decent', 'great', 'good', 'great']",42,"['well', 'great', 'good', 'nice', 'cool']",49,3494,458826,3.94419004
+112963.0,"['cold', 'random', 'sour', 'pricey']",4,"['cold', 'random', 'sour', 'pricey']","['rare', 'great', 'good', 'best', 'great', 'great', 'well', 'well', 'great', 'fine', 'great', 'great', 'great', 'cool', 'cool', 'great', 'well', 'real', 'cool', 'nice', 'good', 'good', 'free', 'super', 'great', 'great', 'particular', 'top', 'best', 'best', 'glorious', 'fine', 'great', 'great', 'great', 'great', 'best', 'legit', 'fresh', 'great', 'good', 'free', 'great', 'fun']",44,"['rare', 'great', 'good', 'best', 'well']",48,134,13551,4.671641791
+48246.0,"['flat', 'generic', 'small', 'cold', 'neon', 'cold']",6,"['flat', 'generic', 'small', 'cold', 'neon']","['great', 'great', 'great', 'cheap', 'better', 'best', 'good', 'good', 'fair', 'special', 'huge', 'nice', 'giant', 'nice', 'good', 'fine', 'great', 'well', 'fresh', 'good', 'special', 'well', 'special', 'great', 'great', 'spectacular', 'great', 'decent', 'enough', 'nice', 'special', 'good', 'good', 'good', 'free', 'great', 'great', 'good', 'full', 'good', 'great', 'fair']",42,"['great', 'cheap', 'better', 'best', 'good']",48,370,33073,4.035135135
+183303.0,"['cold', 'random', 'cold', 'NOT_good', 'poor']",5,"['cold', 'random', 'NOT_good', 'poor']","['great', 'great', 'decent', 'good', 'nice', 'best', 'great', 'best', 'best', 'serious', 'special', 'great', 'proper', 'perfect', 'great', 'great', 'great', 'good', 'best', 'free', 'great', 'well', 'great', 'best', 'good', 'best', 'premium', 'great', 'great', 'cheap', 'great', 'best', 'decent', 'good', 'good', 'great', 'great', 'great', 'best', 'great', 'great']",41,"['great', 'decent', 'good', 'nice', 'best']",46,121,12950,4.082644628
+137616.0,"['cold', 'pale', 'cold', 'small', 'bad', 'damn']",6,"['cold', 'pale', 'small', 'bad', 'damn']","['nice', 'particular', 'good', 'good', 'good', 'top', 'good', 'great', 'good', 'better', 'good', 'nice', 'great', 'great', 'great', 'great', 'good', 'free', 'good', 'good', 'good', 'great', 'full', 'good', 'good', 'best', 'good', 'good', 'best', 'decent', 'well', 'special', 'better', 'best', 'good', 'worth', 'fair', 'good', 'warm']",39,"['nice', 'particular', 'good', 'top', 'great']",45,98,8044,3.816326531
+92187.0,"['cold', 'cold', 'cold', 'cant']",4,"['cold', 'cant']","['great', 'full', 'good', 'nice', 'great', 'great', 'good', 'good', 'great', 'great', 'fun', 'well', 'good', 'great', 'free', 'great', 'spectacular', 'great', 'great', 'huge', 'great', 'good', 'full', 'better', 'great', 'great', 'good', 'better', 'great', 'real', 'best', 'best', 'great', 'good', 'good', 'great', 'full', 'great', 'great', 'good', 'enough']",41,"['great', 'full', 'good', 'nice', 'fun']",45,315,33389,4.193650794
+51350.0,"['small', 'rude', 'NOT_worth', 'sour', 'pricey']",5,"['small', 'rude', 'NOT_worth', 'sour', 'pricey']","['free', 'good', 'free', 'great', 'good', 'best', 'quick', 'great', 'great', 'good', 'great', 'best', 'nice', 'great', 'better', 'gorgeous', 'great', 'fresh', 'good', 'great', 'great', 'great', 'great', 'standard', 'best', 'nice', 'quick', 'good', 'free', 'cool', 'better', 'better', 'good', 'great', 'cheap', 'best', 'good', 'quick']",38,"['free', 'good', 'great', 'best', 'quick']",43,102,9290,3.862745098
+73093.0,"['cold', 'pricey']",2,"['cold', 'pricey']","['good', 'rare', 'well', 'best', 'nice', 'great', 'good', 'good', 'rare', 'pleasant', 'better', 'great', 'legit', 'great', 'best', 'best', 'free', 'decent', 'great', 'great', 'great', 'great', 'better', 'great', 'perfect', 'best', 'nice', 'great', 'good', 'good', 'warm', 'great', 'standard', 'clean', 'huge', 'nice', 'great']",37,"['good', 'rare', 'well', 'best', 'nice']",39,157,16802,3.9426751589999998
+112447.0,"['cold', 'wrong', 'cold', 'NOT_sure', 'bad', 'cold']",6,"['cold', 'wrong', 'NOT_sure', 'bad']","['decent', 'great', 'good', 'good', 'good', 'good', 'great', 'good', 'good', 'good', 'nice', 'good', 'decent', 'decent', 'great', 'best', 'great', 'special', 'nice', 'good', 'good', 'nice', 'great', 'nice', 'good', 'great', 'good', 'great', 'great', 'great', 'great', 'great']",32,"['decent', 'great', 'good', 'nice', 'best']",38,1259,133908,4.051628276000001
+18381.0,"['cold', 'cold', 'cold', 'wrong', 'wrong', 'NOT_great']",6,"['cold', 'wrong', 'NOT_great']","['great', 'stellar', 'great', 'great', 'nice', 'great', 'great', 'good', 'great', 'good', 'huge', 'great', 'great', 'well', 'great', 'great', 'great', 'great', 'proper', 'great', 'great', 'great', 'free', 'great', 'good', 'good', 'huge', 'well', 'decent', 'great']",30,"['great', 'stellar', 'nice', 'good', 'huge']",36,180,18689,3.772222222
+41608.0,"['usual', 'cold', 'low', 'ill']",4,"['usual', 'cold', 'low', 'ill']","['special', 'good', 'good', 'special', 'special', 'great', 'huge', 'proper', 'special', 'special', 'special', 'cheap', 'good', 'special', 'fresh', 'great', 'good', 'great', 'good', 'great', 'super', 'good', 'good', 'special', 'fun', 'good', 'free', 'good', 'decent', 'great', 'descent', 'huge']",32,"['special', 'good', 'great', 'huge', 'proper']",36,105,17421,3.4190476189999996
+70956.0,"['cold', 'sour', 'sour', 'cold']",4,"['cold', 'sour']","['good', 'good', 'great', 'great', 'good', 'good', 'well', 'decent', 'good', 'good', 'great', 'good', 'great', 'decent', 'good', 'good', 'nice', 'great', 'great', 'decent', 'special', 'great', 'decent', 'well', 'great', 'enough', 'decent', 'good', 'good', 'good', 'decent', 'great']",32,"['good', 'great', 'well', 'decent', 'nice']",36,140,12012,3.814285714
+177002.0,"['cold', 'cold']",2,['cold'],"['great', 'great', 'top', 'decent', 'nice', 'great', 'great', 'nice', 'top', 'real', 'good', 'nice', 'casual', 'free', 'free', 'decent', 'nice', 'great', 'great', 'great', 'worth', 'great', 'well', 'casual', 'nice', 'cheap', 'great', 'decent', 'good', 'good', 'great', 'real', 'nice', 'special']",34,"['great', 'top', 'decent', 'nice', 'real']",36,666,62714,3.762762763
+154739.0,"['flat', 'cold', 'small', 'cold', 'flat', 'small', 'cold']",7,"['flat', 'cold', 'small']","['good', 'warm', 'cheap', 'special', 'special', 'free', 'warm', 'decent', 'free', 'fine', 'decent', 'well', 'warm', 'well', 'free', 'well', 'decent', 'special', 'warm', 'fun', 'special', 'special', 'well', 'cheap', 'special', 'great', 'great', 'good']",28,"['good', 'warm', 'cheap', 'special', 'free']",35,1178,117412,2.96179966
+171460.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",10,['cold'],"['great', 'great', 'good', 'nice', 'great', 'full', 'great', 'good', 'perfect', 'special', 'special', 'nice', 'great', 'good', 'special', 'fresh', 'cheap', 'great', 'cheap', 'great', 'well', 'free', 'nice', 'cool', 'good']",25,"['great', 'good', 'nice', 'full', 'perfect']",35,2506,341279,4.432960894
+142312.0,"['poor', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'poor', 'cold']",12,"['poor', 'cold']","['free', 'free', 'super', 'huge', 'top', 'free', 'top', 'giant', 'quick', 'good', 'nice', 'great', 'good', 'nice', 'cool', 'great', 'warm', 'warm', 'cheap', 'special', 'good', 'free']",22,"['free', 'super', 'huge', 'top', 'giant']",34,651,70445,3.0629800310000004
+163012.0,"['cold', 'cold', 'cold', 'random', 'cold', 'cold']",6,"['cold', 'random']","['good', 'great', 'nice', 'warm', 'good', 'good', 'nice', 'warm', 'special', 'nice', 'great', 'super', 'free', 'fresh', 'great', 'good', 'top', 'great', 'free', 'great', 'free', 'free', 'special', 'free', 'top', 'great', 'good', 'full']",28,"['good', 'great', 'nice', 'warm', 'special']",34,831,75601,3.791817088
+117633.0,"['NOT_great', 'small', 'cold', 'cold']",4,"['NOT_great', 'small', 'cold']","['great', 'good', 'decent', 'huge', 'free', 'good', 'well', 'great', 'good', 'good', 'nice', 'good', 'great', 'better', 'great', 'great', 'good', 'good', 'decent', 'enough', 'great', 'decent', 'good', 'good', 'good', 'fine', 'good', 'decent', 'great']",29,"['great', 'good', 'decent', 'huge', 'free']",33,501,56528,3.1017964069999997
+31970.0,"['cold', 'bad', 'small', 'small']",4,"['cold', 'bad', 'small']","['great', 'great', 'nice', 'good', 'decent', 'great', 'sweet', 'free', 'strong', 'decent', 'great', 'well', 'great', 'great', 'good', 'great', 'great', 'great', 'nice', 'fun', 'good', 'sweet', 'well', 'great', 'good', 'full', 'cool', 'nice']",28,"['great', 'nice', 'good', 'decent', 'sweet']",32,2094,244189,4.449856734
+137871.0,"['NOT_full', 'poor', 'cold', 'stale', 'cold', 'weak']",6,"['NOT_full', 'poor', 'cold', 'stale', 'weak']","['great', 'great', 'good', 'free', 'good', 'good', 'good', 'great', 'good', 'special', 'great', 'special', 'well', 'decent', 'nice', 'great', 'huge', 'great', 'special', 'special', 'good', 'good', 'free', 'great', 'huge', 'decent']",26,"['great', 'good', 'free', 'special', 'well']",32,263,27648,3.209125475
+34922.0,"['old', 'cold', 'stale', 'old', 'cold', 'stiff', 'cold', 'stale', 'cold', 'stale']",10,"['old', 'cold', 'stale', 'stiff']","['real', 'good', 'free', 'cheap', 'fun', 'good', 'cheap', 'cheap', 'good', 'good', 'cheap', 'good', 'cool', 'cheap', 'good', 'cheap', 'good', 'decent', 'cheap', 'special', 'well']",21,"['real', 'good', 'free', 'cheap', 'fun']",31,536,63985,4.391791045
+50259.0,['small'],1,['small'],"['great', 'good', 'fair', 'decent', 'smooth', 'great', 'free', 'great', 'special', 'great', 'great', 'free', 'good', 'fun', 'great', 'great', 'good', 'perfect', 'standard', 'good', 'pleasant', 'good', 'great', 'good', 'good', 'great', 'good', 'super', 'good', 'good']",30,"['great', 'good', 'fair', 'decent', 'smooth']",31,59,5226,4.050847458
+56766.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['full', 'full', 'great', 'great', 'fine', 'cheap', 'good', 'cheap', 'standard', 'cheap', 'special', 'special', 'cool', 'good', 'great', 'cheap', 'nice', 'free', 'enough', 'cheap', 'good', 'special', 'cheap', 'warm', 'huge', 'good']",26,"['full', 'great', 'fine', 'cheap', 'good']",31,911,92615,3.1481888039999997
+175891.0,"['wrong', 'pricey', 'usual']",3,"['wrong', 'pricey', 'usual']","['good', 'good', 'great', 'best', 'top', 'warm', 'good', 'great', 'nice', 'nice', 'great', 'classic', 'super', 'delish', 'great', 'cool', 'best', 'free', 'classic', 'cheap', 'good', 'super', 'good', 'good', 'nice', 'well', 'cheap']",27,"['good', 'great', 'best', 'top', 'warm']",30,477,60512,3.442348008
+185769.0,"['cold', 'cold', 'sour', 'sour']",4,"['cold', 'sour']","['decent', 'good', 'good', 'special', 'well', 'sweet', 'perfect', 'great', 'warm', 'good', 'good', 'rare', 'good', 'good', 'good', 'good', 'great', 'great', 'great', 'good', 'great', 'good', 'good', 'great', 'nice']",25,"['decent', 'good', 'special', 'well', 'sweet']",29,843,77249,4.1779359430000005
+35311.0,"['cold', 'cold']",2,['cold'],"['neat', 'decent', 'superb', 'great', 'perfect', 'great', 'great', 'nice', 'good', 'better', 'great', 'top', 'great', 'great', 'good', 'great', 'good', 'great', 'good', 'good', 'great', 'good', 'good', 'better', 'good', 'good']",26,"['neat', 'decent', 'superb', 'great', 'perfect']",28,102,8819,3.284313725
+66821.0,"['cold', 'flat']",2,"['cold', 'flat']","['good', 'great', 'good', 'good', 'great', 'great', 'good', 'great', 'great', 'great', 'great', 'nice', 'nice', 'well', 'neat', 'great', 'good', 'good', 'good', 'good', 'great', 'great', 'good', 'great', 'great', 'great']",26,"['good', 'great', 'nice', 'well', 'neat']",28,428,39818,4.285046728999999
+54607.0,"['cold', 'cold', 'usual', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",11,"['cold', 'usual']","['quick', 'fun', 'good', 'good', 'cheap', 'cheap', 'special', 'great', 'cheap', 'cheap', 'fun', 'best', 'free', 'well', 'decent', 'great', 'good']",17,"['quick', 'fun', 'good', 'cheap', 'special']",28,633,67946,2.887835703
+1864.0,['cold'],1,['cold'],"['great', 'good', 'great', 'cheap', 'quick', 'good', 'good', 'good', 'nice', 'standard', 'better', 'great', 'good', 'great', 'cheap', 'good', 'well', 'cheap', 'good', 'good', 'great', 'decent', 'great', 'great', 'good', 'great', 'great']",27,"['great', 'good', 'cheap', 'quick', 'nice']",28,495,50533,4.131313131000001
+182089.0,"['cold', 'cold', 'NOT_sweet', 'usual', 'cold', 'cold', 'usual']",7,"['cold', 'NOT_sweet', 'usual']","['great', 'standard', 'good', 'great', 'nice', 'perfect', 'decent', 'great', 'cheap', 'great', 'huge', 'great', 'well', 'decent', 'good', 'good', 'good', 'great', 'huge', 'nice']",20,"['great', 'standard', 'good', 'nice', 'perfect']",27,4131,527580,4.229726458
+106980.0,"['cold', 'weird', 'random', 'neon', 'old', 'old', 'old', 'bad']",8,"['cold', 'weird', 'random', 'neon', 'old']","['special', 'great', 'good', 'great', 'great', 'decent', 'nice', 'full', 'good', 'nice', 'great', 'special', 'perfect', 'classic', 'great', 'cheap', 'good', 'nice', 'good']",19,"['special', 'great', 'good', 'decent', 'nice']",27,130,10824,4.607692308
+128939.0,"['NOT_best', 'random', 'sour', 'sour', 'cold']",5,"['NOT_best', 'random', 'sour', 'cold']","['great', 'good', 'good', 'well', 'cheap', 'great', 'serious', 'great', 'good', 'good', 'free', 'well', 'great', 'perfect', 'great', 'great', 'nice', 'fresh', 'great', 'fun', 'great', 'decent']",22,"['great', 'good', 'well', 'cheap', 'serious']",27,1478,172543,4.163058187
+138374.0,['usual'],1,['usual'],"['premium', 'great', 'great', 'great', 'good', 'good', 'great', 'great', 'great', 'great', 'special', 'great', 'well', 'well', 'good', 'good', 'great', 'great', 'great', 'great', 'great', 'cool', 'good', 'great', 'good']",25,"['premium', 'great', 'good', 'special', 'well']",26,149,13997,3.6040268460000005
+118418.0,"['cold', 'piss', 'cold', 'limitless', 'bitter', 'cold']",6,"['cold', 'piss', 'limitless', 'bitter']","['special', 'great', 'great', 'nice', 'good', 'great', 'better', 'cheap', 'good', 'nice', 'decent', 'good', 'better', 'good', 'good', 'good', 'great', 'full', 'fine', 'great']",20,"['special', 'great', 'nice', 'good', 'better']",26,575,61793,3.692173913
+154159.0,"['NOT_enough', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",9,"['NOT_enough', 'cold']","['cheap', 'good', 'free', 'good', 'great', 'free', 'best', 'well', 'decent', 'good', 'good', 'good', 'good', 'decent', 'quick', 'well', 'good']",17,"['cheap', 'good', 'free', 'great', 'best']",26,260,23975,3.6307692310000004
+168030.0,"['cold', 'cold', 'cold', 'poor', 'flat', 'flat', 'bad', 'cold', 'cold', 'bad', 'tepid', 'flat']",12,"['cold', 'poor', 'flat', 'bad', 'tepid']","['well', 'warm', 'free', 'cheap', 'cool', 'free', 'better', 'cheap', 'warm', 'warm', 'warm', 'cool', 'great', 'warm']",14,"['well', 'warm', 'free', 'cheap', 'cool']",26,460,59298,2.097826087
+118508.0,"['stale', 'cold', 'cold', 'cold', 'cold', 'cold', 'rude', 'flat', 'old', 'old', 'flat']",11,"['stale', 'cold', 'rude', 'flat', 'old']","['great', 'fun', 'special', 'great', 'decent', 'special', 'special', 'free', 'free', 'decent', 'good', 'warm', 'great', 'special']",14,"['great', 'fun', 'special', 'decent', 'free']",25,1336,124206,3.3510479039999996
+121437.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'poor', 'cold', 'sour']",8,"['cold', 'poor', 'sour']","['good', 'warm', 'warm', 'huge', 'good', 'good', 'great', 'strong', 'good', 'nice', 'good', 'free', 'special', 'good', 'good', 'fav']",16,"['good', 'warm', 'huge', 'great', 'strong']",24,407,41889,3.538083538
+87350.0,"['cold', 'cold', 'bad', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold', 'cold']",11,"['cold', 'bad']","['good', 'sure', 'good', 'free', 'free', 'good', 'perfect', 'good', 'good', 'cheap', 'good', 'decent']",12,"['good', 'sure', 'free', 'perfect', 'cheap']",23,252,28425,3.0992063489999997
+154368.0,"['cold', 'cold', 'cold', 'cold', 'small']",5,"['cold', 'small']","['best', 'good', 'decent', 'clean', 'good', 'good', 'best', 'good', 'good', 'good', 'good', 'good', 'free', 'good', 'special', 'fresh', 'well']",17,"['best', 'good', 'decent', 'clean', 'free']",22,206,26966,3.796116505
+158508.0,"['NOT_well', 'cold', 'cold', 'cold']",4,"['NOT_well', 'cold']","['nice', 'premium', 'particular', 'great', 'great', 'good', 'good', 'super', 'good', 'special', 'great', 'good', 'nice', 'cheap', 'quick', 'nice', 'good', 'great']",18,"['nice', 'premium', 'particular', 'great', 'good']",22,371,37716,3.5471698110000003
+122371.0,"['cold', 'cold']",2,['cold'],"['good', 'good', 'good', 'better', 'stellar', 'particular', 'great', 'great', 'fav', 'great', 'great', 'special', 'good', 'special', 'cheap', 'great', 'special', 'thick', 'special']",19,"['good', 'better', 'stellar', 'particular', 'great']",21,133,12336,3.796992481
+67456.0,"['damn', 'cold', 'lame']",3,"['damn', 'cold', 'lame']","['great', 'good', 'nice', 'good', 'super', 'free', 'good', 'free', 'well', 'best', 'fair', 'good', 'good', 'quick', 'good', 'better', 'good', 'special']",18,"['great', 'good', 'nice', 'super', 'free']",21,345,35560,2.846376812
+7662.0,"['cold', 'cold', 'cold']",3,['cold'],"['rare', 'free', 'free', 'free', 'great', 'great', 'cheap', 'decent', 'perfect', 'decent', 'great', 'great', 'cheap', 'free', 'best', 'nice', 'good', 'fair']",18,"['rare', 'free', 'great', 'cheap', 'decent']",21,975,123298,4.092307691999999
+54572.0,['cold'],1,['cold'],"['free', 'free', 'nice', 'free', 'free', 'good', 'free', 'decent', 'free', 'decent', 'good', 'free', 'free', 'free', 'free', 'free', 'decent', 'enough', 'decent']",19,"['free', 'nice', 'good', 'decent', 'enough']",20,651,61334,3.7373271889999997
+48782.0,[],0,[''],"['great', 'great', 'well', 'great', 'great', 'nice', 'great', 'great', 'great', 'good', 'great', 'great', 'great', 'nice', 'good', 'great', 'great', 'good', 'fine', 'good']",20,"['great', 'well', 'nice', 'good', 'fine']",20,196,18683,4.12244898
+181511.0,"['cold', 'cold']",2,['cold'],"['decent', 'great', 'great', 'good', 'best', 'perfect', 'great', 'well', 'great', 'decent', 'superb', 'great', 'great', 'great', 'great', 'good', 'fresh', 'good']",18,"['decent', 'great', 'good', 'best', 'perfect']",20,74,9476,3.6216216219999997
+41738.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'cold']",6,['cold'],"['fair', 'serious', 'warm', 'great', 'huge', 'great', 'quick', 'great', 'great', 'special', 'top', 'nice', 'cheap', 'better']",14,"['fair', 'serious', 'warm', 'great', 'huge']",20,242,27624,3.3553719010000003
+41984.0,"['cold', 'cold', 'smaller', 'cold']",4,"['cold', 'smaller']","['special', 'well', 'good', 'good', 'great', 'cheap', 'great', 'great', 'good', 'special', 'great', 'special', 'great', 'decent', 'great', 'good']",16,"['special', 'well', 'good', 'great', 'cheap']",20,658,75560,3.3784194530000002
+89538.0,"['cold', 'neon', 'cold']",3,"['cold', 'neon']","['cheap', 'free', 'full', 'cheap', 'cheap', 'great', 'fun', 'cheap', 'free', 'spectacular', 'free', 'cheap', 'cheap', 'free', 'free', 'cheap', 'full']",17,"['cheap', 'free', 'full', 'great', 'fun']",20,237,26212,3.953586498
+114259.0,['cold'],1,['cold'],"['great', 'great', 'well', 'decent', 'cheap', 'nice', 'good', 'good', 'great', 'better', 'nice', 'good', 'great', 'decent', 'good', 'great', 'great', 'great']",18,"['great', 'well', 'decent', 'cheap', 'nice']",19,348,28512,3.873563218
+138365.0,"['NOT_free', 'cold', 'cold']",3,"['NOT_free', 'cold']","['well', 'great', 'free', 'free', 'free', 'free', 'nice', 'perfect', 'good', 'good', 'free', 'good', 'free', 'free', 'great']",15,"['well', 'great', 'free', 'nice', 'perfect']",18,113,9364,3.389380531
+82713.0,"['small', 'cold', 'cold']",3,"['small', 'cold']","['free', 'great', 'fun', 'better', 'good', 'good', 'nice', 'nice', 'great', 'nice', 'great', 'good', 'good', 'good', 'great']",15,"['free', 'great', 'fun', 'better', 'good']",18,288,23026,4.0798611110000005
+166418.0,"['cold', 'cold', 'cold']",3,['cold'],"['nice', 'perfect', 'nice', 'good', 'decent', 'premium', 'great', 'nice', 'great', 'great', 'great', 'better', 'great', 'great', 'nectar']",15,"['nice', 'perfect', 'good', 'decent', 'premium']",18,1179,145976,3.791348601
+13910.0,[],0,[''],"['good', 'good', 'nice', 'great', 'good', 'cheap', 'good', 'cool', 'good', 'nice', 'classic', 'good', 'standard', 'great', 'good', 'cheap', 'well', 'rare']",18,"['good', 'nice', 'great', 'cheap', 'cool']",18,341,39113,4.4574780060000005
+104099.0,"['small', 'small', 'pungent', 'pungent']",4,"['small', 'pungent']","['well', 'good', 'best', 'famous', 'fun', 'warm', 'famous', 'warm', 'famous', 'nice', 'cool', 'good', 'famous', 'fresh']",14,"['well', 'good', 'best', 'famous', 'fun']",18,653,117547,4.0444104130000005
+41320.0,['cold'],1,['cold'],"['great', 'great', 'cheap', 'fun', 'great', 'great', 'full', 'decent', 'quick', 'decent', 'good', 'fun', 'cool', 'good', 'full', 'fair']",16,"['great', 'cheap', 'fun', 'full', 'decent']",17,408,64649,3.5857843139999996
+178536.0,"['cold', 'cold', 'cold', 'cold', 'NOT_sure', 'NOT_great', 'cold', 'cold', 'cold', 'cold']",10,"['cold', 'NOT_sure', 'NOT_great']","['decent', 'good', 'good', 'great', 'good', 'good', 'great']",7,"['decent', 'good', 'great']",17,135,12610,3.755555556
+132889.0,"['cold', 'cold', 'cold', 'wrong', 'cold', 'cold', 'cold', 'smaller', 'cold', 'cold']",10,"['cold', 'wrong', 'smaller']","['nice', 'cheap', 'great', 'free', 'great', 'well', 'perfect']",7,"['nice', 'cheap', 'great', 'free', 'well']",17,358,41272,2.617318436
+96769.0,"['cold', 'cold', 'cold', 'cold', 'shit', 'cold', 'NOT_enough']",7,"['cold', 'shit', 'NOT_enough']","['fun', 'good', 'super', 'fun', 'fresh', 'free', 'special', 'well', 'quick', 'best']",10,"['fun', 'good', 'super', 'fresh', 'free']",17,1513,139978,3.3073364180000002
+131823.0,"['cold', 'cold']",2,['cold'],"['good', 'nice', 'fine', 'good', 'great', 'good', 'great', 'free', 'special', 'special', 'nice', 'clean', 'pleasant', 'good', 'good']",15,"['good', 'nice', 'fine', 'great', 'free']",17,4014,613548,4.012207275
+103328.0,"['piss', 'bad', 'piss', 'bad', 'NOT_sure']",5,"['piss', 'bad', 'NOT_sure']","['cheap', 'cool', 'free', 'full', 'cheap', 'worth', 'cheap', 'decent', 'cheap', 'good', 'free', 'cheap']",12,"['cheap', 'cool', 'free', 'full', 'worth']",17,230,27588,3.1826086960000004
+145313.0,"['cold', 'cold', 'cold']",3,['cold'],"['well', 'best', 'great', 'good', 'great', 'special', 'free', 'free', 'well', 'good', 'good', 'good', 'free']",13,"['well', 'best', 'great', 'good', 'special']",16,595,61834,3.620168067
+165900.0,['NOT_sweet'],1,['NOT_sweet'],"['huge', 'giant', 'great', 'great', 'decent', 'good', 'great', 'full', 'great', 'fun', 'great', 'epic', 'huge', 'free', 'good']",15,"['huge', 'giant', 'great', 'decent', 'good']",16,80,6049,3.225
+188454.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['cheap', 'cheap', 'cheap', 'special', 'yummy', 'cheap', 'cheap', 'huge', 'cheap', 'cheap']",10,"['cheap', 'special', 'yummy', 'huge']",15,103,12656,3.86407767
+120467.0,['cold'],1,['cold'],"['cheap', 'top', 'cheap', 'cheap', 'good', 'good', 'well', 'well', 'cheep', 'cheep', 'cheap', 'cheap', 'cheap', 'cheap']",14,"['cheap', 'top', 'good', 'well', 'cheep']",15,200,17198,4.41
+21791.0,"['NOT_special', 'small', 'cold', 'cold', 'cold', 'cold']",6,"['NOT_special', 'small', 'cold']","['special', 'quick', 'special', 'best', 'good', 'special', 'great', 'special']",8,"['special', 'quick', 'best', 'good', 'great']",14,403,48811,3.9751861039999996
+170736.0,['cold'],1,['cold'],"['good', 'good', 'decent', 'good', 'quick', 'good', 'great', 'good', 'great', 'good', 'warm', 'great', 'good']",13,"['good', 'decent', 'quick', 'great', 'warm']",14,134,15291,3.559701493
+66547.0,"['cold', 'stale', 'cold', 'stale', 'stale', 'cold', 'cold', 'cold']",8,"['cold', 'stale']","['great', 'good', 'great', 'good', 'great', 'quick']",6,"['great', 'good', 'quick']",14,1525,153475,3.4196721310000004
+9439.0,['cold'],1,['cold'],"['rare', 'decent', 'better', 'good', 'best', 'good', 'nice', 'good', 'rare', 'perfect', 'good', 'nice', 'decent']",13,"['rare', 'decent', 'better', 'good', 'best']",14,1647,182875,3.937462052
+56114.0,"['cold', 'low', 'cold', 'cold']",4,"['cold', 'low']","['warm', 'great', 'special', 'free', 'well', 'well', 'giant', 'free', 'great', 'cheap']",10,"['warm', 'great', 'special', 'free', 'well']",14,307,30789,3.0521172639999996
+126019.0,[],0,[''],"['great', 'good', 'good', 'worth', 'great', 'clean', 'great', 'great', 'good', 'classic', 'great', 'best', 'great', 'good']",14,"['great', 'good', 'worth', 'clean', 'classic']",14,26,1713,4.307692308
+115446.0,"['cold', 'cold', 'pricey']",3,"['cold', 'pricey']","['great', 'great', 'nice', 'nice', 'good', 'well', 'great', 'free', 'nice', 'good', 'well']",11,"['great', 'nice', 'good', 'well', 'free']",14,658,82570,3.8313069910000004
+9032.0,"['cold', 'shit']",2,"['cold', 'shit']","['special', 'standard', 'well', 'decent', 'well', 'perfect', 'free', 'special', 'free', 'great', 'great', 'nice']",12,"['special', 'standard', 'well', 'decent', 'perfect']",14,1017,108292,4.444444444
+155096.0,[],0,[''],"['good', 'good', 'nice', 'great', 'good', 'great', 'huge', 'great', 'great', 'special', 'top', 'decent', 'good', 'huge']",14,"['good', 'nice', 'great', 'huge', 'special']",14,37,3252,3.972972973
+188995.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['good', 'good', 'good', 'nice', 'good', 'better', 'decent', 'great', 'great']",9,"['good', 'nice', 'better', 'decent', 'great']",13,868,87432,3.9101382489999996
+39770.0,"['old', 'small']",2,"['old', 'small']","['good', 'great', 'great', 'great', 'nice', 'great', 'best', 'well', 'good', 'coolest', 'great']",11,"['good', 'great', 'nice', 'best', 'well']",13,378,33061,4.698412698
+93125.0,['wrong'],1,['wrong'],"['good', 'great', 'great', 'great', 'premium', 'good', 'good', 'great', 'pseudo', 'best', 'good', 'special']",12,"['good', 'great', 'premium', 'pseudo', 'best']",13,84,9036,2.904761905
+118884.0,"['cold', 'cold', 'cold', 'cold', 'wrong']",5,"['cold', 'wrong']","['great', 'good', 'nice', 'good', 'decent', 'decent', 'good', 'special']",8,"['great', 'good', 'nice', 'decent', 'special']",13,387,40309,3.330749354
+180000.0,"['cold', 'cold', 'cold', 'cold', 'cold', 'cold']",6,['cold'],"['warm', 'warm', 'top', 'good', 'special', 'better', 'warm']",7,"['warm', 'top', 'good', 'special', 'better']",13,301,31735,2.940199336
+130241.0,"['low', 'usual', 'flat']",3,"['low', 'usual', 'flat']","['best', 'great', 'well', 'nice', 'well', 'well', 'well', 'decent', 'special', 'better']",10,"['best', 'great', 'well', 'nice', 'decent']",13,1517,200293,4.177982861
+137030.0,"['cold', 'cold', 'stale', 'NOT_great', 'NOT_great', 'cold']",6,"['cold', 'stale', 'NOT_great']","['good', 'good', 'better', 'good', 'good', 'good', 'good']",7,"['good', 'better']",13,332,39602,3.024096386
+185714.0,['cold'],1,['cold'],"['great', 'great', 'free', 'fine', 'avid', 'cheap', 'special', 'perfect', 'great', 'great', 'good', 'good']",12,"['great', 'free', 'fine', 'avid', 'cheap']",13,132,13746,3.272727273
+111254.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['well', 'good', 'well', 'cheap', 'special', 'full', 'super', 'special', 'decent']",9,"['well', 'good', 'cheap', 'special', 'full']",13,106,10008,3.9905660380000003
+185658.0,[],0,[''],"['cheap', 'great', 'best', 'standard', 'fun', 'famous', 'cheap', 'cheap', 'best', 'free', 'cheap', 'best', 'free']",13,"['cheap', 'great', 'best', 'standard', 'fun']",13,94,7638,4.117021277
+143787.0,"['cold', 'usual', 'cold', 'cold', 'cold', 'cold']",6,"['cold', 'usual']","['nice', 'great', 'cheap', 'super', 'good', 'great', 'great']",7,"['nice', 'great', 'cheap', 'super', 'good']",13,210,18344,3.204761905
+130207.0,"['cold', 'cold', 'low', 'damn', 'cold', 'cold']",6,"['cold', 'low', 'damn']","['nice', 'good', 'well', 'free', 'nice', 'full']",6,"['nice', 'good', 'well', 'free', 'full']",12,68,6668,3.485294118
+28201.0,[],0,[''],"['good', 'good', 'great', 'good', 'perfect', 'great', 'good', 'fine', 'fine', 'quick', 'good', 'cool']",12,"['good', 'great', 'perfect', 'fine', 'quick']",12,532,66049,3.883458647
+149294.0,"['cold', 'wrong', 'cold', 'cold', 'cold']",5,"['cold', 'wrong']","['sure', 'enough', 'well', 'particular', 'quick', 'quick', 'good']",7,"['sure', 'enough', 'well', 'particular', 'quick']",12,299,30290,2.9665551839999997
+142948.0,"['faux', 'NOT_good']",2,"['faux', 'NOT_good']","['nice', 'good', 'better', 'good', 'good', 'good', 'great', 'perfect', 'good', 'good']",10,"['nice', 'good', 'better', 'great', 'perfect']",12,78,9509,3.256410256
+144477.0,"['small', 'cold', 'cold', 'cold']",4,"['small', 'cold']","['sweet', 'great', 'nice', 'great', 'good', 'great', 'cool', 'great']",8,"['sweet', 'great', 'nice', 'good', 'cool']",12,397,36123,3.753148615
+147542.0,['sour'],1,['sour'],"['great', 'fun', 'great', 'fine', 'great', 'stellar', 'perfect', 'best', 'best', 'best', 'good']",11,"['great', 'fun', 'fine', 'stellar', 'perfect']",12,93,10565,3.666666667
+162510.0,"['low', 'usual']",2,"['low', 'usual']","['good', 'good', 'good', 'cheap', 'free', 'cheap', 'serious', 'cheap', 'nice', 'cheap']",10,"['good', 'cheap', 'free', 'serious', 'nice']",12,127,12069,3.874015748
+63116.0,"['cold', 'cold', 'cold']",3,['cold'],"['nice', 'cheap', 'great', 'good', 'good', 'great', 'great', 'good', 'great']",9,"['nice', 'cheap', 'great', 'good']",12,467,54042,2.685224839
+142203.0,"['flat', 'cold']",2,"['flat', 'cold']","['good', 'special', 'well', 'great', 'great', 'super', 'quick', 'special', 'decent', 'good']",10,"['good', 'special', 'well', 'great', 'super']",12,183,16231,3.737704918
+132191.0,"['flat', 'cold', 'cold']",3,"['flat', 'cold']","['enough', 'cheap', 'special', 'good', 'best', 'standard', 'free', 'best']",8,"['enough', 'cheap', 'special', 'good', 'best']",11,2801,254148,4.409853624
+47971.0,['cold'],1,['cold'],"['good', 'better', 'full', 'sure', 'good', 'great', 'decent', 'good', 'good', 'best']",10,"['good', 'better', 'full', 'sure', 'great']",11,1738,266875,3.5822784810000003
+23608.0,"['cold', 'cold', 'stiff']",3,"['cold', 'stiff']","['super', 'cheap', 'nice', 'perfect', 'good', 'cheap', 'cheap', 'cheap']",8,"['super', 'cheap', 'nice', 'perfect', 'good']",11,62,5917,3.85483871
+143487.0,['cold'],1,['cold'],"['great', 'particular', 'special', 'special', 'good', 'cheap', 'standard', 'well', 'best']",9,"['great', 'particular', 'special', 'good', 'cheap']",10,1713,141969,4.589608873
+70871.0,['cold'],1,['cold'],"['cheap', 'special', 'perfect', 'cheap', 'good', 'cheap', 'special', 'cheap', 'cheap']",9,"['cheap', 'special', 'perfect', 'good']",10,75,7180,4.413333333
+73833.0,"['cold', 'cold']",2,['cold'],"['free', 'good', 'good', 'good', 'great', 'fresh', 'huge', 'fine']",8,"['free', 'good', 'great', 'fresh', 'huge']",10,122,10511,3.967213115
+14198.0,['cold'],1,['cold'],"['well', 'great', 'good', 'decent', 'good', 'good', 'good', 'cheap', 'well']",9,"['well', 'great', 'good', 'decent', 'cheap']",10,203,22596,3.665024631
+115342.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['decent', 'good', 'good', 'super', 'good', 'special']",6,"['decent', 'good', 'super', 'special']",10,288,30356,3.565972222
+124334.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['great', 'full', 'good', 'nice', 'best']",5,"['great', 'full', 'good', 'nice', 'best']",10,1285,116582,3.8272373539999998
+97922.0,"['cold', 'cold']",2,['cold'],"['great', 'umami', 'good', 'best', 'great', 'umami', 'umami', 'full']",8,"['great', 'umami', 'good', 'best', 'full']",10,2042,382586,2.91136141
+64473.0,['usual'],1,['usual'],"['huge', 'decent', 'huge', 'cheap', 'full', 'good', 'free', 'free', 'free']",9,"['huge', 'decent', 'cheap', 'full', 'good']",10,121,16698,3.2561983469999998
+15182.0,"['small', 'cold']",2,"['small', 'cold']","['cool', 'great', 'free', 'decent', 'great', 'good', 'free', 'nice']",8,"['cool', 'great', 'free', 'decent', 'good']",10,641,66006,4.040561622
+50577.0,['small'],1,['small'],"['great', 'great', 'fine', 'nice', 'better', 'great', 'good', 'great', 'well']",9,"['great', 'fine', 'nice', 'better', 'good']",10,338,42540,3.9852071010000003
+172014.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['great', 'good', 'great', 'huge']",4,"['great', 'good', 'huge']",9,60,5106,3.7833333330000003
+98727.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['fresh', 'good', 'special', 'cheap']",4,"['fresh', 'good', 'special', 'cheap']",9,57,5662,2.859649123
+92857.0,"['cold', 'pricey']",2,"['cold', 'pricey']","['best', 'great', 'special', 'good', 'good', 'good', 'huge']",7,"['best', 'great', 'special', 'good', 'huge']",9,104,11474,3.644230769
+100502.0,"['cold', 'cold', 'cold']",3,['cold'],"['descent', 'nice', 'worth', 'well', 'free', 'cool']",6,"['descent', 'nice', 'worth', 'well', 'free']",9,209,17650,2.8899521530000003
+146945.0,"['cold', 'wrong']",2,"['cold', 'wrong']","['free', 'warm', 'epic', 'full', 'full', 'cheap', 'free']",7,"['free', 'warm', 'epic', 'full', 'cheap']",9,328,34220,3.6310975610000003
+142499.0,"['cold', 'cold']",2,['cold'],"['sure', 'full', 'great', 'good', 'special', 'good', 'good']",7,"['sure', 'full', 'great', 'good', 'special']",9,137,12776,3.788321168
+38856.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['super', 'well', 'well', 'great', 'well']",5,"['super', 'well', 'great']",9,314,32538,3.366242038
+23777.0,"['cold', 'small', 'flat', 'flat', 'cold']",5,"['cold', 'small', 'flat']","['good', 'top', 'super', 'full']",4,"['good', 'top', 'super', 'full']",9,892,87901,2.535874439
+140418.0,"['cold', 'cold']",2,['cold'],"['special', 'special', 'special', 'good', 'great', 'special', 'great']",7,"['special', 'good', 'great']",9,273,24648,4.26007326
+113803.0,[],0,[''],"['well', 'best', 'cheap', 'free', 'well', 'worth', 'special', 'quick', 'serious']",9,"['well', 'best', 'cheap', 'free', 'worth']",9,370,22235,4.786486486
+189661.0,"['cold', 'cold', 'bad']",3,"['cold', 'bad']","['decent', 'good', 'nice', 'well', 'nice', 'well']",6,"['decent', 'good', 'nice', 'well']",9,178,23088,3.449438202
+66961.0,"['usual', 'small', 'cold']",3,"['usual', 'small', 'cold']","['sure', 'special', 'good', 'decent', 'good', 'great']",6,"['sure', 'special', 'good', 'decent', 'great']",9,135,12295,3.814814815
+178101.0,"['cold', 'cold', 'small']",3,"['cold', 'small']","['well', 'fresh', 'good', 'good', 'good', 'cheap']",6,"['well', 'fresh', 'good', 'cheap']",9,2343,422223,3.01451131
+71568.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['well', 'good', 'good', 'quick']",4,"['well', 'good', 'quick']",8,684,78793,3.4371345030000002
+152071.0,"['cold', 'flat', 'flat', 'cold', 'cold', 'cold']",6,"['cold', 'flat']","['great', 'fresh']",2,"['great', 'fresh']",8,568,50329,3.705985915
+154662.0,['cold'],1,['cold'],"['good', 'good', 'great', 'decent', 'good', 'good', 'good']",7,"['good', 'great', 'decent']",8,58,4131,3.655172414
+184144.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],"['nice', 'good', 'great', 'warm']",4,"['nice', 'good', 'great', 'warm']",8,66,7387,3.1363636360000005
+13082.0,"['low', 'cold', 'cold', 'NOT_good', 'cold']",5,"['low', 'cold', 'NOT_good']","['fresh', 'great', 'decent']",3,"['fresh', 'great', 'decent']",8,126,11811,2.825396825
+83646.0,[],0,[''],"['great', 'vast', 'great', 'great', 'best', 'free', 'free', 'rare']",8,"['great', 'vast', 'best', 'free', 'rare']",8,25,2180,3.64
+43624.0,"['cold', 'cold']",2,['cold'],"['good', 'good', 'great', 'perfect', 'nice', 'special']",6,"['good', 'great', 'perfect', 'nice', 'special']",8,64,5023,3.796875
+70910.0,[],0,[''],"['good', 'great', 'good', 'good', 'good', 'great', 'good', 'perfect']",8,"['good', 'great', 'perfect']",8,124,11594,3.282258065
+11238.0,['NOT_sweet'],1,['NOT_sweet'],"['great', 'well', 'best', 'great', 'rare', 'good', 'nice']",7,"['great', 'well', 'best', 'rare', 'good']",8,488,67098,4.12704918
+71582.0,['cold'],1,['cold'],"['free', 'free', 'special', 'warm', 'free', 'free', 'well']",7,"['free', 'special', 'warm', 'well']",8,117,8587,3.427350427
+30814.0,"['pricey', 'cold', 'cold']",3,"['pricey', 'cold']","['nice', 'great', 'good', 'good', 'good']",5,"['nice', 'great', 'good']",8,494,53857,3.791497976
+121594.0,"['flat', 'cold']",2,"['flat', 'cold']","['cool', 'cheap', 'great', 'fair', 'perfect', 'perfect']",6,"['cool', 'cheap', 'great', 'fair', 'perfect']",8,78,5907,3.576923077
+161785.0,['cold'],1,['cold'],"['nice', 'cool', 'full', 'best', 'perfect', 'great', 'special']",7,"['nice', 'cool', 'full', 'best', 'perfect']",8,66,6739,3.378787879
+70447.0,"['cold', 'cold', 'cold']",3,['cold'],"['great', 'better', 'super', 'cheap', 'special']",5,"['great', 'better', 'super', 'cheap', 'special']",8,246,21521,3.869918699
+177812.0,"['cold', 'cold', 'cold', 'wrong']",4,"['cold', 'wrong']","['great', 'top', 'huge']",3,"['great', 'top', 'huge']",7,476,48043,2.3025210080000003
+145449.0,"['cold', 'cold', 'stale']",3,"['cold', 'stale']","['good', 'great', 'special', 'quick']",4,"['good', 'great', 'special', 'quick']",7,171,13394,4.1052631580000005
+15010.0,"['usual', 'cold', 'cold', 'cold', 'cold']",5,"['usual', 'cold']","['free', 'cheap']",2,"['free', 'cheap']",7,105,10553,3.761904762
+183862.0,['cold'],1,['cold'],"['good', 'quick', 'good', 'great', 'free', 'great']",6,"['good', 'quick', 'great', 'free']",7,369,57460,3.682926829
+143977.0,"['cold', 'cold', 'cold']",3,['cold'],"['special', 'standard', 'good', 'decent']",4,"['special', 'standard', 'good', 'decent']",7,151,15069,4.251655629
+65124.0,['cold'],1,['cold'],"['free', 'free', 'free', 'great', 'free', 'free']",6,"['free', 'great']",7,539,41502,4.567717996
+41906.0,['NOT_well'],1,['NOT_well'],"['well', 'great', 'special', 'free', 'good', 'warm']",6,"['well', 'great', 'special', 'free', 'good']",7,1584,203870,3.715277778
+5897.0,"['small', 'cold']",2,"['small', 'cold']","['full', 'nice', 'standard', 'perfect', 'best']",5,"['full', 'nice', 'standard', 'perfect', 'best']",7,935,98676,4.42459893
+62279.0,"['cold', 'cold', 'cold', 'cold', 'cold']",5,['cold'],"['great', 'special']",2,"['great', 'special']",7,140,13236,3.9142857139999996
+125688.0,[],0,[''],"['free', 'free', 'free', 'free', 'free', 'free', 'free']",7,['free'],7,32,5826,3.53125
+75249.0,"['cold', 'cold', 'bad']",3,"['cold', 'bad']","['best', 'fine', 'full', 'good']",4,"['best', 'fine', 'full', 'good']",7,2518,407657,3.042891183
+118913.0,['unreal'],1,['unreal'],"['special', 'great', 'great', 'good', 'sweet', 'good']",6,"['special', 'great', 'good', 'sweet']",7,468,61838,3.955128205
+13178.0,[],0,[''],"['good', 'loyal', 'nice', 'decent', 'top', 'decent', 'top']",7,"['good', 'loyal', 'nice', 'decent', 'top']",7,1228,132129,4.2149837130000005
+101640.0,['cold'],1,['cold'],"['special', 'free', 'free', 'free', 'great', 'free']",6,"['special', 'free', 'great']",7,166,12184,4.403614458
+47521.0,"['cold', 'cold']",2,['cold'],"['serious', 'serious', 'good', 'decent']",4,"['serious', 'good', 'decent']",6,87,7965,4.091954023
+69973.0,['cold'],1,['cold'],"['well', 'cool', 'great', 'good', 'decent']",5,"['well', 'cool', 'great', 'good', 'decent']",6,61,6058,3.852459016
+130280.0,"['cold', 'cold']",2,['cold'],"['cheap', 'great', 'free', 'good']",4,"['cheap', 'great', 'free', 'good']",6,52,5591,3.730769231
+61546.0,"['cold', 'cold']",2,['cold'],"['good', 'cool', 'scrumptious', 'great']",4,"['good', 'cool', 'scrumptious', 'great']",6,222,21134,4.364864865
+35816.0,"['cold', 'cold']",2,['cold'],"['better', 'fine', 'huge', 'huge']",4,"['better', 'fine', 'huge']",6,36,3214,2.138888889
+189495.0,"['cold', 'cold', 'cold', 'smaller']",4,"['cold', 'smaller']","['cool', 'cheap']",2,"['cool', 'cheap']",6,16,1777,4.25
+172009.0,"['old', 'cold']",2,"['old', 'cold']","['serious', 'nice', 'decent', 'cool']",4,"['serious', 'nice', 'decent', 'cool']",6,2366,217057,4.086221471
+150880.0,['cold'],1,['cold'],"['cheap', 'well', 'great', 'nice', 'warm']",5,"['cheap', 'well', 'great', 'nice', 'warm']",6,857,85029,3.9579929989999996
+1611.0,['usual'],1,['usual'],"['nice', 'good', 'good', 'superb', 'great']",5,"['nice', 'good', 'superb', 'great']",6,717,99142,4.064156206
+131207.0,"['old', 'cold', 'cold']",3,"['old', 'cold']","['quick', 'good', 'well']",3,"['quick', 'good', 'well']",6,1581,173359,4.018342821
+41561.0,[],0,[''],"['special', 'great', 'free', 'good', 'fair', 'worth']",6,"['special', 'great', 'free', 'good', 'fair']",6,1623,224236,4.015403574
+181051.0,['cold'],1,['cold'],"['good', 'good', 'great', 'perfect', 'good']",5,"['good', 'great', 'perfect']",6,61,5976,3.442622951
+152436.0,['cold'],1,['cold'],"['good', 'great', 'great', 'best', 'great']",5,"['good', 'great', 'best']",6,354,34804,4.070621469
+133155.0,[],0,[''],"['special', 'well', 'cool', 'free', 'decent', 'well']",6,"['special', 'well', 'cool', 'free', 'decent']",6,31,4783,2.774193548
+28836.0,['cold'],1,['cold'],"['endless', 'great', 'free', 'free', 'great']",5,"['endless', 'great', 'free']",6,89,6779,3.550561798
+182111.0,"['bitter', 'bitter']",2,['bitter'],"['decent', 'special', 'well', 'well']",4,"['decent', 'special', 'well']",6,209,21977,4.009569378
+26003.0,[],0,[''],"['great', 'cheap', 'well', 'cheap', 'well', 'good']",6,"['great', 'cheap', 'well', 'good']",6,107,15457,3.53271028
+169906.0,['piss'],1,['piss'],"['free', 'free', 'free', 'well', 'free']",5,"['free', 'well']",6,554,78839,3.2581227439999996
+68526.0,['cold'],1,['cold'],"['great', 'fresh', 'great', 'great', 'delish']",5,"['great', 'fresh', 'delish']",6,130,10784,4.146153846
+71442.0,[],0,[''],"['great', 'full', 'great', 'great', 'good', 'good']",6,"['great', 'full', 'good']",6,166,25137,3.825301205
+21037.0,"['cold', 'steep', 'cold']",3,"['cold', 'steep']","['warm', 'good', 'quick']",3,"['warm', 'good', 'quick']",6,386,40162,4.1062176169999995
+91876.0,[],0,[''],"['cool', 'great', 'good', 'good', 'clean', 'good']",6,"['cool', 'great', 'good', 'clean']",6,250,31688,3.568
+16914.0,['cold'],1,['cold'],"['great', 'enough', 'sure', 'fresh', 'super']",5,"['great', 'enough', 'sure', 'fresh', 'super']",6,271,21771,4.044280443
+185906.0,"['cold', 'cold', 'NOT_sure']",3,"['cold', 'NOT_sure']","['good', 'good', 'decent']",3,"['good', 'decent']",6,47,4647,3.063829787
+30210.0,['cold'],1,['cold'],"['good', 'quick', 'nice', 'decent']",4,"['good', 'quick', 'nice', 'decent']",5,53,5088,3.4905660380000003
+94222.0,['cold'],1,['cold'],"['quick', 'good', 'huge', 'strong']",4,"['quick', 'good', 'huge', 'strong']",5,109,8581,3.055045872
+86990.0,"['cold', 'cold']",2,['cold'],"['cheep', 'good', 'good']",3,"['cheep', 'good']",5,80,8412,4.075
+160618.0,[],0,[''],"['cheap', 'cheap', 'decent', 'cheap', 'great']",5,"['cheap', 'decent', 'great']",5,129,13020,3.519379845
+63438.0,['cold'],1,['cold'],"['good', 'quick', 'super', 'super']",4,"['good', 'quick', 'super']",5,50,4098,4.2
+111435.0,['NOT_great'],1,['NOT_great'],"['sweet', 'good', 'cheap', 'great']",4,"['sweet', 'good', 'cheap', 'great']",5,78,8980,4.179487179
+110672.0,[],0,[''],"['cheap', 'cheap', 'great', 'special', 'cheap']",5,"['cheap', 'great', 'special']",5,164,17098,3.2987804880000002
+134504.0,[],0,[''],"['fresh', 'good', 'good', 'good', 'fair']",5,"['fresh', 'good', 'fair']",5,267,37349,4.146067416
+109073.0,['cold'],1,['cold'],"['nice', 'free', 'free', 'free']",4,"['nice', 'free']",5,68,6371,2.6911764710000003
+119048.0,"['cold', 'cold']",2,['cold'],"['cheap', 'well', 'good']",3,"['cheap', 'well', 'good']",5,546,52040,3.549450549
+8007.0,[],0,[''],"['better', 'rich', 'great', 'nice', 'nice']",5,"['better', 'rich', 'great', 'nice']",5,239,30659,4.288702928999999
+84320.0,"['cold', 'cold']",2,['cold'],"['enough', 'good', 'cheap']",3,"['enough', 'good', 'cheap']",5,132,12618,4.1893939389999995
+93655.0,['usual'],1,['usual'],"['special', 'good', 'great', 'special']",4,"['special', 'good', 'great']",5,96,8449,3.583333333
+20246.0,"['cold', 'cold', 'cold', 'cold']",4,['cold'],['nice'],1,['nice'],5,12,1131,4.083333333
+136406.0,['weird'],1,['weird'],"['good', 'great', 'great', 'thick']",4,"['good', 'great', 'thick']",5,158,16169,3.341772152
+40415.0,[],0,[''],"['good', 'enough', 'great', 'great', 'decent']",5,"['good', 'enough', 'great', 'decent']",5,89,7192,3.808988764
+74620.0,['cold'],1,['cold'],"['cheap', 'cheap', 'decent', 'special']",4,"['cheap', 'decent', 'special']",5,198,18141,4.282828283
+190844.0,['cold'],1,['cold'],"['great', 'free', 'special', 'free']",4,"['great', 'free', 'special']",5,559,53430,3.735241503
+165243.0,['stale'],1,['stale'],"['decent', 'good', 'proper', 'great']",4,"['decent', 'good', 'proper', 'great']",5,44,4120,3.5
+182306.0,['cold'],1,['cold'],"['quick', 'good', 'well', 'good']",4,"['quick', 'good', 'well']",5,249,28382,2.574297189
+148573.0,"['generic', 'cold', 'small']",3,"['generic', 'cold', 'small']","['cheap', 'cheap']",2,['cheap'],5,148,16354,4.040540541
+51370.0,[],0,[''],"['great', 'cheap', 'quick', 'good', 'special']",5,"['great', 'cheap', 'quick', 'good', 'special']",5,112,11454,3.464285714
+161717.0,"['pedestrian', 'cold', 'cold', 'cold']",4,"['pedestrian', 'cold']",['good'],1,['good'],5,157,13405,3.917197452
+133837.0,['sour'],1,['sour'],"['nice', 'great', 'good', 'good']",4,"['nice', 'great', 'good']",5,199,27514,4.075376884
+53266.0,"['flat', 'small', 'cold']",3,"['flat', 'small', 'cold']","['free', 'good']",2,"['free', 'good']",5,107,12663,2.560747664
+177237.0,['cold'],1,['cold'],"['good', 'great', 'fair', 'decent']",4,"['good', 'great', 'fair', 'decent']",5,76,7653,4.3947368419999995
+20710.0,['cold'],1,['cold'],"['good', 'perfect', 'well', 'great']",4,"['good', 'perfect', 'well', 'great']",5,608,79858,4.0246710530000005
+97666.0,[],0,[''],"['coolest', 'delish', 'good', 'nice', 'best']",5,"['coolest', 'delish', 'good', 'nice', 'best']",5,105,19069,4.076190476
+89953.0,['NOT_cheap'],1,['NOT_cheap'],"['special', 'great', 'quick', 'free']",4,"['special', 'great', 'quick', 'free']",5,984,124464,3.87195122
+61604.0,"['flat', 'rude', 'damn']",3,"['flat', 'rude', 'damn']","['fair', 'free']",2,"['fair', 'free']",5,587,93899,2.391822828
+95975.0,[],0,[''],"['nice', 'premium', 'well', 'premium', 'premium']",5,"['nice', 'premium', 'well']",5,528,54452,4.378787879
+15635.0,"['cold', 'cold']",2,['cold'],"['good', 'best', 'good']",3,"['good', 'best']",5,53,3447,4.7547169810000005
+37014.0,"['limitless', 'limitless']",2,['limitless'],"['clean', 'good', 'full']",3,"['clean', 'good', 'full']",5,349,43105,3.679083095
+166014.0,['old'],1,['old'],"['good', 'cool', 'great', 'top']",4,"['good', 'cool', 'great', 'top']",5,1086,144201,3.5911602210000004
+95947.0,"['cold', 'wrong']",2,"['cold', 'wrong']","['fine', 'giant', 'great']",3,"['fine', 'giant', 'great']",5,223,19773,2.4349775780000003
+178623.0,['cold'],1,['cold'],"['great', 'cool', 'clean', 'special']",4,"['great', 'cool', 'clean', 'special']",5,217,19252,4.299539171
+162989.0,[],0,[''],"['cheap', 'well', 'well', 'good', 'good']",5,"['cheap', 'well', 'good']",5,174,21782,3.545977011
+149467.0,['wrong'],1,['wrong'],"['better', 'better', 'huge', 'great']",4,"['better', 'huge', 'great']",5,82,6459,3.817073171
+192152.0,[],0,[''],"['decent', 'free', 'good', 'good', 'good']",5,"['decent', 'free', 'good']",5,958,116694,3.2797494780000003
+156267.0,['NOT_worth'],1,['NOT_worth'],"['cheap', 'good', 'cheap', 'free']",4,"['cheap', 'good', 'free']",5,313,33713,2.348242812
+189244.0,['cold'],1,['cold'],"['great', 'free', 'great', 'special']",4,"['great', 'free', 'special']",5,66,6632,3.333333333
+135421.0,"['cold', 'cold']",2,['cold'],"['great', 'better', 'good']",3,"['great', 'better', 'good']",5,288,21379,4.909722222
+42989.0,['pricey'],1,['pricey'],"['well', 'serious', 'free', 'fav']",4,"['well', 'serious', 'free', 'fav']",5,256,28831,3.4453125
+97837.0,['small'],1,['small'],"['decent', 'nice', 'great', 'good']",4,"['decent', 'nice', 'great', 'good']",5,608,69491,4.2697368419999995
+45451.0,['cold'],1,['cold'],"['good', 'good', 'good', 'good']",4,['good'],5,27,3725,3.666666667
+121252.0,['cold'],1,['cold'],"['great', 'good', 'good', 'good']",4,"['great', 'good']",5,82,6998,3.170731707
+127304.0,['usual'],1,['usual'],"['good', 'good', 'free', 'smooth']",4,"['good', 'free', 'smooth']",5,169,14498,3.9822485210000003
+129138.0,"['small', 'pricey']",2,"['small', 'pricey']","['real', 'free', 'free']",3,"['real', 'free']",5,423,45284,3.196217494
+76471.0,['cold'],1,['cold'],"['great', 'best', 'great', 'decent']",4,"['great', 'best', 'decent']",5,903,141521,3.293466224
+91507.0,['bad'],1,['bad'],"['real', 'good', 'enough', 'well']",4,"['real', 'good', 'enough', 'well']",5,54,8796,2.314814815
+122965.0,"['cold', 'cold']",2,['cold'],"['cheap', 'well']",2,"['cheap', 'well']",4,36,2095,4.3611111110000005
+179903.0,['cold'],1,['cold'],"['enough', 'free', 'free']",3,"['enough', 'free']",4,602,61979,4.348837209
+144103.0,[],0,[''],"['best', 'great', 'full', 'full']",4,"['best', 'great', 'full']",4,2564,435312,3.992199688
+29390.0,[],0,[''],"['special', 'nice', 'special', 'special']",4,"['special', 'nice']",4,212,25368,3.29245283
+153559.0,[],0,[''],"['special', 'great', 'special', 'special']",4,"['special', 'great']",4,193,16526,3.3626943010000003
+174490.0,"['cold', 'cold']",2,['cold'],"['good', 'special']",2,"['good', 'special']",4,7,531,3.428571429
+137119.0,['bad'],1,['bad'],"['fun', 'special', 'top']",3,"['fun', 'special', 'top']",4,55,7020,3.727272727
+143659.0,[],0,[''],"['well', 'well', 'well', 'well']",4,['well'],4,542,74879,3.902214022
+16258.0,"['NOT_enough', 'cold']",2,"['NOT_enough', 'cold']","['good', 'great']",2,"['good', 'great']",4,71,4957,3.323943662
+188745.0,['NOT_cool'],1,['NOT_cool'],"['better', 'decent', 'well']",3,"['better', 'decent', 'well']",4,10,896,3.8
+48472.0,"['cold', 'cold']",2,['cold'],"['better', 'special']",2,"['better', 'special']",4,266,27808,2.676691729
+156786.0,"['cold', 'cold', 'cold']",3,['cold'],['great'],1,['great'],4,718,66509,4.227019499
+22985.0,"['cold', 'flat']",2,"['cold', 'flat']","['free', 'cheap']",2,"['free', 'cheap']",4,174,17781,3.2758620689999995
+87020.0,"['lame', 'small', 'poor']",3,"['lame', 'small', 'poor']",['cheap'],1,['cheap'],4,153,18303,2.9084967319999997
+37740.0,[],0,[''],"['fine', 'good', 'nice', 'cool']",4,"['fine', 'good', 'nice', 'cool']",4,257,32363,3.73540856
+8982.0,['bad'],1,['bad'],"['great', 'well', 'premium']",3,"['great', 'well', 'premium']",4,341,63601,3.026392962
+127932.0,['usual'],1,['usual'],"['special', 'casual', 'cheap']",3,"['special', 'casual', 'cheap']",4,20,2690,3.55
+13500.0,[],0,[''],"['popular', 'nice', 'great', 'full']",4,"['popular', 'nice', 'great', 'full']",4,508,42454,4.49015748
+127416.0,[],0,[''],"['cheap', 'good', 'great', 'well']",4,"['cheap', 'good', 'great', 'well']",4,64,7862,3.203125
+107391.0,['NOT_clean'],1,['NOT_clean'],"['special', 'special', 'special']",3,['special'],4,39,3368,3.615384615
+135285.0,['cold'],1,['cold'],"['good', 'good', 'good']",3,['good'],4,81,11083,3.75308642
+160452.0,"['cold', 'cold']",2,['cold'],"['smooth', 'nice']",2,"['smooth', 'nice']",4,699,65256,3.981402003
+35744.0,[],0,[''],"['good', 'decent', 'superb', 'nice']",4,"['good', 'decent', 'superb', 'nice']",4,2500,310304,4.354
+31759.0,"['cold', 'cold']",2,['cold'],"['great', 'good']",2,"['great', 'good']",4,50,3381,3.84
+93761.0,"['cold', 'NOT_special', 'cold']",3,"['cold', 'NOT_special']",['good'],1,['good'],4,85,8608,3.282352941
+46867.0,['stale'],1,['stale'],"['best', 'perfect', 'well']",3,"['best', 'perfect', 'well']",4,2238,358142,3.085790885
+25918.0,['cold'],1,['cold'],"['well', 'perfect', 'cheap']",3,"['well', 'perfect', 'cheap']",4,111,10225,3.9819819819999998
+26202.0,[],0,[''],"['perfect', 'good', 'great', 'cheap']",4,"['perfect', 'good', 'great', 'cheap']",4,286,33082,3.482517483
+34159.0,[],0,[''],"['good', 'cool', 'free', 'free']",4,"['good', 'cool', 'free']",4,809,126633,3.70210136
+96069.0,['cold'],1,['cold'],"['special', 'good', 'good']",3,"['special', 'good']",4,509,51100,3.923379175
+181310.0,['cold'],1,['cold'],"['fresh', 'great', 'great']",3,"['fresh', 'great']",4,61,4511,3.081967213
+136132.0,"['cold', 'cold']",2,['cold'],"['cheap', 'good']",2,"['cheap', 'good']",4,44,4864,2.409090909
+115627.0,"['cold', 'pricey', 'cold']",3,"['cold', 'pricey']",['great'],1,['great'],4,484,37555,4.080578512
+129335.0,"['cold', 'cold', 'small']",3,"['cold', 'small']",['well'],1,['well'],4,48,3015,4.354166667
+114337.0,"['cold', 'sour']",2,"['cold', 'sour']","['well', 'special']",2,"['well', 'special']",4,142,12862,4.14084507
+78434.0,"['cold', 'cold']",2,['cold'],"['real', 'great']",2,"['real', 'great']",4,30,2899,3.933333333
+158588.0,"['cold', 'cold']",2,['cold'],"['fresh', 'good']",2,"['fresh', 'good']",4,417,50798,3.088729017
+4124.0,[],0,[''],"['decent', 'good', 'good', 'great']",4,"['decent', 'good', 'great']",4,1896,271022,4.09757384
+48113.0,[],0,[''],"['better', 'well', 'nice', 'well']",4,"['better', 'well', 'nice']",4,252,30107,3.873015873
+52441.0,"['cold', 'cold']",2,['cold'],"['good', 'cheap']",2,"['good', 'cheap']",4,33,1825,3.939393939
+27961.0,"['cold', 'cold', 'NOT_good']",3,"['cold', 'NOT_good']",['worth'],1,['worth'],4,124,12620,3.129032258
+186881.0,[],0,[''],"['cool', 'cheap', 'good', 'cheap']",4,"['cool', 'cheap', 'good']",4,41,3583,4.536585366000001
+191511.0,['cold'],1,['cold'],"['nice', 'great', 'worth']",3,"['nice', 'great', 'worth']",4,1277,133591,3.889584965
+130158.0,"['cold', 'NOT_good', 'cold']",3,"['cold', 'NOT_good']",['good'],1,['good'],4,255,26043,3.615686275
+103432.0,['cold'],1,['cold'],"['good', 'decent', 'cheap']",3,"['good', 'decent', 'cheap']",4,50,3186,4.48
+27967.0,"['cold', 'neon']",2,"['cold', 'neon']","['quick', 'endless']",2,"['quick', 'endless']",4,27,4833,3.185185185
+70931.0,[],0,[''],"['good', 'free', 'premium', 'great']",4,"['good', 'free', 'premium', 'great']",4,1429,232291,4.070678796
+91387.0,"['NOT_good', 'wrong', 'shit']",3,"['NOT_good', 'wrong', 'shit']",['clean'],1,['clean'],4,488,67460,2.864754098
+114297.0,[],0,[''],"['cheap', 'great', 'cheap', 'well']",4,"['cheap', 'great', 'well']",4,5,483,4.2
+113552.0,[],0,[''],"['good', 'cheap', 'good', 'good']",4,"['good', 'cheap']",4,40,3293,3.575
+178989.0,['cold'],1,['cold'],"['cheap', 'warm', 'good']",3,"['cheap', 'warm', 'good']",4,147,20146,4.040816327
+164571.0,[],0,[''],"['good', 'great', 'fun', 'great']",4,"['good', 'great', 'fun']",4,42,2550,4.0
+184707.0,['cold'],1,['cold'],"['super', 'great', 'good']",3,"['super', 'great', 'good']",4,61,6227,2.901639344
+125478.0,['bad'],1,['bad'],"['decent', 'great', 'great']",3,"['decent', 'great']",4,479,52201,4.267223382
+141975.0,['cold'],1,['cold'],"['fair', 'good', 'good']",3,"['fair', 'good']",4,90,11929,3.133333333
+67070.0,['weird'],1,['weird'],"['good', 'good', 'well']",3,"['good', 'well']",4,323,41524,3.6811145510000003
+79620.0,[],0,[''],"['cool', 'warm', 'good', 'quick']",4,"['cool', 'warm', 'good', 'quick']",4,488,61253,3.0758196719999997
+12621.0,['bad'],1,['bad'],"['fresh', 'fresh', 'well']",3,"['fresh', 'well']",4,939,134974,4.208732694
+154845.0,['cold'],1,['cold'],"['perfect', 'better']",2,"['perfect', 'better']",3,395,39948,2.9063291139999996
+11753.0,"['cold', 'cold']",2,['cold'],['clean'],1,['clean'],3,53,4564,3.6415094339999996
+122577.0,"['cold', 'cold']",2,['cold'],['good'],1,['good'],3,41,2363,4.585365854
+46777.0,['NOT_well'],1,['NOT_well'],"['free', 'free']",2,['free'],3,49,4670,3.673469388
+128130.0,['cold'],1,['cold'],"['good', 'clean']",2,"['good', 'clean']",3,21,1218,4.19047619
+61519.0,[],0,[''],"['well', 'free', 'well']",3,"['well', 'free']",3,125,19781,3.2319999999999998
+108786.0,[],0,[''],"['pleasant', 'best', 'fresh']",3,"['pleasant', 'best', 'fresh']",3,112,12823,4.508928571
+62926.0,[],0,[''],"['great', 'good', 'good']",3,"['great', 'good']",3,47,2866,4.829787233999999
+169928.0,[],0,[''],"['good', 'well', 'great']",3,"['good', 'well', 'great']",3,1266,168195,4.32464455
+117949.0,[],0,[''],"['great', 'free', 'free']",3,"['great', 'free']",3,91,10483,3.483516484
+101708.0,['cold'],1,['cold'],"['good', 'nice']",2,"['good', 'nice']",3,2434,295009,4.061216105
+67092.0,[],0,[''],"['nice', 'good', 'fresh']",3,"['nice', 'good', 'fresh']",3,1412,243611,3.600566572
+11528.0,[],0,[''],"['great', 'great', 'better']",3,"['great', 'better']",3,42,5733,3.642857143
+88683.0,['complex'],1,['complex'],"['warm', 'free']",2,"['warm', 'free']",3,588,104014,3.020408163
+190744.0,['cold'],1,['cold'],"['good', 'good']",2,['good'],3,214,29053,3.859813084
+167512.0,['cold'],1,['cold'],"['quick', 'free']",2,"['quick', 'free']",3,54,4829,3.5555555560000003
+15561.0,['cold'],1,['cold'],"['cheap', 'cheap']",2,['cheap'],3,34,4284,3.264705882
+51354.0,"['NOT_fresh', 'cold', 'cold']",3,"['NOT_fresh', 'cold']",[],0,[''],3,122,11102,3.581967213
+128490.0,[],0,[''],"['nice', 'decent', 'great']",3,"['nice', 'decent', 'great']",3,28,2790,3.321428571
+24975.0,['cold'],1,['cold'],"['nice', 'great']",2,"['nice', 'great']",3,39,3887,3.0512820510000003
+36418.0,[],0,[''],"['decent', 'special', 'special']",3,"['decent', 'special']",3,67,8109,3.119402985
+164960.0,[],0,[''],"['good', 'best', 'better']",3,"['good', 'best', 'better']",3,525,69909,3.3485714289999997
+178230.0,"['cold', 'sour']",2,"['cold', 'sour']",['good'],1,['good'],3,32,2792,3.78125
+180807.0,[],0,[''],"['sweet', 'good', 'nice']",3,"['sweet', 'good', 'nice']",3,39,5354,2.58974359
+60823.0,[],0,[''],"['free', 'warm', 'well']",3,"['free', 'warm', 'well']",3,190,28091,2.9105263160000003
+139298.0,"['small', 'NOT_particular']",2,"['small', 'NOT_particular']",['decent'],1,['decent'],3,126,12376,3.619047619
+102378.0,['cold'],1,['cold'],"['good', 'special']",2,"['good', 'special']",3,76,7583,4.1315789469999995
+162637.0,[],0,[''],"['better', 'well', 'decent']",3,"['better', 'well', 'decent']",3,404,56713,4.03960396
+32812.0,['pricey'],1,['pricey'],"['good', 'good']",2,['good'],3,48,3299,3.1875
+176362.0,['cold'],1,['cold'],"['perfect', 'cheap']",2,"['perfect', 'cheap']",3,35,3360,3.628571429
+79872.0,['NOT_top'],1,['NOT_top'],"['good', 'rare']",2,"['good', 'rare']",3,703,101440,3.40113798
+38269.0,"['cold', 'cold']",2,['cold'],['nice'],1,['nice'],3,47,4140,3.170212766
+64635.0,['usual'],1,['usual'],"['better', 'giant']",2,"['better', 'giant']",3,75,9661,3.733333333
+74655.0,['cold'],1,['cold'],"['good', 'warm']",2,"['good', 'warm']",3,55,4712,3.0
+103022.0,['cold'],1,['cold'],"['great', 'good']",2,"['great', 'good']",3,107,9501,3.570093458
+107608.0,"['cold', 'usual']",2,"['cold', 'usual']",['quick'],1,['quick'],3,651,69659,3.5192012289999997
+134809.0,[],0,[''],"['good', 'well', 'fresh']",3,"['good', 'well', 'fresh']",3,55,4606,3.018181818
+166694.0,[],0,[''],"['great', 'classic', 'good']",3,"['great', 'classic', 'good']",3,89,10439,3.494382022
+50310.0,[],0,[''],"['special', 'well', 'fair']",3,"['special', 'well', 'fair']",3,51,7292,4.117647058999999
+6193.0,['cold'],1,['cold'],"['free', 'good']",2,"['free', 'good']",3,77,10157,4.350649351
+128788.0,['cold'],1,['cold'],"['great', 'well']",2,"['great', 'well']",3,399,49246,3.654135338
+843.0,"['cant', 'cold']",2,"['cant', 'cold']",['well'],1,['well'],3,581,54784,3.6351118760000003
+117028.0,[],0,[''],"['great', 'good', 'avid']",3,"['great', 'good', 'avid']",3,96,6686,4.197916667
+127376.0,"['cold', 'cold', 'cold']",3,['cold'],[],0,[''],3,390,34689,3.143589744
+30558.0,['cold'],1,['cold'],"['cheap', 'cheap']",2,['cheap'],3,14,1375,4.214285714
+13269.0,[],0,[''],"['great', 'decent', 'real']",3,"['great', 'decent', 'real']",3,89,7761,4.168539326
+48969.0,[],0,[''],"['best', 'good', 'free']",3,"['best', 'good', 'free']",3,122,14032,3.254098361
+10162.0,[],0,[''],"['good', 'good', 'nice']",3,"['good', 'nice']",3,4,125,5.0
+50005.0,[],0,[''],"['cheap', 'well', 'well']",3,"['cheap', 'well']",3,39,2540,3.282051282
+127585.0,[],0,[''],"['great', 'special']",2,"['great', 'special']",2,197,22907,3.106598985
+15020.0,[],0,[''],"['great', 'special']",2,"['great', 'special']",2,9,864,2.777777778
+7295.0,[],0,[''],"['fun', 'fun']",2,['fun'],2,82,6019,4.024390244
+10256.0,[],0,[''],"['cheap', 'great']",2,"['cheap', 'great']",2,76,9235,3.565789474
+166280.0,"['cold', 'cold']",2,['cold'],[],0,[''],2,6,262,3.166666667
+21357.0,[],0,[''],"['special', 'good']",2,"['special', 'good']",2,70,6470,3.4142857139999996
+77496.0,['cold'],1,['cold'],['good'],1,['good'],2,211,24957,2.706161137
+89805.0,['cold'],1,['cold'],['great'],1,['great'],2,26,2035,4.0
+40646.0,['cold'],1,['cold'],['quick'],1,['quick'],2,27,1817,3.925925926
+144474.0,['cold'],1,['cold'],['better'],1,['better'],2,139,22319,1.971223022
+67363.0,[],0,[''],"['good', 'good']",2,['good'],2,61,6374,3.032786885
+120047.0,[],0,[''],"['quick', 'full']",2,"['quick', 'full']",2,39,2597,4.0
+67262.0,[],0,[''],"['good', 'decent']",2,"['good', 'decent']",2,131,11379,4.106870229
+544.0,[],0,[''],"['decent', 'well']",2,"['decent', 'well']",2,86,9387,3.813953488
+167361.0,[],0,[''],"['free', 'well']",2,"['free', 'well']",2,282,39650,2.9148936169999997
+105923.0,"['small', 'cold']",2,"['small', 'cold']",[],0,[''],2,25,2281,4.12
+103280.0,['cold'],1,['cold'],['standard'],1,['standard'],2,32,3434,4.40625
+122292.0,[],0,[''],"['cool', 'great']",2,"['cool', 'great']",2,492,70708,3.4939024389999997
+48269.0,[],0,[''],"['good', 'great']",2,"['good', 'great']",2,341,43484,4.545454545
+51035.0,[],0,[''],"['cheap', 'good']",2,"['cheap', 'good']",2,10,755,3.9
+189704.0,"['cold', 'cold']",2,['cold'],[],0,[''],2,15,716,4.066666667
+72461.0,['cold'],1,['cold'],['good'],1,['good'],2,117,11971,3.504273504
+95302.0,[],0,[''],"['free', 'loyal']",2,"['free', 'loyal']",2,30,4021,3.2
+96021.0,[],0,[''],"['good', 'top']",2,"['good', 'top']",2,38,4212,3.578947368
+81109.0,"['usual', 'cold']",2,"['usual', 'cold']",[],0,[''],2,102,7596,3.401960784
+181473.0,['NOT_enough'],1,['NOT_enough'],['special'],1,['special'],2,416,64662,4.129807692
+93036.0,[],0,[''],"['nice', 'free']",2,"['nice', 'free']",2,122,8538,4.7704918030000005
+61682.0,[],0,[''],"['great', 'good']",2,"['great', 'good']",2,8,660,4.375
+108872.0,[],0,[''],"['cheap', 'cheap']",2,['cheap'],2,10,1034,2.8
+188688.0,[],0,[''],"['cheap', 'great']",2,"['cheap', 'great']",2,5,431,3.8
+159375.0,['bad'],1,['bad'],['sure'],1,['sure'],2,23,3128,3.6086956519999998
+123809.0,[],0,[''],"['cool', 'quick']",2,"['cool', 'quick']",2,15,1242,2.933333333
+162337.0,[],0,[''],"['decent', 'great']",2,"['decent', 'great']",2,69,8415,3.420289855
+56703.0,[],0,[''],"['cheap', 'best']",2,"['cheap', 'best']",2,72,7715,3.0694444439999997
+68128.0,[],0,[''],"['great', 'great']",2,['great'],2,212,22483,4.1981132080000005
+87155.0,['cold'],1,['cold'],['cheap'],1,['cheap'],2,11,766,4.272727273
+132997.0,[],0,[''],"['nice', 'nice']",2,['nice'],2,305,32390,4.124590164
+35288.0,[],0,[''],"['best', 'well']",2,"['best', 'well']",2,47,4053,2.574468085
+47640.0,[],0,[''],"['clean', 'good']",2,"['clean', 'good']",2,390,27120,4.387179487
+26931.0,[],0,[''],"['great', 'special']",2,"['great', 'special']",2,24,2592,3.833333333
+15762.0,['cold'],1,['cold'],['good'],1,['good'],2,14,1408,3.642857143
+63046.0,['flat'],1,['flat'],['better'],1,['better'],2,465,57127,3.537634409
+45222.0,['cold'],1,['cold'],['special'],1,['special'],2,392,43708,4.158163265
+74431.0,[],0,[''],"['nice', 'well']",2,"['nice', 'well']",2,6,840,3.833333333
+13066.0,['cold'],1,['cold'],['special'],1,['special'],2,87,8961,4.057471264
+62528.0,[],0,[''],"['full', 'good']",2,"['full', 'good']",2,365,60506,3.553424658
+60990.0,[],0,[''],"['great', 'great']",2,['great'],2,36,3988,3.0555555560000003
+77026.0,['damn'],1,['damn'],['full'],1,['full'],2,3212,504416,3.817247821
+115653.0,['cold'],1,['cold'],['neat'],1,['neat'],2,47,4501,3.9148936169999997
+103909.0,['weird'],1,['weird'],['well'],1,['well'],2,152,22150,2.782894737
+27054.0,['pricey'],1,['pricey'],['great'],1,['great'],2,983,156439,3.855544252
+128113.0,[],0,[''],"['fine', 'cheap']",2,"['fine', 'cheap']",2,11,957,1.8181818180000002
+6373.0,[],0,[''],"['great', 'good']",2,"['great', 'good']",2,439,59229,4.423690205
+49756.0,"['cold', 'cold']",2,['cold'],[],0,[''],2,130,14311,3.7461538460000003
+65065.0,[],0,[''],"['premium', 'cheap']",2,"['premium', 'cheap']",2,35,3552,3.1142857139999998
+129786.0,[],0,[''],"['great', 'free']",2,"['great', 'free']",2,33,3426,3.5757575760000004
+148058.0,[],0,[''],"['cheap', 'fair']",2,"['cheap', 'fair']",2,556,79862,2.575539568
+165162.0,['pricey'],1,['pricey'],['good'],1,['good'],2,5,466,4.2
+130453.0,[],0,[''],"['good', 'full']",2,"['good', 'full']",2,261,30438,3.2490421460000003
+47809.0,[],0,[''],"['great', 'great']",2,['great'],2,28,2823,4.964285714
+188375.0,[],0,[''],"['well', 'great']",2,"['well', 'great']",2,39,3957,4.076923077
+8194.0,['cold'],1,['cold'],['great'],1,['great'],2,12,1782,3.833333333
+144997.0,['stiff'],1,['stiff'],['warm'],1,['warm'],2,108,18512,3.342592593
+33029.0,['cold'],1,['cold'],['special'],1,['special'],2,80,6170,2.3125
+95230.0,['low'],1,['low'],['great'],1,['great'],2,59,4770,3.627118644
+133856.0,[],0,[''],"['well', 'nice']",2,"['well', 'nice']",2,389,44410,3.858611825
+127089.0,['cold'],1,['cold'],['fair'],1,['fair'],2,40,4943,2.575
+136062.0,[],0,[''],"['great', 'good']",2,"['great', 'good']",2,32,2801,4.28125
+140230.0,['cold'],1,['cold'],['cheap'],1,['cheap'],2,39,3946,3.333333333
+110217.0,[],0,[''],"['good', 'good']",2,['good'],2,128,11878,3.921875
+166869.0,[],0,[''],"['top', 'special']",2,"['top', 'special']",2,165,19486,4.03030303
+122119.0,[],0,[''],"['better', 'cheap']",2,"['better', 'cheap']",2,53,4467,3.0754716980000003
+120155.0,[],0,[''],"['nice', 'special']",2,"['nice', 'special']",2,30,3360,2.933333333
+34640.0,['cold'],1,['cold'],['good'],1,['good'],2,122,11340,3.672131148
+70987.0,['damn'],1,['damn'],['best'],1,['best'],2,553,74880,3.195298373
+160863.0,[],0,[''],"['great', 'nice']",2,"['great', 'nice']",2,387,54478,3.9379844960000003
+105065.0,[],0,[''],"['great', 'well']",2,"['great', 'well']",2,872,112901,3.834862385
+69323.0,[],0,[''],"['good', 'good']",2,['good'],2,924,141713,3.988095238
+64998.0,"['cold', 'cold']",2,['cold'],[],0,[''],2,65,6512,3.3692307689999996
+133387.0,['cold'],1,['cold'],['warm'],1,['warm'],2,1415,201290,3.865017668
+123655.0,[],0,[''],"['cheap', 'free']",2,"['cheap', 'free']",2,20,1635,3.6
+89791.0,[],0,[''],"['great', 'popular']",2,"['great', 'popular']",2,85,7607,4.294117647
+26701.0,[],0,[''],"['free', 'free']",2,['free'],2,124,10478,4.814516128999999
+65563.0,[],0,[''],"['casual', 'special']",2,"['casual', 'special']",2,22,2223,3.227272727
+115859.0,[],0,[''],"['well', 'great']",2,"['well', 'great']",2,17,1229,4.117647058999999
+63881.0,[],0,[''],"['perfect', 'better']",2,"['perfect', 'better']",2,38,3529,4.578947368
+175283.0,['cold'],1,['cold'],['good'],1,['good'],2,24,1592,2.583333333
+181035.0,[],0,[''],"['decent', 'cheap']",2,"['decent', 'cheap']",2,158,14554,3.803797468
+14530.0,[],0,[''],"['good', 'worth']",2,"['good', 'worth']",2,44,4513,2.8181818180000002
+94932.0,"['cold', 'cold']",2,['cold'],[],0,[''],2,38,3215,3.315789474
+50274.0,[],0,[''],"['special', 'nice']",2,"['special', 'nice']",2,332,53574,3.7319277110000004
+87854.0,['damn'],1,['damn'],['full'],1,['full'],2,613,70260,3.5579119089999995
+89520.0,['cold'],1,['cold'],['nice'],1,['nice'],2,121,12486,4.148760331
+14034.0,['wrong'],1,['wrong'],['pleasant'],1,['pleasant'],2,356,39552,3.52247191
+127612.0,[],0,[''],"['cheap', 'free']",2,"['cheap', 'free']",2,31,2239,3.451612903
+121828.0,[],0,[''],"['great', 'great']",2,['great'],2,205,26653,3.8975609760000003
+16699.0,[],0,[''],"['great', 'fair']",2,"['great', 'fair']",2,89,5576,4.550561798
+191271.0,['cold'],1,['cold'],['well'],1,['well'],2,15,1042,3.6
+170112.0,[],0,[''],"['good', 'good']",2,['good'],2,46,4806,3.413043478
+98768.0,['cold'],1,['cold'],['nice'],1,['nice'],2,9,899,1.888888889
+143794.0,['cold'],1,['cold'],['cheap'],1,['cheap'],2,23,1779,4.173913043
+143780.0,['cold'],1,['cold'],['great'],1,['great'],2,54,6107,4.092592593
+79208.0,[],0,[''],"['free', 'great']",2,"['free', 'great']",2,104,13806,3.269230769
+55069.0,[],0,[''],"['great', 'special']",2,"['great', 'special']",2,26,2085,4.115384615
+65159.0,['cold'],1,['cold'],['full'],1,['full'],2,58,5901,3.1896551719999997
+15737.0,['cold'],1,['cold'],['free'],1,['free'],2,459,48577,3.923747277
+3163.0,['cold'],1,['cold'],['fun'],1,['fun'],2,21,2434,4.095238095
+71945.0,['cold'],1,['cold'],['nice'],1,['nice'],2,14,1483,4.071428571
+136341.0,['cold'],1,['cold'],['great'],1,['great'],2,441,58248,3.553287982
+166570.0,[],0,[''],"['decent', 'great']",2,"['decent', 'great']",2,92,9269,4.47826087
+102679.0,[],0,[''],"['great', 'well']",2,"['great', 'well']",2,30,2794,2.4
+73859.0,[],0,[''],"['special', 'decent']",2,"['special', 'decent']",2,86,9001,2.9651162789999996
+89222.0,[],0,[''],['good'],1,['good'],1,21,3425,2.904761905
+50816.0,[],0,[''],['well'],1,['well'],1,771,116779,2.883268482
+53617.0,[],0,[''],['well'],1,['well'],1,80,16804,2.525
+61603.0,[],0,[''],['nice'],1,['nice'],1,115,13486,4.234782609
+88135.0,[],0,[''],['great'],1,['great'],1,75,6523,4.306666667
+27778.0,[],0,[''],['cheap'],1,['cheap'],1,20,1721,3.6
+114427.0,[],0,[''],['decent'],1,['decent'],1,235,20176,3.0851063830000003
+81125.0,[],0,[''],['cheap'],1,['cheap'],1,11,807,4.181818182
+26488.0,[],0,[''],['great'],1,['great'],1,41,3103,3.43902439
+160697.0,['cold'],1,['cold'],[],0,[''],1,379,45655,3.01055409
+148869.0,[],0,[''],['decent'],1,['decent'],1,332,43963,4.201807229
+143668.0,[],0,[''],['better'],1,['better'],1,189,17496,4.301587302
+181036.0,[],0,[''],['good'],1,['good'],1,12,670,3.916666667
+34769.0,[],0,[''],['good'],1,['good'],1,318,42154,4.053459118999999
+161628.0,[],0,[''],['special'],1,['special'],1,14,1034,3.642857143
+119128.0,['cold'],1,['cold'],[],0,[''],1,14,1337,4.428571429
+17.0,['low'],1,['low'],[],0,[''],1,10,1048,2.8
+70814.0,[],0,[''],['nice'],1,['nice'],1,55,7279,2.672727273
+19624.0,['cold'],1,['cold'],[],0,[''],1,36,3775,3.027777778
+64152.0,[],0,[''],['nice'],1,['nice'],1,129,11970,4.434108527
+97422.0,[],0,[''],['special'],1,['special'],1,6,457,3.833333333
+161264.0,['cold'],1,['cold'],[],0,[''],1,38,4393,3.263157895
+46361.0,[],0,[''],['good'],1,['good'],1,8,841,3.5
+118728.0,[],0,[''],['great'],1,['great'],1,992,113496,4.25
+162269.0,[],0,[''],['good'],1,['good'],1,30,1780,4.4
+95829.0,[],0,[''],['great'],1,['great'],1,161,18459,2.763975155
+94909.0,[],0,[''],['cheap'],1,['cheap'],1,55,5941,4.054545455
+143676.0,[],0,[''],['good'],1,['good'],1,5,632,3.2
+187792.0,['cold'],1,['cold'],[],0,[''],1,7,990,4.1428571430000005
+75043.0,[],0,[''],['well'],1,['well'],1,35,3088,4.514285714
+97899.0,['cold'],1,['cold'],[],0,[''],1,110,8744,4.081818182
+181881.0,[],0,[''],['free'],1,['free'],1,108,10327,3.166666667
+87657.0,[],0,[''],['special'],1,['special'],1,23,2868,3.217391304
+20326.0,[],0,[''],['quick'],1,['quick'],1,30,2850,3.5333333330000003
+120649.0,[],0,[''],['great'],1,['great'],1,54,3634,3.685185185
+88525.0,[],0,[''],['full'],1,['full'],1,204,25473,3.2941176469999998
+187085.0,['cold'],1,['cold'],[],0,[''],1,41,4262,4.243902439
+113525.0,[],0,[''],['well'],1,['well'],1,161,16548,3.6956521739999997
+25901.0,[],0,[''],['good'],1,['good'],1,10,910,3.9
+158050.0,['cold'],1,['cold'],[],0,[''],1,66,6000,3.1363636360000005
+156674.0,[],0,[''],['super'],1,['super'],1,644,54992,4.555900621
+156953.0,[],0,[''],['serious'],1,['serious'],1,100,8206,3.5
+80912.0,[],0,[''],['good'],1,['good'],1,517,66513,4.201160542
+116052.0,[],0,[''],['serious'],1,['serious'],1,1021,151098,3.7100881489999997
+164747.0,[],0,[''],['nice'],1,['nice'],1,133,14740,3.819548872
+38367.0,['wrong'],1,['wrong'],[],0,[''],1,164,17316,2.640243902
+187461.0,[],0,[''],['real'],1,['real'],1,142,10749,4.633802817
+38738.0,[],0,[''],['modern'],1,['modern'],1,50,5626,3.28
+169272.0,['damn'],1,['damn'],[],0,[''],1,63,7804,3.031746032
+56568.0,[],0,[''],['well'],1,['well'],1,29,3006,3.4827586210000003
+74145.0,[],0,[''],['cheap'],1,['cheap'],1,17,3649,3.882352941
+121694.0,['flat'],1,['flat'],[],0,[''],1,258,27781,2.891472868
+39918.0,['cold'],1,['cold'],[],0,[''],1,14,1754,3.785714286
+181532.0,[],0,[''],['nice'],1,['nice'],1,661,77770,4.3025718610000006
+39810.0,[],0,[''],['cheap'],1,['cheap'],1,6,467,3.833333333
+31318.0,[],0,[''],['quick'],1,['quick'],1,123,15603,3.869918699
+94745.0,[],0,[''],['great'],1,['great'],1,10,880,4.2
+73179.0,['cold'],1,['cold'],[],0,[''],1,49,4057,3.102040816
+188931.0,[],0,[''],['special'],1,['special'],1,3,300,2.333333333
+179488.0,[],0,[''],['top'],1,['top'],1,3,225,4.333333333
+161109.0,[],0,[''],['good'],1,['good'],1,778,109704,3.1529562980000003
+184798.0,[],0,[''],['super'],1,['super'],1,28,2606,2.25
+144638.0,[],0,[''],['great'],1,['great'],1,37,3923,3.594594595
+140386.0,[],0,[''],['decent'],1,['decent'],1,15,979,4.333333333
+10795.0,[],0,[''],['free'],1,['free'],1,17,2922,2.176470588
+123168.0,['cold'],1,['cold'],[],0,[''],1,41,3662,3.2439024389999997
+175701.0,['cold'],1,['cold'],[],0,[''],1,7,635,3.0
+180005.0,[],0,[''],['sure'],1,['sure'],1,432,40963,4.481481481
+10089.0,[],0,[''],['good'],1,['good'],1,548,47903,3.7262773719999998
+150264.0,[],0,[''],['good'],1,['good'],1,287,39426,3.567944251
+109986.0,[],0,[''],['fine'],1,['fine'],1,14,1441,4.6428571430000005
+38248.0,['cold'],1,['cold'],[],0,[''],1,15,1394,4.0
+42162.0,[],0,[''],['great'],1,['great'],1,264,30713,4.140151515
+188484.0,['cold'],1,['cold'],[],0,[''],1,28,2190,4.428571429
+100535.0,['cold'],1,['cold'],[],0,[''],1,420,37082,4.045238095
+101415.0,[],0,[''],['well'],1,['well'],1,267,24082,3.988764045
+82986.0,[],0,[''],['good'],1,['good'],1,455,43211,4.393406593
+111683.0,['cold'],1,['cold'],[],0,[''],1,141,15285,3.765957447
+149592.0,[],0,[''],['great'],1,['great'],1,62,7341,4.14516129
+5810.0,[],0,[''],['good'],1,['good'],1,21,3590,3.333333333
+31203.0,[],0,[''],['great'],1,['great'],1,31,2292,2.806451613
+186899.0,[],0,[''],['modern'],1,['modern'],1,670,80121,3.641791045
+173192.0,[],0,[''],['standard'],1,['standard'],1,1506,165631,3.987383798
+50981.0,['random'],1,['random'],[],0,[''],1,13,836,3.8461538460000004
+176486.0,[],0,[''],['warm'],1,['warm'],1,32,3595,4.1875
+77007.0,[],0,[''],['decent'],1,['decent'],1,15,1722,3.2
+22236.0,['bitter'],1,['bitter'],[],0,[''],1,24,2530,4.208333333
+6328.0,['cold'],1,['cold'],[],0,[''],1,154,17013,2.7987012989999998
+120930.0,[],0,[''],['quick'],1,['quick'],1,126,11467,3.714285714
+90866.0,['cold'],1,['cold'],[],0,[''],1,95,10025,3.231578947
+181034.0,[],0,[''],['free'],1,['free'],1,46,6958,3.260869565
+33487.0,[],0,[''],['decent'],1,['decent'],1,91,17895,2.32967033
+109329.0,[],0,[''],['great'],1,['great'],1,20,1902,4.45
+56659.0,[],0,[''],['good'],1,['good'],1,3,266,2.666666667
+146678.0,[],0,[''],['fresh'],1,['fresh'],1,520,69120,4.1019230769999995
+17600.0,[],0,[''],['nice'],1,['nice'],1,19,2054,3.947368421
+191218.0,['usual'],1,['usual'],[],0,[''],1,15,2078,2.266666667
+98142.0,[],0,[''],['great'],1,['great'],1,592,47815,3.618243243
+8070.0,[],0,[''],['quick'],1,['quick'],1,81,7826,3.691358025
+77564.0,[],0,[''],['decent'],1,['decent'],1,475,47303,3.621052632
+119926.0,[],0,[''],['fair'],1,['fair'],1,108,11490,3.777777778
+188815.0,[],0,[''],['quick'],1,['quick'],1,68,6397,3.75
+115738.0,[],0,[''],['special'],1,['special'],1,5,472,4.6
+67161.0,[],0,[''],['free'],1,['free'],1,7,1001,2.5714285709999998
+79840.0,[],0,[''],['special'],1,['special'],1,45,4774,3.1555555560000004
+135703.0,[],0,[''],['special'],1,['special'],1,190,19271,3.321052632
+171320.0,[],0,[''],['good'],1,['good'],1,333,60609,4.069069069
+86734.0,[],0,[''],['great'],1,['great'],1,64,9018,3.9375
+156030.0,[],0,[''],['huge'],1,['huge'],1,9,582,4.222222222
+147146.0,[],0,[''],['good'],1,['good'],1,174,22691,3.448275862
+139843.0,[],0,[''],['good'],1,['good'],1,36,2837,3.9444444439999997
+51100.0,[],0,[''],['standard'],1,['standard'],1,29,4202,3.068965517
+5297.0,[],0,[''],['good'],1,['good'],1,25,2082,4.48
+38600.0,[],0,[''],['free'],1,['free'],1,121,11495,3.132231405
+74752.0,['bad'],1,['bad'],[],0,[''],1,28,3444,3.428571429
+183498.0,[],0,[''],['huge'],1,['huge'],1,441,48877,4.133786848
+44852.0,['small'],1,['small'],[],0,[''],1,84,8004,4.154761905
+167478.0,[],0,[''],['cheap'],1,['cheap'],1,89,13021,4.269662921
+25455.0,[],0,[''],['cheap'],1,['cheap'],1,10,687,4.1
+51404.0,[],0,[''],['special'],1,['special'],1,21,1823,4.380952381
+81549.0,[],0,[''],['special'],1,['special'],1,22,3508,2.454545455
+151815.0,[],0,[''],['great'],1,['great'],1,8,276,5.0
+118940.0,[],0,[''],['great'],1,['great'],1,20,1946,4.1
+104260.0,[],0,[''],['special'],1,['special'],1,755,106518,2.9602649010000004
+120201.0,[],0,[''],['great'],1,['great'],1,27,2452,3.333333333
+81999.0,['cold'],1,['cold'],[],0,[''],1,54,5169,4.055555556
+85323.0,[],0,[''],['free'],1,['free'],1,323,33732,2.885448916
+90484.0,[],0,[''],['great'],1,['great'],1,64,7900,3.546875
+91344.0,[],0,[''],['good'],1,['good'],1,540,55178,3.692592593
+174522.0,[],0,[''],['well'],1,['well'],1,239,29935,3.3096234310000003
+93163.0,[],0,[''],['good'],1,['good'],1,1620,212148,3.8641975310000003
+45309.0,[],0,[''],['free'],1,['free'],1,39,3595,3.615384615
+109820.0,[],0,[''],['free'],1,['free'],1,392,53423,2.525510204
+53977.0,[],0,[''],['standard'],1,['standard'],1,209,27485,3.440191388
+6759.0,['usual'],1,['usual'],[],0,[''],1,289,37522,4.0346020760000005
+37985.0,[],0,[''],['good'],1,['good'],1,8,540,2.875
+32926.0,[],0,[''],['decent'],1,['decent'],1,14,1506,4.214285714
+18457.0,['wrong'],1,['wrong'],[],0,[''],1,39,4424,2.974358974
+187207.0,['cold'],1,['cold'],[],0,[''],1,46,3060,3.826086957
+33615.0,[],0,[''],['fair'],1,['fair'],1,13,922,4.384615385
+90119.0,[],0,[''],['fine'],1,['fine'],1,11,1859,3.0909090910000003
+21034.0,[],0,[''],['cheap'],1,['cheap'],1,42,6072,4.80952381
+130110.0,[],0,[''],['special'],1,['special'],1,15,1053,3.066666667
+2547.0,[],0,[''],['good'],1,['good'],1,136,11462,3.279411765
+8466.0,[],0,[''],['cheap'],1,['cheap'],1,250,32143,3.372
+130669.0,['cold'],1,['cold'],[],0,[''],1,51,4274,2.470588235
+17079.0,[],0,[''],['free'],1,['free'],1,29,2625,2.655172414
+152904.0,[],0,[''],['good'],1,['good'],1,9,813,3.888888889
+81555.0,[],0,[''],['well'],1,['well'],1,27,3143,2.925925926
+113318.0,['NOT_casual'],1,['NOT_casual'],[],0,[''],1,1165,181361,2.875536481
+108079.0,[],0,[''],['great'],1,['great'],1,432,59962,3.986111111
+134775.0,[],0,[''],['generous'],1,['generous'],1,28,4622,3.571428571
+30934.0,['cold'],1,['cold'],[],0,[''],1,62,5111,3.967741935
+95545.0,['cold'],1,['cold'],[],0,[''],1,47,4623,2.85106383
+143085.0,[],0,[''],['cheap'],1,['cheap'],1,458,46640,4.42139738
+141173.0,[],0,[''],['great'],1,['great'],1,41,4518,2.7317073169999997
+61295.0,[],0,[''],['good'],1,['good'],1,14,905,3.5
+184519.0,[],0,[''],['avid'],1,['avid'],1,259,35589,4.55984556
+141592.0,['cold'],1,['cold'],[],0,[''],1,222,24576,2.509009009
+117435.0,[],0,[''],['good'],1,['good'],1,50,8294,2.76
+127132.0,[],0,[''],['great'],1,['great'],1,240,23287,4.166666667
+61631.0,[],0,[''],['special'],1,['special'],1,17,2355,3.764705882
+64536.0,[],0,[''],['fine'],1,['fine'],1,112,12026,4.008928571
+45625.0,[],0,[''],['best'],1,['best'],1,126,16830,4.0
+51763.0,[],0,[''],['cheap'],1,['cheap'],1,92,8200,3.967391304
+89429.0,[],0,[''],['well'],1,['well'],1,23,1963,4.304347826
+319.0,[],0,[''],['great'],1,['great'],1,8,861,3.875
+92009.0,[],0,[''],[],0,[''],0,61,8033,3.37704918
+87061.0,[],0,[''],[],0,[''],0,64,5411,4.484375
+172435.0,[],0,[''],[],0,[''],0,141,18060,3.056737589
+33558.0,[],0,[''],[],0,[''],0,75,7902,3.44
+141969.0,[],0,[''],[],0,[''],0,12,1297,3.5
+67964.0,[],0,[''],[],0,[''],0,8,658,4.125
+113284.0,[],0,[''],[],0,[''],0,14,1470,3.785714286
+152803.0,[],0,[''],[],0,[''],0,414,32356,4.188405797
+190602.0,[],0,[''],[],0,[''],0,100,11798,3.34
+67224.0,[],0,[''],[],0,[''],0,9,853,3.222222222
+39404.0,[],0,[''],[],0,[''],0,5,429,3.4
+170768.0,[],0,[''],[],0,[''],0,310,68735,4.332258065
+171525.0,[],0,[''],[],0,[''],0,64,4925,4.84375
+117751.0,[],0,[''],[],0,[''],0,71,6029,4.788732394
+7552.0,[],0,[''],[],0,[''],0,21,1770,4.476190476
+38579.0,[],0,[''],[],0,[''],0,5,632,3.4
+23370.0,[],0,[''],[],0,[''],0,6,241,4.333333333
+134593.0,[],0,[''],[],0,[''],0,4,394,1.75
+137905.0,[],0,[''],[],0,[''],0,644,114806,4.549689441
+34591.0,[],0,[''],[],0,[''],0,8,621,4.125
+75837.0,[],0,[''],[],0,[''],0,7,592,4.571428571
+143275.0,[],0,[''],[],0,[''],0,3,302,2.333333333
+38152.0,[],0,[''],[],0,[''],0,883,155471,4.30804077
+169657.0,[],0,[''],[],0,[''],0,35,3710,2.971428571
+149256.0,[],0,[''],[],0,[''],0,587,69658,3.6865417380000003
+7199.0,[],0,[''],[],0,[''],0,8,479,3.5
+151278.0,[],0,[''],[],0,[''],0,13,1380,2.769230769
+132076.0,[],0,[''],[],0,[''],0,126,15376,3.111111111
+115347.0,[],0,[''],[],0,[''],0,14,844,3.0
+79320.0,[],0,[''],[],0,[''],0,377,50182,4.4429708219999995
+43040.0,[],0,[''],[],0,[''],0,11,1594,3.545454545
+173152.0,[],0,[''],[],0,[''],0,283,30470,3.2544169610000004
+108390.0,[],0,[''],[],0,[''],0,303,34122,3.716171617
+121298.0,[],0,[''],[],0,[''],0,11,2455,2.272727273
+164092.0,[],0,[''],[],0,[''],0,241,23951,3.780082988
+180551.0,[],0,[''],[],0,[''],0,11,1211,3.0
+179343.0,[],0,[''],[],0,[''],0,20,2356,3.4
+42532.0,[],0,[''],[],0,[''],0,21,2998,4.19047619
+2335.0,[],0,[''],[],0,[''],0,25,3436,3.88
+34836.0,[],0,[''],[],0,[''],0,25,4263,3.6
+161080.0,[],0,[''],[],0,[''],0,45,3897,3.9111111110000003
+52337.0,[],0,[''],[],0,[''],0,9,1526,3.666666667
+874.0,[],0,[''],[],0,[''],0,22,2259,3.454545455
+89736.0,[],0,[''],[],0,[''],0,6,545,2.333333333
+49081.0,[],0,[''],[],0,[''],0,9,850,3.4444444439999997
+149411.0,[],0,[''],[],0,[''],0,19,2281,4.315789474
+34924.0,[],0,[''],[],0,[''],0,4,432,4.5
+38181.0,[],0,[''],[],0,[''],0,4,481,2.75
+112015.0,[],0,[''],[],0,[''],0,362,48082,3.522099448
+16938.0,[],0,[''],[],0,[''],0,26,3866,3.615384615
+113508.0,[],0,[''],[],0,[''],0,25,2530,4.12
+28266.0,[],0,[''],[],0,[''],0,12,932,3.166666667
+165250.0,[],0,[''],[],0,[''],0,48,3839,3.791666667
+2840.0,[],0,[''],[],0,[''],0,38,5469,3.552631579
+812.0,[],0,[''],[],0,[''],0,6,528,2.166666667
+116034.0,[],0,[''],[],0,[''],0,29,2298,4.1724137930000005
+107033.0,[],0,[''],[],0,[''],0,4,408,3.5
+99833.0,[],0,[''],[],0,[''],0,3,338,4.0
+88071.0,[],0,[''],[],0,[''],0,13,1728,3.8461538460000004
+49621.0,[],0,[''],[],0,[''],0,6,693,4.0
+174015.0,[],0,[''],[],0,[''],0,15,1877,3.666666667
+185044.0,[],0,[''],[],0,[''],0,55,5118,3.545454545
+148801.0,[],0,[''],[],0,[''],0,280,27393,3.121428571
+107155.0,[],0,[''],[],0,[''],0,425,43673,3.5388235289999996
+172412.0,[],0,[''],[],0,[''],0,3,141,4.333333333
+115128.0,[],0,[''],[],0,[''],0,867,117076,4.151095732
+146825.0,[],0,[''],[],0,[''],0,14,844,2.285714286
+7555.0,[],0,[''],[],0,[''],0,3,152,4.333333333
+179697.0,[],0,[''],[],0,[''],0,17,1780,2.764705882
+48274.0,[],0,[''],[],0,[''],0,18,1119,3.388888889
+80980.0,[],0,[''],[],0,[''],0,7,775,3.428571429
+182806.0,[],0,[''],[],0,[''],0,66,10988,3.151515152
+191205.0,[],0,[''],[],0,[''],0,50,3669,4.36
+156191.0,[],0,[''],[],0,[''],0,65,3463,4.784615385
+101761.0,[],0,[''],[],0,[''],0,4,216,5.0
+71823.0,[],0,[''],[],0,[''],0,78,6794,3.730769231
+80716.0,[],0,[''],[],0,[''],0,23,2036,3.130434783
+47720.0,[],0,[''],[],0,[''],0,30,4133,3.3
+141783.0,[],0,[''],[],0,[''],0,20,1689,4.4
+148311.0,[],0,[''],[],0,[''],0,10,520,4.7
+179254.0,[],0,[''],[],0,[''],0,6,682,3.0
+61441.0,[],0,[''],[],0,[''],0,934,149830,4.066381156
+9806.0,[],0,[''],[],0,[''],0,37,3945,4.378378378
+64406.0,[],0,[''],[],0,[''],0,4,201,5.0
+185784.0,[],0,[''],[],0,[''],0,466,60901,3.729613734
+164788.0,[],0,[''],[],0,[''],0,3,273,2.666666667
+172738.0,[],0,[''],[],0,[''],0,8,525,3.125
+46231.0,[],0,[''],[],0,[''],0,4,1112,3.25
+72023.0,[],0,[''],[],0,[''],0,98,12006,3.510204082
+120552.0,[],0,[''],[],0,[''],0,3,213,3.666666667
+123263.0,[],0,[''],[],0,[''],0,4,162,2.75
+109667.0,[],0,[''],[],0,[''],0,30,4590,3.0333333330000003
+19447.0,[],0,[''],[],0,[''],0,60,5691,4.15
+118266.0,[],0,[''],[],0,[''],0,184,26648,3.8206521739999997
+65190.0,[],0,[''],[],0,[''],0,416,35227,4.120192308
+94229.0,[],0,[''],[],0,[''],0,50,4125,3.54
+6535.0,[],0,[''],[],0,[''],0,3,436,3.333333333
+146232.0,[],0,[''],[],0,[''],0,158,13515,4.158227848
+183256.0,[],0,[''],[],0,[''],0,59,5218,2.644067797
+64807.0,[],0,[''],[],0,[''],0,28,1919,4.8928571430000005
+158693.0,[],0,[''],[],0,[''],0,20,1707,3.85
+151101.0,[],0,[''],[],0,[''],0,5,324,3.0
+172909.0,[],0,[''],[],0,[''],0,11,1136,4.6363636360000005
+135999.0,[],0,[''],[],0,[''],0,54,4858,4.37037037
+72676.0,[],0,[''],[],0,[''],0,148,21720,4.074324324
+23929.0,[],0,[''],[],0,[''],0,22,2590,3.727272727
+120269.0,[],0,[''],[],0,[''],0,161,22319,3.01242236
+65273.0,[],0,[''],[],0,[''],0,124,15415,3.653225806
+173033.0,[],0,[''],[],0,[''],0,13,807,4.153846154
+186218.0,[],0,[''],[],0,[''],0,43,2929,4.860465116
+129504.0,[],0,[''],[],0,[''],0,209,18097,4.583732057
+79475.0,[],0,[''],[],0,[''],0,795,102175,3.272955975
+164091.0,[],0,[''],[],0,[''],0,33,6647,4.393939393999999
+190444.0,[],0,[''],[],0,[''],0,17,2123,4.470588235
+41230.0,[],0,[''],[],0,[''],0,93,15784,1.935483871
+123513.0,[],0,[''],[],0,[''],0,47,6921,2.872340426
+34028.0,[],0,[''],[],0,[''],0,72,8155,4.097222222
+39374.0,[],0,[''],[],0,[''],0,14,1379,3.642857143
+90683.0,[],0,[''],[],0,[''],0,10,1393,3.1
+16510.0,[],0,[''],[],0,[''],0,41,5966,3.7317073169999997
+164841.0,[],0,[''],[],0,[''],0,14,1214,2.214285714
+82207.0,[],0,[''],[],0,[''],0,7,414,4.0
+96204.0,[],0,[''],[],0,[''],0,8,723,4.375
+167273.0,[],0,[''],[],0,[''],0,8,933,2.75
+61654.0,[],0,[''],[],0,[''],0,146,14465,3.232876712
+27256.0,[],0,[''],[],0,[''],0,116,10262,4.387931034
+137396.0,[],0,[''],[],0,[''],0,6,262,4.666666667
+42703.0,[],0,[''],[],0,[''],0,77,13770,3.571428571
+34263.0,[],0,[''],[],0,[''],0,17,2567,2.764705882
+69626.0,[],0,[''],[],0,[''],0,6,526,4.333333333
+111469.0,[],0,[''],[],0,[''],0,12,1188,3.833333333
+118150.0,[],0,[''],[],0,[''],0,30,6337,3.7
+116109.0,[],0,[''],[],0,[''],0,10,1427,2.1
+25681.0,[],0,[''],[],0,[''],0,6,933,3.666666667
+159709.0,[],0,[''],[],0,[''],0,15,1122,3.4
+168081.0,[],0,[''],[],0,[''],0,986,153816,4.096348884
+24523.0,[],0,[''],[],0,[''],0,4,141,4.5
+25698.0,[],0,[''],[],0,[''],0,5,237,3.6
+38525.0,[],0,[''],[],0,[''],0,51,4912,4.058823529
+143931.0,[],0,[''],[],0,[''],0,5,288,4.2
+160250.0,[],0,[''],[],0,[''],0,14,947,3.214285714
+42696.0,[],0,[''],[],0,[''],0,31,3163,3.35483871
+54264.0,[],0,[''],[],0,[''],0,11,1045,4.090909091
+2253.0,[],0,[''],[],0,[''],0,149,17077,4.362416107
+89917.0,[],0,[''],[],0,[''],0,9,636,4.222222222
+74635.0,[],0,[''],[],0,[''],0,18,1111,3.222222222
+110432.0,[],0,[''],[],0,[''],0,39,2353,3.897435897
+168310.0,[],0,[''],[],0,[''],0,7,1156,2.4285714290000002
+74309.0,[],0,[''],[],0,[''],0,19,2258,3.842105263
+56494.0,[],0,[''],[],0,[''],0,21,2940,3.380952381
+171262.0,[],0,[''],[],0,[''],0,14,2204,3.928571429
+140127.0,[],0,[''],[],0,[''],0,4,409,5.0
+48728.0,[],0,[''],[],0,[''],0,6,1005,2.833333333
+113244.0,[],0,[''],[],0,[''],0,75,8332,4.266666667
+37354.0,[],0,[''],[],0,[''],0,176,20270,3.8409090910000003
+109976.0,[],0,[''],[],0,[''],0,93,14234,3.52688172
+22493.0,[],0,[''],[],0,[''],0,12,1045,2.416666667
+142101.0,[],0,[''],[],0,[''],0,20,2489,5.0
+131045.0,[],0,[''],[],0,[''],0,6,430,4.333333333
+104008.0,[],0,[''],[],0,[''],0,7,465,3.857142857
+99766.0,[],0,[''],[],0,[''],0,47,4303,2.829787234
+177709.0,[],0,[''],[],0,[''],0,12,2464,2.916666667
+129127.0,[],0,[''],[],0,[''],0,7,473,3.428571429
+135893.0,[],0,[''],[],0,[''],0,48,5996,3.479166667
+3244.0,[],0,[''],[],0,[''],0,28,3190,3.607142857
+90468.0,[],0,[''],[],0,[''],0,107,9815,2.23364486
+87301.0,[],0,[''],[],0,[''],0,167,18807,2.6167664669999997
+50032.0,[],0,[''],[],0,[''],0,8,854,3.25
+66684.0,[],0,[''],[],0,[''],0,105,10134,4.152380952
+1077.0,[],0,[''],[],0,[''],0,175,13893,4.291428571
+26125.0,[],0,[''],[],0,[''],0,15,1154,3.666666667
+116414.0,[],0,[''],[],0,[''],0,16,1318,2.6875
+8964.0,[],0,[''],[],0,[''],0,3,556,4.0
+152492.0,[],0,[''],[],0,[''],0,3,136,5.0
+60217.0,[],0,[''],[],0,[''],0,7,386,5.0
+177741.0,[],0,[''],[],0,[''],0,52,4799,3.942307692
+38443.0,[],0,[''],[],0,[''],0,23,2848,3.217391304
+35758.0,[],0,[''],[],0,[''],0,103,12818,2.640776699
+132187.0,[],0,[''],[],0,[''],0,10,850,3.4
+91868.0,[],0,[''],[],0,[''],0,110,17153,3.890909091
+182353.0,[],0,[''],[],0,[''],0,25,2372,4.56
+102117.0,[],0,[''],[],0,[''],0,31,5781,3.483870968
+17165.0,[],0,[''],[],0,[''],0,5,861,3.8
+158272.0,[],0,[''],[],0,[''],0,20,2595,3.35
+169391.0,[],0,[''],[],0,[''],0,7,684,2.714285714
+75024.0,[],0,[''],[],0,[''],0,18,1201,3.4444444439999997
+186462.0,[],0,[''],[],0,[''],0,8,1269,3.0
+94966.0,[],0,[''],[],0,[''],0,6,543,3.0
+58347.0,[],0,[''],[],0,[''],0,26,2136,4.461538462
+117972.0,[],0,[''],[],0,[''],0,172,16983,4.023255814
+13479.0,[],0,[''],[],0,[''],0,14,1927,3.214285714
+10083.0,[],0,[''],[],0,[''],0,37,4587,3.5405405410000004
+9560.0,[],0,[''],[],0,[''],0,56,4819,2.767857143
+23827.0,[],0,[''],[],0,[''],0,27,2804,4.407407407
+47889.0,[],0,[''],[],0,[''],0,58,5521,4.931034483
+80812.0,[],0,[''],[],0,[''],0,14,1223,3.571428571
+22595.0,[],0,[''],[],0,[''],0,40,3901,3.425
+39842.0,[],0,[''],[],0,[''],0,7,453,4.0
+10323.0,[],0,[''],[],0,[''],0,6,307,5.0
+187479.0,[],0,[''],[],0,[''],0,10,1313,3.6
+144910.0,[],0,[''],[],0,[''],0,4,258,3.0
+174336.0,[],0,[''],[],0,[''],0,41,3189,2.7317073169999997
+130228.0,[],0,[''],[],0,[''],0,62,3993,3.64516129
+181268.0,[],0,[''],[],0,[''],0,70,5317,4.342857143
+137601.0,[],0,[''],[],0,[''],0,12,882,4.583333333
+64828.0,[],0,[''],[],0,[''],0,132,11452,3.1060606060000002
+45072.0,[],0,[''],[],0,[''],0,5,661,4.0
+186202.0,[],0,[''],[],0,[''],0,64,7902,4.4375
+161133.0,[],0,[''],[],0,[''],0,3,176,4.333333333
+139373.0,[],0,[''],[],0,[''],0,365,52850,4.594520548
+13883.0,[],0,[''],[],0,[''],0,27,3629,3.185185185
+126841.0,[],0,[''],[],0,[''],0,4,336,3.0
+145603.0,[],0,[''],[],0,[''],0,12,1208,2.75
+67600.0,[],0,[''],[],0,[''],0,315,51171,4.1111111110000005
+49115.0,[],0,[''],[],0,[''],0,49,3761,4.081632653
+60688.0,[],0,[''],[],0,[''],0,15,1524,2.6
+32602.0,[],0,[''],[],0,[''],0,10,1159,3.6
+166169.0,[],0,[''],[],0,[''],0,3,262,3.333333333
+73226.0,[],0,[''],[],0,[''],0,112,14254,3.803571429
+87596.0,[],0,[''],[],0,[''],0,36,5336,2.666666667
+144870.0,[],0,[''],[],0,[''],0,30,1979,4.1
+60124.0,[],0,[''],[],0,[''],0,34,5096,2.5
+155835.0,[],0,[''],[],0,[''],0,387,30414,3.878552972
+162586.0,[],0,[''],[],0,[''],0,64,6531,4.421875
+37584.0,[],0,[''],[],0,[''],0,105,12214,4.742857143
+100646.0,[],0,[''],[],0,[''],0,17,567,4.705882353
+49523.0,[],0,[''],[],0,[''],0,11,1739,3.545454545
+172855.0,[],0,[''],[],0,[''],0,3,408,2.666666667
+30402.0,[],0,[''],[],0,[''],0,3,119,4.333333333
+83123.0,[],0,[''],[],0,[''],0,480,45623,3.695833333
+159863.0,[],0,[''],[],0,[''],0,34,2370,4.147058824
+146577.0,[],0,[''],[],0,[''],0,21,3014,3.428571429
+77813.0,[],0,[''],[],0,[''],0,3,277,4.0
+21972.0,[],0,[''],[],0,[''],0,18,2628,4.0
+172980.0,[],0,[''],[],0,[''],0,16,1353,1.5625
+166359.0,[],0,[''],[],0,[''],0,23,842,4.565217391
+187796.0,[],0,[''],[],0,[''],0,29,2297,4.034482758999999
+176753.0,[],0,[''],[],0,[''],0,20,1251,3.55
+9558.0,[],0,[''],[],0,[''],0,9,681,4.555555556
+151060.0,[],0,[''],[],0,[''],0,28,1694,3.714285714
+48464.0,[],0,[''],[],0,[''],0,5,403,3.4
+4333.0,[],0,[''],[],0,[''],0,4,212,5.0
+165783.0,[],0,[''],[],0,[''],0,8,444,3.0
+175344.0,[],0,[''],[],0,[''],0,27,2892,5.0
+107644.0,[],0,[''],[],0,[''],0,38,4257,3.710526316
+24436.0,[],0,[''],[],0,[''],0,3,122,3.333333333
+159520.0,[],0,[''],[],0,[''],0,38,3151,4.1315789469999995
+56879.0,[],0,[''],[],0,[''],0,7,2190,3.142857143
+147880.0,[],0,[''],[],0,[''],0,15,1923,3.266666667
+18549.0,[],0,[''],[],0,[''],0,7,428,4.285714286
+51743.0,[],0,[''],[],0,[''],0,3,230,2.0
+5185.0,[],0,[''],[],0,[''],0,104,8980,2.9038461539999996
+15696.0,[],0,[''],[],0,[''],0,13,572,3.1538461539999996
+44182.0,[],0,[''],[],0,[''],0,24,3087,3.666666667
+72013.0,[],0,[''],[],0,[''],0,29,3671,4.448275862
+127902.0,[],0,[''],[],0,[''],0,7,559,3.571428571
+191377.0,[],0,[''],[],0,[''],0,9,1264,3.5555555560000003
+102535.0,[],0,[''],[],0,[''],0,243,20078,3.979423868
+105071.0,[],0,[''],[],0,[''],0,12,1334,2.833333333
+138770.0,[],0,[''],[],0,[''],0,11,708,5.0
+180569.0,[],0,[''],[],0,[''],0,3,552,2.666666667
+21321.0,[],0,[''],[],0,[''],0,7,786,2.5714285709999998
+92252.0,[],0,[''],[],0,[''],0,3,470,3.333333333
+34446.0,[],0,[''],[],0,[''],0,34,3018,4.2647058819999994
+150350.0,[],0,[''],[],0,[''],0,8,760,3.0
+143022.0,[],0,[''],[],0,[''],0,30,4400,2.5
+90058.0,[],0,[''],[],0,[''],0,31,3970,4.193548387
+120188.0,[],0,[''],[],0,[''],0,4,292,3.75
+49677.0,[],0,[''],[],0,[''],0,241,23860,4.302904563999999
+50468.0,[],0,[''],[],0,[''],0,6,317,2.0
+189503.0,[],0,[''],[],0,[''],0,19,2221,3.157894737
+60691.0,[],0,[''],[],0,[''],0,3,199,3.0
+18648.0,[],0,[''],[],0,[''],0,24,1953,3.208333333
+121114.0,[],0,[''],[],0,[''],0,43,5699,2.581395349
+153699.0,[],0,[''],[],0,[''],0,9,666,3.888888889
+149873.0,[],0,[''],[],0,[''],0,227,24316,3.427312775
+104343.0,[],0,[''],[],0,[''],0,58,4553,4.034482758999999
+80168.0,[],0,[''],[],0,[''],0,21,3216,3.571428571
+14930.0,[],0,[''],[],0,[''],0,4,847,3.0
+58386.0,[],0,[''],[],0,[''],0,26,3463,3.730769231
+95612.0,[],0,[''],[],0,[''],0,10,1308,3.4
+67211.0,[],0,[''],[],0,[''],0,147,15506,3.9727891160000004
+52561.0,[],0,[''],[],0,[''],0,5,1026,5.0
+92097.0,[],0,[''],[],0,[''],0,5,394,2.2
+150179.0,[],0,[''],[],0,[''],0,39,4337,4.128205128
+190528.0,[],0,[''],[],0,[''],0,4,379,5.0
+138709.0,[],0,[''],[],0,[''],0,14,1175,3.285714286
+192547.0,[],0,[''],[],0,[''],0,1197,133816,3.552213868
+57131.0,[],0,[''],[],0,[''],0,36,8904,2.111111111
+44365.0,[],0,[''],[],0,[''],0,3,395,4.333333333
+149383.0,[],0,[''],[],0,[''],0,5,760,1.8
+180228.0,[],0,[''],[],0,[''],0,7,707,3.0
+189018.0,[],0,[''],[],0,[''],0,9,632,4.555555556
+36216.0,[],0,[''],[],0,[''],0,195,20167,3.620512821
+181599.0,[],0,[''],[],0,[''],0,9,426,2.555555556
+178428.0,[],0,[''],[],0,[''],0,265,41445,3.475471698
+145270.0,[],0,[''],[],0,[''],0,38,2387,4.815789474
+29977.0,[],0,[''],[],0,[''],0,5,401,4.4
+191515.0,[],0,[''],[],0,[''],0,3,237,5.0
+188352.0,[],0,[''],[],0,[''],0,21,1995,3.80952381
+145030.0,[],0,[''],[],0,[''],0,6,748,2.833333333
+113526.0,[],0,[''],[],0,[''],0,25,2635,3.16
+79854.0,[],0,[''],[],0,[''],0,3,298,4.666666667
+87650.0,[],0,[''],[],0,[''],0,3,198,4.666666667
+11250.0,[],0,[''],[],0,[''],0,14,3037,3.785714286
+63838.0,[],0,[''],[],0,[''],0,8,810,3.375
+29618.0,[],0,[''],[],0,[''],0,6,300,3.0
+169759.0,[],0,[''],[],0,[''],0,44,3788,4.295454545
+175053.0,[],0,[''],[],0,[''],0,5,485,3.2
+98471.0,[],0,[''],[],0,[''],0,18,1474,4.222222222
+181507.0,[],0,[''],[],0,[''],0,20,2473,3.6
+88747.0,[],0,[''],[],0,[''],0,4,153,4.25
+15810.0,[],0,[''],[],0,[''],0,277,18780,4.407942238
+15125.0,[],0,[''],[],0,[''],0,7,493,2.285714286
+110104.0,[],0,[''],[],0,[''],0,47,5403,4.553191489
+44658.0,[],0,[''],[],0,[''],0,11,911,3.8181818180000002
+9152.0,[],0,[''],[],0,[''],0,7,572,3.0
+127877.0,[],0,[''],[],0,[''],0,11,826,3.545454545
+23314.0,[],0,[''],[],0,[''],0,233,24461,3.519313305
+43001.0,[],0,[''],[],0,[''],0,155,15022,4.587096774
+81619.0,[],0,[''],[],0,[''],0,17,1674,3.529411765
+84876.0,[],0,[''],[],0,[''],0,5,438,2.6
+97739.0,[],0,[''],[],0,[''],0,29,4178,3.379310345
+125904.0,[],0,[''],[],0,[''],0,757,107211,3.723910172
+26698.0,[],0,[''],[],0,[''],0,4,119,2.0
+72778.0,[],0,[''],[],0,[''],0,3,337,1.0
+66605.0,[],0,[''],[],0,[''],0,42,7344,3.238095238
+70764.0,[],0,[''],[],0,[''],0,63,5337,3.3015873019999997
+94272.0,[],0,[''],[],0,[''],0,29,2559,3.827586207
+189186.0,[],0,[''],[],0,[''],0,25,2070,3.12
+82233.0,[],0,[''],[],0,[''],0,499,62502,4.168336673
+177897.0,[],0,[''],[],0,[''],0,4,402,4.75
+20365.0,[],0,[''],[],0,[''],0,6,975,4.0
+122000.0,[],0,[''],[],0,[''],0,3,795,4.333333333
+143178.0,[],0,[''],[],0,[''],0,28,1700,3.142857143
+157078.0,[],0,[''],[],0,[''],0,191,19736,2.963350785
+142556.0,[],0,[''],[],0,[''],0,9,928,2.111111111
+130528.0,[],0,[''],[],0,[''],0,23,1794,3.260869565
+172318.0,[],0,[''],[],0,[''],0,243,26221,3.580246914
+76613.0,[],0,[''],[],0,[''],0,53,4414,3.811320755
+125290.0,[],0,[''],[],0,[''],0,335,45003,3.8059701489999997
+74656.0,[],0,[''],[],0,[''],0,14,1053,3.071428571
+13941.0,[],0,[''],[],0,[''],0,31,3429,3.516129032
+188374.0,[],0,[''],[],0,[''],0,31,3420,4.0
+29061.0,[],0,[''],[],0,[''],0,24,2465,4.25
+39311.0,[],0,[''],[],0,[''],0,18,2079,3.4444444439999997
+131725.0,[],0,[''],[],0,[''],0,410,55205,3.534146341
+126987.0,[],0,[''],[],0,[''],0,11,957,3.272727273
+132871.0,[],0,[''],[],0,[''],0,181,27692,3.254143646
+83806.0,[],0,[''],[],0,[''],0,3,380,5.0
+35921.0,[],0,[''],[],0,[''],0,5,866,4.2
+187126.0,[],0,[''],[],0,[''],0,91,13340,3.802197802
+100351.0,[],0,[''],[],0,[''],0,14,1391,3.785714286
+15992.0,[],0,[''],[],0,[''],0,481,65741,3.5675675680000003
+88844.0,[],0,[''],[],0,[''],0,24,2625,3.666666667
+113684.0,[],0,[''],[],0,[''],0,6,532,3.0
+115525.0,[],0,[''],[],0,[''],0,22,2930,3.1818181819999998
+189740.0,[],0,[''],[],0,[''],0,14,1545,3.571428571
+149708.0,[],0,[''],[],0,[''],0,150,15128,3.16
+72765.0,[],0,[''],[],0,[''],0,19,1780,3.263157895
+75372.0,[],0,[''],[],0,[''],0,72,5157,4.208333333
+112167.0,[],0,[''],[],0,[''],0,14,1711,3.357142857
+75646.0,[],0,[''],[],0,[''],0,4,312,3.0
+32321.0,[],0,[''],[],0,[''],0,49,3842,4.244897958999999
+3726.0,[],0,[''],[],0,[''],0,10,1114,1.4
+104540.0,[],0,[''],[],0,[''],0,35,1865,4.571428571
+77793.0,[],0,[''],[],0,[''],0,105,10181,3.8285714289999997
+169987.0,[],0,[''],[],0,[''],0,109,9952,4.220183486
+59279.0,[],0,[''],[],0,[''],0,6,653,1.8333333330000001
+31512.0,[],0,[''],[],0,[''],0,170,21612,2.717647059
+22596.0,[],0,[''],[],0,[''],0,6,1126,3.833333333
+115629.0,[],0,[''],[],0,[''],0,17,2644,3.6470588239999997
+27983.0,[],0,[''],[],0,[''],0,6,387,3.333333333
+68655.0,[],0,[''],[],0,[''],0,3,193,5.0
+189665.0,[],0,[''],[],0,[''],0,499,64462,4.110220441
+138118.0,[],0,[''],[],0,[''],0,25,1605,5.0
+181302.0,[],0,[''],[],0,[''],0,14,1095,4.285714286
+150121.0,[],0,[''],[],0,[''],0,24,3397,3.25
+105716.0,[],0,[''],[],0,[''],0,26,2355,3.923076923
+161710.0,[],0,[''],[],0,[''],0,18,1445,4.055555556
+117648.0,[],0,[''],[],0,[''],0,168,13231,4.2976190480000005
+155279.0,[],0,[''],[],0,[''],0,87,7075,3.988505747
+112694.0,[],0,[''],[],0,[''],0,18,1783,3.666666667
+33234.0,[],0,[''],[],0,[''],0,69,5261,3.68115942
+143159.0,[],0,[''],[],0,[''],0,158,14242,4.291139241000001
+53413.0,[],0,[''],[],0,[''],0,8,764,3.75
+42664.0,[],0,[''],[],0,[''],0,40,3246,3.875
+65782.0,[],0,[''],[],0,[''],0,3,113,1.6666666669999999
+166463.0,[],0,[''],[],0,[''],0,16,1118,3.75
+79161.0,[],0,[''],[],0,[''],0,3,207,2.0
+129328.0,[],0,[''],[],0,[''],0,16,1154,3.625
+183176.0,[],0,[''],[],0,[''],0,89,9977,3.7752808989999997
+117619.0,[],0,[''],[],0,[''],0,134,16756,2.947761194
+4532.0,[],0,[''],[],0,[''],0,4,627,2.0
+66335.0,[],0,[''],[],0,[''],0,63,6469,4.714285714
+155633.0,[],0,[''],[],0,[''],0,747,93796,4.397590361000001
+110744.0,[],0,[''],[],0,[''],0,84,11623,3.678571429
+35745.0,[],0,[''],[],0,[''],0,16,1072,5.0
+32405.0,[],0,[''],[],0,[''],0,7,217,3.857142857
+140105.0,[],0,[''],[],0,[''],0,3,588,2.0
+100767.0,[],0,[''],[],0,[''],0,14,1687,4.428571429
+75879.0,[],0,[''],[],0,[''],0,7,508,3.714285714
+47685.0,[],0,[''],[],0,[''],0,4,161,3.0
+182325.0,[],0,[''],[],0,[''],0,196,23945,3.760204082
+90622.0,[],0,[''],[],0,[''],0,3,109,2.666666667
+108221.0,[],0,[''],[],0,[''],0,29,4075,3.379310345
+136754.0,[],0,[''],[],0,[''],0,463,82567,4.177105832
+29642.0,[],0,[''],[],0,[''],0,65,5658,5.0
+128533.0,[],0,[''],[],0,[''],0,103,11297,3.796116505
+140720.0,[],0,[''],[],0,[''],0,7,862,3.0
+71257.0,[],0,[''],[],0,[''],0,25,3449,2.96
+161958.0,[],0,[''],[],0,[''],0,6,1245,4.0
+183956.0,[],0,[''],[],0,[''],0,109,13995,4.752293578
+158145.0,[],0,[''],[],0,[''],0,30,2295,4.933333333
+31508.0,[],0,[''],[],0,[''],0,20,3696,3.65
+174075.0,[],0,[''],[],0,[''],0,202,23179,4.188118812
+111276.0,[],0,[''],[],0,[''],0,23,3529,3.6956521739999997
+31373.0,[],0,[''],[],0,[''],0,38,3796,4.6578947369999995
+117304.0,[],0,[''],[],0,[''],0,419,44816,4.126491647
+111956.0,[],0,[''],[],0,[''],0,39,4199,2.769230769
+58770.0,[],0,[''],[],0,[''],0,5,393,2.2
+57921.0,[],0,[''],[],0,[''],0,6,499,2.666666667
+26930.0,[],0,[''],[],0,[''],0,20,2734,3.4
+26447.0,[],0,[''],[],0,[''],0,10,650,3.9
+57369.0,[],0,[''],[],0,[''],0,4,208,4.75
+18205.0,[],0,[''],[],0,[''],0,29,2813,3.034482759
+69228.0,[],0,[''],[],0,[''],0,13,1182,3.384615385
+162212.0,[],0,[''],[],0,[''],0,197,29493,3.253807107
+24851.0,[],0,[''],[],0,[''],0,30,3074,4.066666667
+76960.0,[],0,[''],[],0,[''],0,6,396,4.833333333
+121438.0,[],0,[''],[],0,[''],0,71,7604,3.746478873
+153536.0,[],0,[''],[],0,[''],0,22,2070,4.545454545
+57213.0,[],0,[''],[],0,[''],0,3,135,4.666666667
+90360.0,[],0,[''],[],0,[''],0,198,25937,3.308080808
+138113.0,[],0,[''],[],0,[''],0,3,379,4.0
+121589.0,[],0,[''],[],0,[''],0,24,2253,3.291666667
+147469.0,[],0,[''],[],0,[''],0,9,1787,3.5555555560000003
+128282.0,[],0,[''],[],0,[''],0,15,1716,3.0
+25135.0,[],0,[''],[],0,[''],0,223,36450,2.426008969
+104188.0,[],0,[''],[],0,[''],0,6,1106,4.333333333
+167083.0,[],0,[''],[],0,[''],0,7,565,2.4285714290000002
+113134.0,[],0,[''],[],0,[''],0,4,188,4.5
+167247.0,[],0,[''],[],0,[''],0,15,1974,3.066666667
+25880.0,[],0,[''],[],0,[''],0,5,508,4.4
+139326.0,[],0,[''],[],0,[''],0,6,492,3.166666667
+168812.0,[],0,[''],[],0,[''],0,36,3256,3.0555555560000003
+187968.0,[],0,[''],[],0,[''],0,8,566,3.125
+176697.0,[],0,[''],[],0,[''],0,9,804,4.222222222
+117646.0,[],0,[''],[],0,[''],0,10,1276,4.1
+171217.0,[],0,[''],[],0,[''],0,3,284,3.333333333
+157585.0,[],0,[''],[],0,[''],0,7,748,3.857142857
+175364.0,[],0,[''],[],0,[''],0,56,6404,3.75
+168597.0,[],0,[''],[],0,[''],0,3,198,3.666666667
+114071.0,[],0,[''],[],0,[''],0,8,935,4.375
+77892.0,[],0,[''],[],0,[''],0,37,3239,4.486486486
+48243.0,[],0,[''],[],0,[''],0,8,405,4.5
+166455.0,[],0,[''],[],0,[''],0,3,81,5.0
+174549.0,[],0,[''],[],0,[''],0,51,8414,1.31372549
+135153.0,[],0,[''],[],0,[''],0,282,35512,3.6453900710000005
+82338.0,[],0,[''],[],0,[''],0,368,35756,4.2826086960000005
+61020.0,[],0,[''],[],0,[''],0,3,122,5.0
+124312.0,[],0,[''],[],0,[''],0,4,142,2.75
+80557.0,[],0,[''],[],0,[''],0,9,516,4.666666667
+171071.0,[],0,[''],[],0,[''],0,48,4155,3.5625
+9432.0,[],0,[''],[],0,[''],0,1113,158954,4.334231806
+192530.0,[],0,[''],[],0,[''],0,180,11399,4.583333333
+108811.0,[],0,[''],[],0,[''],0,12,1492,2.666666667
+11153.0,[],0,[''],[],0,[''],0,40,5494,3.025
+127879.0,[],0,[''],[],0,[''],0,5,643,3.6
+31073.0,[],0,[''],[],0,[''],0,3,563,2.333333333
+100067.0,[],0,[''],[],0,[''],0,36,3918,3.138888889
+454.0,[],0,[''],[],0,[''],0,36,7569,2.416666667
+117692.0,[],0,[''],[],0,[''],0,3,136,4.0
+162303.0,[],0,[''],[],0,[''],0,48,5182,3.645833333
+86983.0,[],0,[''],[],0,[''],0,10,1862,3.6
+17393.0,[],0,[''],[],0,[''],0,7,650,3.142857143
+151233.0,[],0,[''],[],0,[''],0,24,2556,4.333333333
+68440.0,[],0,[''],[],0,[''],0,17,1127,3.2941176469999998
+131523.0,[],0,[''],[],0,[''],0,14,1337,3.928571429
+42637.0,[],0,[''],[],0,[''],0,3,262,4.0
+93402.0,[],0,[''],[],0,[''],0,12,1646,4.25
+10587.0,[],0,[''],[],0,[''],0,12,1210,3.166666667
+146242.0,[],0,[''],[],0,[''],0,8,491,3.625
+157824.0,[],0,[''],[],0,[''],0,45,4269,3.755555556
+131343.0,[],0,[''],[],0,[''],0,5,485,3.6
+86895.0,[],0,[''],[],0,[''],0,4,464,4.5
+177062.0,[],0,[''],[],0,[''],0,6,607,2.333333333
+78550.0,[],0,[''],[],0,[''],0,42,3941,3.19047619
+69643.0,[],0,[''],[],0,[''],0,43,4307,4.046511628
+147186.0,[],0,[''],[],0,[''],0,345,25747,4.35942029
+183093.0,[],0,[''],[],0,[''],0,4,176,5.0
+127956.0,[],0,[''],[],0,[''],0,4,209,3.75
+57961.0,[],0,[''],[],0,[''],0,60,6089,3.483333333
+117574.0,[],0,[''],[],0,[''],0,11,1249,5.0
+89845.0,[],0,[''],[],0,[''],0,24,2621,2.458333333
+102970.0,[],0,[''],[],0,[''],0,13,2040,3.384615385
+74687.0,[],0,[''],[],0,[''],0,33,3483,4.818181818
+177500.0,[],0,[''],[],0,[''],0,27,1525,4.481481481
+67821.0,[],0,[''],[],0,[''],0,10,1035,1.1
+8396.0,[],0,[''],[],0,[''],0,37,2139,4.432432432
+163653.0,[],0,[''],[],0,[''],0,47,8812,3.574468085
+66393.0,[],0,[''],[],0,[''],0,352,37588,3.90625
+62044.0,[],0,[''],[],0,[''],0,6,565,3.0
+135352.0,[],0,[''],[],0,[''],0,79,8741,4.797468353999999
+134606.0,[],0,[''],[],0,[''],0,183,24811,2.972677596
+116192.0,[],0,[''],[],0,[''],0,7,232,4.285714286
+190084.0,[],0,[''],[],0,[''],0,443,63620,4.106094808
+95377.0,[],0,[''],[],0,[''],0,33,3616,2.939393939
+79662.0,[],0,[''],[],0,[''],0,34,2515,4.029411765
+107322.0,[],0,[''],[],0,[''],0,6,434,2.666666667
+168055.0,[],0,[''],[],0,[''],0,10,983,4.0
+87158.0,[],0,[''],[],0,[''],0,170,20808,3.741176471
+150627.0,[],0,[''],[],0,[''],0,9,621,4.8888888889999995
+128352.0,[],0,[''],[],0,[''],0,11,1710,2.727272727
+126348.0,[],0,[''],[],0,[''],0,12,921,4.166666667
+85583.0,[],0,[''],[],0,[''],0,12,1099,2.416666667
+141306.0,[],0,[''],[],0,[''],0,28,2682,4.1428571430000005
+39364.0,[],0,[''],[],0,[''],0,573,70653,3.254799302
+98644.0,[],0,[''],[],0,[''],0,28,2664,3.5
+96958.0,[],0,[''],[],0,[''],0,14,1140,3.714285714
+27711.0,[],0,[''],[],0,[''],0,9,798,5.0
+115220.0,[],0,[''],[],0,[''],0,10,450,4.0
+133109.0,[],0,[''],[],0,[''],0,8,380,3.25
+180680.0,[],0,[''],[],0,[''],0,54,8156,3.222222222
+71677.0,[],0,[''],[],0,[''],0,4,225,3.75
+166090.0,[],0,[''],[],0,[''],0,9,1046,2.333333333
+153416.0,[],0,[''],[],0,[''],0,3,182,2.0
+64015.0,[],0,[''],[],0,[''],0,3,185,3.333333333
+97690.0,[],0,[''],[],0,[''],0,26,2574,3.538461538
+186198.0,[],0,[''],[],0,[''],0,23,2398,3.6086956519999998
+8817.0,[],0,[''],[],0,[''],0,24,1162,3.208333333
+128446.0,[],0,[''],[],0,[''],0,18,2942,2.5
+158259.0,[],0,[''],[],0,[''],0,364,49797,3.802197802
+91185.0,[],0,[''],[],0,[''],0,4,229,1.75
+184661.0,[],0,[''],[],0,[''],0,79,5554,3.746835443
+60277.0,[],0,[''],[],0,[''],0,5,685,3.6
+70635.0,[],0,[''],[],0,[''],0,7,540,3.285714286
+122022.0,[],0,[''],[],0,[''],0,21,2393,3.0
+41838.0,[],0,[''],[],0,[''],0,25,1942,3.2
+355.0,[],0,[''],[],0,[''],0,27,2569,3.4444444439999997
+162705.0,[],0,[''],[],0,[''],0,11,1664,3.1818181819999998
+104057.0,[],0,[''],[],0,[''],0,3,524,3.0
+92130.0,[],0,[''],[],0,[''],0,40,3002,3.7
+23896.0,[],0,[''],[],0,[''],0,3,515,3.0
+50400.0,[],0,[''],[],0,[''],0,10,491,5.0
+71047.0,[],0,[''],[],0,[''],0,106,10187,2.820754717
+59695.0,[],0,[''],[],0,[''],0,12,1691,2.416666667
+131987.0,[],0,[''],[],0,[''],0,7,414,3.857142857
+61701.0,[],0,[''],[],0,[''],0,32,3058,3.5625
+147357.0,[],0,[''],[],0,[''],0,24,1682,4.125
+102325.0,[],0,[''],[],0,[''],0,3,243,1.0
+101840.0,[],0,[''],[],0,[''],0,6,374,5.0
+157327.0,[],0,[''],[],0,[''],0,27,3541,3.7037037039999996
+100060.0,[],0,[''],[],0,[''],0,9,743,4.777777778
+187305.0,[],0,[''],[],0,[''],0,5,836,1.2
+7521.0,[],0,[''],[],0,[''],0,11,925,4.909090909
+,[],0,[''],[],0,[''],0,0,0,
