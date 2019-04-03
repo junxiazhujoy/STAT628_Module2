@@ -11,7 +11,7 @@ This repository contains analysis on Yelp data. We analyse yelp data focusing on
          + *review_analysis*
              1. data_cleaning/ -- contains all codes doing review data pre-processing
              2. extract_adj/ -- contains all codes doing adjective extraction near specific item
-             3. ngrams_freq/ -- contains all codes doing single word and ngrams frequency analysis
+             3. ngrams_freq/ -- contains all codes doing single word/ngrams frequency and word cloud analysis
              4. shiny/ -- contains codes for shiny app
      + **Goal2**
          
