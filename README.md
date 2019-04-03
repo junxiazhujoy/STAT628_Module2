@@ -4,6 +4,9 @@ Thu_group6
 This repository contains analysis on Yelp data. We analyse yelp data focusing on nightlife and bars in Las Vegas. We aim to explore which factors influence ratings of reviews and furthermore give advice to owners for improving the ratings. Besides, we also construct prediction models for predicting ratings.
 
  + ***codes*** folder contains all python and r code we wrote.
+
+    Note: For tidiness of this folder we exclude all csv and png files. If you want to execute our code, please copy all the   files in *data* and *image* folder making them under same path to avoid error. Sorry for the inconvenience.
+     
      + **Goal1**
          + *attribute_analysis* 
              
