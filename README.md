@@ -18,7 +18,8 @@ This repository contains analysis on Yelp data. We analyse yelp data focusing on
          1. 1.* .py -- business data cleaning and extraction
          2. 2.* .py -- review data cleaning and extraction
          3. 3.* .py -- merge review and attritubes based on business_id
-         3. 4.* .py -- model training
+         4. 4.* .py -- model training
+         5. 5-finalpre_kaggle.py -- produce final csv used on kaggle
 
 + ***data*** folder contains all files we used and created when performing analysis.
 + ***image*** folder contains all images we produced.
