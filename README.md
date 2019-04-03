@@ -7,16 +7,16 @@ This repository contains analysis on Yelp data. We analyse yelp data focusing on
 
     Note: For tidiness of this folder we exclude all csv and png files. If you want to execute our code, please copy all the   files in *data* and *image* folder making them under same path to avoid error. Sorry for the inconvenience.
      
-     + **Goal1**
-         + *attribute_analysis* 
+     + **Goal1/**
+         + *attribute_analysis/* 
              
              -- contains all codes doing attributes analysis such as tree methods and ANOVA
-         + *review_analysis*
+         + *review_analysis/*
              1. data_cleaning/ -- contains all codes doing review data pre-processing
              2. extract_adj/ -- contains all codes doing adjective extraction near specific item
              3. ngrams_freq/ -- contains all codes doing single word/ngrams frequency and word cloud analysis
              4. shiny/ -- contains codes for shiny app
-     + **Goal2**
+     + **Goal2/**
          
          1. 1.* .py -- business data cleaning and extraction
          2. 2.* .py -- review data cleaning and extraction
