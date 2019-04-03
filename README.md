@@ -26,6 +26,6 @@ This repository contains analysis on Yelp data. We analyse yelp data focusing on
 + ***Report*** folder contains Jupyter Notebook summery of our results.
 
 Team members:
-+ Yingjing Jiang  (@wisc.edu)
-+ Yiqun Jiang  (@wisc.edu)  
++ Yingjing Jiang  (yjiang258@wisc.edu)
++ Yiqun Jiang  (yjiang257@wisc.edu)  
 + Junxia Zhu  (jzhu334@wisc.edu)
