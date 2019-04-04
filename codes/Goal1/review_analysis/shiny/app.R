@@ -173,7 +173,7 @@ server <- function(input, output) {
       topwords=unlist(strsplit(x=topwords, split=",|'| "))
       topwords=topwords[nchar(topwords)!=0]
       if(length(topwords)>0){
-        cat("neative words: ")
+        cat("negative words: ")
         cat(topwords,sep=", ")
       }else cat("negative words: no words")
     }
